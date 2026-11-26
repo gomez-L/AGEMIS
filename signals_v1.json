@@ -1,0 +1,338 @@
+[
+  {
+    "domain": "technological",
+    "source_entity": "Cybersecurity Review",
+    "source_trust_level": "high",
+    "timestamp": "2026-01-10T09:00:00Z",
+    "title": "Global IT Outage Cripples Banks and Hospitals",
+    "content": "A flawed update from a dominant cybersecurity firm crashed millions of devices globally. The event halted flights and disrupted digital banking liquidity, exposing the systemic fragility of heavily concentrated tech supply chains in the financial sector."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Financial Times",
+    "source_trust_level": "high",
+    "timestamp": "2026-01-15T14:30:00Z",
+    "title": "Deepfake CFO Scam Steals $25M",
+    "content": "A multinational firm in Hong Kong lost $25M after an employee was tricked by an AI deepfake video call mimicking the CFO. The event highlighted how rapid AI advancements are creating unprecedented fraud and operational risks for corporate finance."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "TechCrunch",
+    "source_trust_level": "high",
+    "timestamp": "2026-01-22T11:15:00Z",
+    "title": "Ransomware Attack Paralyzes Healthcare Payments",
+    "content": "A massive ransomware attack on Change Healthcare halted billions in insurance payments. The ensuing liquidity crisis for healthcare providers demonstrated how cyber vulnerabilities in third-party tech vendors can cascade into direct economic shocks."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Reuters",
+    "source_trust_level": "high",
+    "timestamp": "2026-02-05T08:45:00Z",
+    "title": "Panama Canal Cuts Transits Due to Severe Drought",
+    "content": "Record-low water levels tied to extreme climate anomalies forced the Panama Canal to cut daily shipping transits by 40%. The resulting supply chain bottlenecks heavily disrupted global trade, reigniting fears of sticky inflation."
+  },
+  {
+    "domain": "political",
+    "source_entity": "BBC News",
+    "source_trust_level": "high",
+    "timestamp": "2026-02-12T16:20:00Z",
+    "title": "Red Sea Shipping Attacks Reroute Global Trade",
+    "content": "Continuous geopolitical conflict and drone attacks in the Red Sea forced major shipping companies to reroute around Africa. This compounded the Panama Canal delays, causing a massive spike in freight costs and global inflation."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Bloomberg",
+    "source_trust_level": "high",
+    "timestamp": "2026-02-20T10:00:00Z",
+    "title": "Japan Ends Era of Negative Interest Rates",
+    "content": "Driven by rising global inflation and supply chain shocks, the Bank of Japan raised rates for the first time in 17 years. The move threatened to reverse decades of cheap liquidity, sending shockwaves through global bond markets."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Wall Street Journal",
+    "source_trust_level": "high",
+    "timestamp": "2026-03-01T13:45:00Z",
+    "title": "Regional Banks Plunge on CRE Debt Fears",
+    "content": "Fears of mass defaults in Commercial Real Estate (CRE), worsened by sustained high interest rates and inflation, caused regional bank stocks to plummet. This raised immediate concerns over financial stability and bank liquidity."
+  },
+  {
+    "domain": "systemic",
+    "source_entity": "CNBC",
+    "source_trust_level": "high",
+    "timestamp": "2026-03-10T09:30:00Z",
+    "title": "Social Media Fuels Rapid Bank Run",
+    "content": "Echoing the SVB collapse, rumors of CRE exposure spread virally on social media, triggering a rapid deposit flight from a mid-sized regional bank. The event exposed the dangerous intersection of digital banking speed and psychological contagion."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "Wired",
+    "source_trust_level": "high",
+    "timestamp": "2026-03-15T23:10:00Z",
+    "title": "Nvidia Becomes Most Valuable Global Company",
+    "content": "Driven by insatiable demand for AI hardware, Nvidia's market cap surpassed $3 Trillion. This extreme market concentration linked global stock market stability almost entirely to the continued boom in AI semiconductor sales."
+  },
+  {
+    "domain": "political",
+    "source_entity": "New York Times",
+    "source_trust_level": "high",
+    "timestamp": "2026-03-22T14:00:00Z",
+    "title": "US Bans Advanced AI Chip Exports to China",
+    "content": "In a major geopolitical escalation, the US blocked the export of advanced AI semiconductors to China. The tech decoupling threatened global supply chains and forced massive investments into sovereign chip manufacturing."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Al Jazeera",
+    "source_trust_level": "high",
+    "timestamp": "2026-04-05T08:00:00Z",
+    "title": "China Restricts Critical Mineral Exports",
+    "content": "Retaliating against chip bans, China restricted the export of Gallium, Germanium, and rare earths. This resource mercantilism directly threatened Western AI hardware production and green energy transitions."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Nature",
+    "source_trust_level": "high",
+    "timestamp": "2026-04-12T12:00:00Z",
+    "title": "AI Datacenter Water Consumption Spikes 34%",
+    "content": "Reports revealed that generative AI model training caused a 34% surge in corporate water consumption. This environmental strain directly conflicted with regional droughts, prompting local governments to threaten datacenter shutdowns."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Scientific American",
+    "source_trust_level": "high",
+    "timestamp": "2026-04-18T07:30:00Z",
+    "title": "Record Ocean Temperatures Disrupt Weather Patterns",
+    "content": "Global ocean heat hit unprecedented record highs, accelerating extreme weather events. The climate volatility directly worsened the Panama Canal drought and threatened global agricultural yields, fueling further inflation."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "MIT Tech Review",
+    "source_trust_level": "high",
+    "timestamp": "2026-04-25T15:45:00Z",
+    "title": "AI Discovers Novel Solid-State Battery Material",
+    "content": "An AI model, running on massive compute clusters, screened millions of compounds to discover a new battery material. While highly energy-intensive to compute, the discovery promised to reduce global reliance on contested lithium supplies."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Mining.com",
+    "source_trust_level": "medium",
+    "timestamp": "2026-05-02T09:00:00Z",
+    "title": "Massive Lithium Deposit Found in US Caldera",
+    "content": "Geologists confirmed the McDermitt Caldera holds the world's largest lithium deposit. The discovery promised to reshape geopolitical energy supply chains and reduce Western dependency on restricted mineral exports."
+  },
+  {
+    "domain": "political",
+    "source_entity": "European Commission",
+    "source_trust_level": "high",
+    "timestamp": "2026-05-10T11:20:00Z",
+    "title": "EU AI Act Becomes Enforceable Law",
+    "content": "The EU implemented the world's first comprehensive AI Act, placing strict systemic risk regulations on foundational models. The heavy compliance burden forced tech giants to geofence their AI deployments, fracturing the global internet."
+  },
+  {
+    "domain": "systemic",
+    "source_entity": "Federal Reserve",
+    "source_trust_level": "high",
+    "timestamp": "2026-05-18T16:00:00Z",
+    "title": "Basel III Endgame Capital Rules Finalized",
+    "content": "Regulators finalized strict new capital requirements for large banks to prevent SVB-style collapses. However, banks warned the rules would severely constrain lending liquidity just as commercial real estate needed refinancing."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "CoinDesk",
+    "source_trust_level": "medium",
+    "timestamp": "2026-05-25T10:00:00Z",
+    "title": "SEC Approves Spot Crypto ETFs",
+    "content": "Following massive institutional pressure, the SEC approved spot Bitcoin ETFs, instantly deeply integrating highly volatile crypto assets into traditional Wall Street retirement funds and banking balance sheets."
+  },
+  {
+    "domain": "infrastructure",
+    "source_entity": "Associated Press",
+    "source_trust_level": "high",
+    "timestamp": "2026-06-02T14:15:00Z",
+    "title": "Major Port Bridge Collapse Severs Auto Supply Chain",
+    "content": "A cargo ship power failure led to the collapse of a critical bridge, entirely blocking a major US port. The infrastructure failure severely disrupted auto and coal supply chains, adding another vector to the global logistics crisis."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Europol",
+    "source_trust_level": "high",
+    "timestamp": "2026-06-10T12:00:00Z",
+    "title": "Global Police Takedown of Major Ransomware Gang",
+    "content": "An unprecedented international law enforcement operation dismantled the world's most prolific ransomware syndicate. The raid revealed deep ties between cyber-extortion rings and state-sponsored attacks on critical financial infrastructure."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Financial Times",
+    "source_trust_level": "high",
+    "timestamp": "2023-03-10T10:00:00Z",
+    "title": "Silicon Valley Bank Collapse Triggers Liquidity Crisis",
+    "content": "A classic bank run fueled by digital communications forced US regulators to shut down Silicon Valley Bank. High interest rates had severely depreciated SVB's treasury portfolio, triggering severe deposit flights and systemic risk concerns across mid-sized banks."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Wall Street Journal",
+    "source_trust_level": "high",
+    "timestamp": "2023-03-19T18:30:00Z",
+    "title": "Credit Suisse Rescued by UBS in Historic Merger",
+    "content": "Following severe bank run panic and decades of operational issues, Swiss authorities brokered a forced acquisition of Credit Suisse by UBS. The merger prevented a potential European banking systemic collapse, but heavily consolidated systemic risk."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Reuters",
+    "source_trust_level": "high",
+    "timestamp": "2023-08-01T21:15:00Z",
+    "title": "Fitch Downgrades US Sovereign Credit Rating",
+    "content": "Fitch downgraded the United States' long-term credit rating from AAA to AA+, citing rising government debt burden and political polarization surrounding fiscal negotiations. The downgrade shook global bond yields and sovereign asset trust."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Bloomberg",
+    "source_trust_level": "high",
+    "timestamp": "2024-01-29T09:30:00Z",
+    "title": "Evergrande Liquidation Order Shocks Real Estate",
+    "content": "A Hong Kong court ordered the liquidation of Chinese property giant Evergrande after failures to restructure massive debt. The default crippled domestic developer liquidity and sparked global worries about real estate spillovers and bank fragility."
+  },
+  {
+    "domain": "political",
+    "source_entity": "SEC Press Release",
+    "source_trust_level": "high",
+    "timestamp": "2023-06-05T13:45:00Z",
+    "title": "SEC Files Lawsuit Against Major Crypto Exchange Binance",
+    "content": "The SEC sued Binance and its founder for operating an unregistered exchange, offering unregistered securities, and mismanaging customer assets. The high-profile regulatory crackdown severely restricted cryptocurrency market liquidity and institutional trust."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "CoinDesk",
+    "source_trust_level": "high",
+    "timestamp": "2022-11-11T16:00:00Z",
+    "title": "FTX Exchange Insolvency Triggers Crypto Contagion",
+    "content": "The sudden collapse of FTX, a dominant cryptocurrency exchange, revealed multi-billion dollar fraud and balance sheet holes. The crisis wiped out billions in retail assets, triggered direct traditional bank run contagion, and froze digital liquidity."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "Wired",
+    "source_trust_level": "high",
+    "timestamp": "2023-11-09T14:00:00Z",
+    "title": "Ransomware Attack on ICBC Halts US Treasury Settlements",
+    "content": "A ransomware attack on the Industrial and Commercial Bank of China (ICBC) disrupted the settlement of US Treasury trades. The incident exposed how local infrastructure failures at a major foreign bank can lock up critical market payment liquidity."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Al Jazeera",
+    "source_trust_level": "high",
+    "timestamp": "2023-10-20T10:00:00Z",
+    "title": "ASML Export Restrictions on Advanced Lithography Machines",
+    "content": "The Dutch government, under US diplomatic pressure, restricted ASML from exporting highly advanced deep ultraviolet lithography systems to China. The geopolitical fracture accelerated structural tech-decoupling and advanced semiconductor shortages."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Texas Tribune",
+    "source_trust_level": "medium",
+    "timestamp": "2024-07-15T15:20:00Z",
+    "title": "Extreme Weather Overloads Texas Power Grid from Datacenter Spike",
+    "content": "A severe heatwave combined with extreme power consumption by generative AI data centers pushed the Texas electrical grid to near collapse. The incident forced operational capacity limits, showcasing how AI scaling directly strains physical infrastructure resilience."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Wall Street Journal",
+    "source_trust_level": "high",
+    "timestamp": "2024-04-10T12:30:00Z",
+    "title": "US Consumer Price Index Rebounds Forcing Rate Increases",
+    "content": "Rising logistics bottlenecks, Red Sea shipping reroutes, and solid demand drove US CPI inflation back up. The inflationary pressure forced central banks to maintain interest rates higher for longer, worsening commercial real estate refinancing friction."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "CNBC",
+    "source_trust_level": "high",
+    "timestamp": "2024-07-19T08:00:00Z",
+    "title": "CrowdStrike Glitch Halts London Stock Exchange Trading",
+    "content": "A faulty automatic security update from CrowdStrike corrupted millions of Windows instances globally. The resulting blue-screen failures halted the London Stock Exchange, cancelled thousands of flights, and highlighted the extreme concentration risk in IT."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Bloomberg",
+    "source_trust_level": "high",
+    "timestamp": "2023-08-21T16:45:00Z",
+    "title": "Moody's Cuts Credit Rating Outlook for Ten Regional Banks",
+    "content": "Moody's downgraded several US mid-sized lenders and placed larger banks on negative outlook, warning that high funding costs, CRE concentration, and tighter capital rules (Basel III) would pressure banking sector profitability and liquidity."
+  },
+  {
+    "domain": "political",
+    "source_entity": "South China Morning Post",
+    "source_trust_level": "high",
+    "timestamp": "2023-07-03T11:00:00Z",
+    "title": "China Retaliates with Graphite and Germanium Export Curbs",
+    "content": "Beijing introduced severe export licensing controls on crucial battery-grade Graphite and semiconductor Germanium. The trade retaliation directly targeted the Western AI hardware chip supply chain, driving high resource volatility."
+  },
+  {
+    "domain": "security",
+    "source_entity": "Associated Press",
+    "source_trust_level": "medium",
+    "timestamp": "2024-05-14T09:00:00Z",
+    "title": "Deepfake Audio of Federal Reserve Chair Triggers Selloff",
+    "content": "A sophisticated, highly realistic AI-generated deepfake audio recording of the Federal Reserve Chair claiming a major bank was insolvent leaked on social media. The incident triggered a short-lived panic run on regional bank shares."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "CoinDesk",
+    "source_trust_level": "high",
+    "timestamp": "2024-03-12T14:30:00Z",
+    "title": "Stablecoin Tether Discloses $100B in US Treasury Backing",
+    "content": "Tether reported its fiat-peg assets grew to over $100B, largely comprised of short-term US Treasury Bills. The report highlighted how stablecoins have integrated traditional sovereign debt with decentralized crypto assets, creating systemic circular risk."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Lloyd's List",
+    "source_trust_level": "high",
+    "timestamp": "2024-02-18T10:00:00Z",
+    "title": "Suez Canal Traffic Falls 66% as Red Sea Insecurity Persists",
+    "content": "Weekly shipping container transits through the Suez Canal dropped by 66% as maritime attacks forced standard shipping routes to circumnavigate Africa. The resulting delays severely constrained global industrial supply chain flow and spiked transport indices."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "FT News",
+    "source_trust_level": "high",
+    "timestamp": "2024-06-06T13:45:00Z",
+    "title": "ECB Begins Rate Cuts but Flags Commercial Property Defaults",
+    "content": "The European Central Bank delivered its first interest rate cut in five years but warned that structural challenges in Eurozone commercial real estate defaults and shadow banking credit models remained high, keeping systemic banks vulnerable."
+  },
+  {
+    "domain": "political",
+    "source_entity": "WSJ Tech",
+    "source_trust_level": "high",
+    "timestamp": "2024-01-25T15:00:00Z",
+    "title": "US FTC Launches Joint Probe of Generative AI Monopoly Ties",
+    "content": "The Federal Trade Commission launched a sweeping investigation into the multi-billion dollar strategic investments made by tech giants into AI startups. Regulators warned of rising antitrust concentration and localized supply bottlenecks."
+  },
+  {
+    "domain": "security",
+    "source_entity": "KrebsOnSecurity",
+    "source_trust_level": "high",
+    "timestamp": "2023-05-28T11:15:00Z",
+    "title": "Cybersecurity Deficiencies Exposed at Major Digital Ledger Bank",
+    "content": "A central digital asset custodian bank disclosed a severe API authorization vulnerability that briefly exposed deposit logs. While no funds were lost, the exposure sparked severe trust degradation regarding digital infrastructure integrity."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Nature Climate",
+    "source_trust_level": "high",
+    "timestamp": "2024-08-02T08:00:00Z",
+    "title": "Severe Heatwave Across Asia Triggers Global Supply Disruptions",
+    "content": "Record-shattering temperatures forced industrial power rationing in critical manufacturing sectors across China and India. The resulting shutdowns locked up physical supply chains for electronics and raw materials, compounding global logistics delays."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "Financial Times",
+    "source_trust_level": "high",
+    "timestamp": "2026-04-30T10:15:00Z",
+    "title": "AI Supply Chain Attack Infiltrates Algorithmic Trading Systems",
+    "content": "A sophisticated supply chain attack targeting widely used open-source machine learning registries compromised quantitative trading model pipelines. Several quantitative funds experienced brief flash crashes and automated trading halts, exposing the high operational risk of embedding unvetted open-source AI tools directly into systemic financial decision pipelines."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Bloomberg",
+    "source_trust_level": "high",
+    "timestamp": "2026-05-14T14:45:00Z",
+    "title": "Sovereign Debt Volatility Spikes Amid Eurozone Refinancing Fears",
+    "content": "Renewed inflationary supply-chain bottlenecks and persistent high interest rates caused a sudden spike in sovereign bond yields across highly indebted European nations. The widening spreads injected fresh liquidity pressures into regional banking balance sheets, prompting fears of credit contraction and localized financial sector instability."
+  }
+]

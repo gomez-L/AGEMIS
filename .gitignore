@@ -1,0 +1,14 @@
+.env
+.envcopy
+.venv
+__pycache__
+*.py[cod]
+.DS_Store
+.idea
+.agents
+latex
+node_modules
+# Pipeline outputs: keep only the pre-computed horizon graph and overview shown by the app
+out/*
+!out/horizon_graph.html
+!out/horizon_summary.json

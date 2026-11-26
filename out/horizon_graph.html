@@ -1,0 +1,222 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 720px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Monetary Policy Stance and Transmission", "label": "Monetary Policy Stance and\nTransmission", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Swiss Franc Safe Haven Channel", "label": "Swiss Franc Safe Haven Channel", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Global Financial Spillover Channels", "label": "Global Financial Spillover\nChannels", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Sticky Inflation and Monetary Policy", "label": "Sticky Inflation and Monetary\nPolicy", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Fiscal consolidation and debt sustainability", "label": "Fiscal consolidation and debt\nsustainability", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Central bank balance sheet and reserve management", "label": "Central bank balance sheet and\nreserve management", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Cross-border cyber incident reporting", "label": "Cross-border cyber incident\nreporting", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Digital Finance Regulatory Perimeter", "label": "Digital Finance Regulatory\nPerimeter", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Tokenised payment and settlement infrastructure", "label": "Tokenised payment and settlement\ninfrastructure", "shape": "dot", "size": 30, "title": ""}, {"color": "#bd00ff", "font": {"color": "#1f2937"}, "id": "Bank capital regulation framework", "label": "Bank capital regulation framework", "shape": "dot", "size": 24, "title": ""}, {"color": "#00d8ff", "font": {"color": "#1f2937"}, "id": "Financial sanctions compliance perimeter", "label": "Financial sanctions compliance\nperimeter", "shape": "dot", "size": 24, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Geopolitical financial infrastructure risk", "label": "Geopolitical financial\ninfrastructure risk", "shape": "dot", "size": 30, "title": ""}, {"color": "#00d8ff", "font": {"color": "#1f2937"}, "id": "Conflict induced displacement and infrastructure shock", "label": "Conflict induced displacement and\ninfrastructure shock", "shape": "dot", "size": 24, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Multilateral humanitarian access subsystem", "label": "Multilateral humanitarian access\nsubsystem", "shape": "dot", "size": 30, "title": ""}, {"color": "#00d8ff", "font": {"color": "#1f2937"}, "id": "Central bank AI adoption for supervision", "label": "Central bank AI adoption for\nsupervision", "shape": "dot", "size": 24, "title": ""}, {"color": "#00d8ff", "font": {"color": "#1f2937"}, "id": "Advanced AI diffusion beyond US leaders", "label": "Advanced AI diffusion beyond US\nleaders", "shape": "dot", "size": 24, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Equity Market Risk Compression", "label": "Equity Market Risk Compression", "shape": "dot", "size": 30, "title": ""}, {"color": "#00d8ff", "font": {"color": "#1f2937"}, "id": "Emergency economic legislation for trade policy", "label": "Emergency economic legislation for\ntrade policy", "shape": "dot", "size": 24, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Climate financial risk surveillance", "label": "Climate financial risk\nsurveillance", "shape": "dot", "size": 30, "title": ""}, {"color": "#7b2cbf", "font": {"color": "#1f2937"}, "id": "Divergent global oil demand forecasts", "label": "Divergent global oil demand\nforecasts", "shape": "dot", "size": 30, "title": ""}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Monetary Policy Stance and Transmission", "id": "Monetary Policy Stance and Transmission__Swiss Franc Safe Haven Channel__0", "label": "7", "title": "", "to": "Swiss Franc Safe Haven Channel", "value": 7}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Swiss Franc Safe Haven Channel", "id": "Swiss Franc Safe Haven Channel__Monetary Policy Stance and Transmission__1", "label": "7", "title": "", "to": "Monetary Policy Stance and Transmission", "value": 7}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Global Financial Spillover Channels", "id": "Global Financial Spillover Channels__Swiss Franc Safe Haven Channel__2", "label": "5", "title": "", "to": "Swiss Franc Safe Haven Channel", "value": 5}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Monetary Policy Stance and Transmission", "id": "Monetary Policy Stance and Transmission__Global Financial Spillover Channels__3", "label": "5", "title": "", "to": "Global Financial Spillover Channels", "value": 5}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Sticky Inflation and Monetary Policy", "id": "Sticky Inflation and Monetary Policy__Global Financial Spillover Channels__4", "label": "5", "title": "", "to": "Global Financial Spillover Channels", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Sticky Inflation and Monetary Policy", "id": "Sticky Inflation and Monetary Policy__Monetary Policy Stance and Transmission__5", "label": "8", "title": "", "to": "Monetary Policy Stance and Transmission", "value": 8}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Fiscal consolidation and debt sustainability", "id": "Fiscal consolidation and debt sustainability__Sticky Inflation and Monetary Policy__6", "label": "6", "title": "", "to": "Sticky Inflation and Monetary Policy", "value": 6}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Central bank balance sheet and reserve management", "id": "Central bank balance sheet and reserve management__Swiss Franc Safe Haven Channel__7", "label": "7", "title": "", "to": "Swiss Franc Safe Haven Channel", "value": 7}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Central bank balance sheet and reserve management", "id": "Central bank balance sheet and reserve management__Global Financial Spillover Channels__8", "label": "5", "title": "", "to": "Global Financial Spillover Channels", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Cross-border cyber incident reporting", "id": "Cross-border cyber incident reporting__Digital Finance Regulatory Perimeter__9", "label": "7", "title": "", "to": "Digital Finance Regulatory Perimeter", "value": 7}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Digital Finance Regulatory Perimeter", "id": "Digital Finance Regulatory Perimeter__Tokenised payment and settlement infrastructure__10", "label": "7", "title": "", "to": "Tokenised payment and settlement infrastructure", "value": 7}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Digital Finance Regulatory Perimeter", "id": "Digital Finance Regulatory Perimeter__Bank capital regulation framework__11", "label": "5", "title": "", "to": "Bank capital regulation framework", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Financial sanctions compliance perimeter", "id": "Financial sanctions compliance perimeter__Geopolitical financial infrastructure risk__12", "label": "7", "title": "", "to": "Geopolitical financial infrastructure risk", "value": 7}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Geopolitical financial infrastructure risk", "id": "Geopolitical financial infrastructure risk__Cross-border cyber incident reporting__13", "label": "6", "title": "", "to": "Cross-border cyber incident reporting", "value": 6}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Tokenised payment and settlement infrastructure", "id": "Tokenised payment and settlement infrastructure__Geopolitical financial infrastructure risk__14", "label": "5", "title": "", "to": "Geopolitical financial infrastructure risk", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Conflict induced displacement and infrastructure shock", "id": "Conflict induced displacement and infrastructure shock__Multilateral humanitarian access subsystem__15", "label": "6", "title": "", "to": "Multilateral humanitarian access subsystem", "value": 6}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Central bank AI adoption for supervision", "id": "Central bank AI adoption for supervision__Digital Finance Regulatory Perimeter__16", "label": "4", "title": "", "to": "Digital Finance Regulatory Perimeter", "value": 4}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Central bank AI adoption for supervision", "id": "Central bank AI adoption for supervision__Tokenised payment and settlement infrastructure__17", "label": "4", "title": "", "to": "Tokenised payment and settlement infrastructure", "value": 4}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Advanced AI diffusion beyond US leaders", "id": "Advanced AI diffusion beyond US leaders__Equity Market Risk Compression__18", "label": "4", "title": "", "to": "Equity Market Risk Compression", "value": 4}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Emergency economic legislation for trade policy", "id": "Emergency economic legislation for trade policy__Sticky Inflation and Monetary Policy__19", "label": "4", "title": "", "to": "Sticky Inflation and Monetary Policy", "value": 4}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Climate financial risk surveillance", "id": "Climate financial risk surveillance__Fiscal consolidation and debt sustainability__20", "label": "5", "title": "", "to": "Fiscal consolidation and debt sustainability", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Climate financial risk surveillance", "id": "Climate financial risk surveillance__Sticky Inflation and Monetary Policy__21", "label": "5", "title": "", "to": "Sticky Inflation and Monetary Policy", "value": 5}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Monetary Policy Stance and Transmission", "id": "Monetary Policy Stance and Transmission__Divergent global oil demand forecasts__22", "label": "5", "title": "", "to": "Divergent global oil demand forecasts", "value": 5}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Divergent global oil demand forecasts", "id": "Divergent global oil demand forecasts__Climate financial risk surveillance__23", "label": "5", "title": "", "to": "Climate financial risk surveillance", "value": 5}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Equity Market Risk Compression", "id": "Equity Market Risk Compression__Global Financial Spillover Channels__24", "label": "5", "title": "", "to": "Global Financial Spillover Channels", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Equity Market Risk Compression", "id": "Equity Market Risk Compression__Central bank balance sheet and reserve management__25", "label": "7", "title": "", "to": "Central bank balance sheet and reserve management", "value": 7}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Conflict induced displacement and infrastructure shock", "id": "Conflict induced displacement and infrastructure shock__Fiscal consolidation and debt sustainability__26", "label": "6", "title": "", "to": "Fiscal consolidation and debt sustainability", "value": 6}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Multilateral humanitarian access subsystem", "id": "Multilateral humanitarian access subsystem__Sticky Inflation and Monetary Policy__27", "label": "6", "title": "", "to": "Sticky Inflation and Monetary Policy", "value": 6}, {"arrows": "to", "color": "#c58a18", "dashes": true, "from": "Central bank AI adoption for supervision", "id": "Central bank AI adoption for supervision__Climate financial risk surveillance__28", "label": "5", "title": "", "to": "Climate financial risk surveillance", "value": 5}, {"arrows": "to", "color": "#6b7280", "dashes": false, "from": "Geopolitical financial infrastructure risk", "id": "Geopolitical financial infrastructure risk__Swiss Franc Safe Haven Channel__29", "label": "6", "title": "", "to": "Swiss Franc Safe Haven Channel", "value": 6}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 14, "color": "#1f2937", "multi": false, "align": "middle"}}, "edges": {"font": {"color": "#374151", "size": 12, "align": "middle"}}, "interaction": {"tooltipDelay": 100, "hover": true, "selectable": true, "navigationButtons": true, "keyboard": true}, "physics": {"forceAtlas2Based": {"gravitationalConstant": -120, "centralGravity": 0.01, "springLength": 250, "springConstant": 0.05}, "maxVelocity": 50, "solver": "forceAtlas2Based", "timestep": 0.35}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    
+<style>
+  #mynetwork { height: 720px !important; border: 1px solid #d9e2ec; border-radius: 8px 8px 0 0; }
+  #graph-hover-details {
+    display: block;
+    min-height: 96px;
+    height: auto;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: none;
+    margin: 0 0 8px 0;
+    padding: 12px 14px;
+    border: 1px solid #d9e2ec;
+    border-top: 0;
+    border-radius: 0 0 8px 8px;
+    background: #f8fafc;
+    color: #1f2937;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.45;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+  div.vis-tooltip { display: none !important; }
+  #graph-select-instruction {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 8px 0;
+    color: #4b5563;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+  }
+</style>
+<div id="graph-select-instruction">Select a module or a connection to get more information about it.</div>
+<div id="graph-hover-details">No module or connection selected.</div>
+<script>
+  const graphModuleDetails = {"Digital Finance Regulatory Perimeter": "Digital Finance Regulatory Perimeter\n\nReasoning:\nImplications 2, 3, 5, and 6 form a coherent subsystem of regulatory perimeter expansion into digital infrastructure and digital-asset activities. They share a transmission path in which operational failures, concentration in critical ICT providers, and digital-asset volatility are brought under supervisory scrutiny to prevent spillovers into banks and the wider financial system through common infrastructure, counterparty linkages, and bank balance sheets.\n\nSignals supporting this module:\n  • EU Digital Operational Resilience Act (DORA) applies from 17 January 2025\n  • FSB Work Programme for 2025\n  • US Executive Order 14178 'Strengthening American Leadership in Digital Financial Technology' prohibits a US CBDC\n", "Monetary Policy Stance and Transmission": "Monetary Policy Stance and Transmission\n\nReasoning:\nAll implications describe central bank policy-rate decisions and their transmission to financial stability through bank profitability, funding costs, debt servicing, asset valuations, credit availability, and market liquidity. Although the directional stance varies across jurisdictions, the subsystem and transmission path are identical.\n\nSignals supporting this module:\n  • Bank of Japan raises policy rate to 0.5%, the highest level since 2008\n  • ECB January 2025 – Rate Cut -25bp, Deposit Rate 2.75%\n  • Fed FOMC January 2025 – Rates Held at 4.25-4.50% (Hawkish Hold)\n  • Swiss consumer prices fell 0.1% in December 2024; average annual inflation of 1.1% in 2024\n", "Bank capital regulation framework": "Bank capital regulation framework\n\nReasoning:\nThe implications describe one prudential subsystem: bank capital and lending regulation. Drivers include Basel III transposition, risk retention rules, supervisory standards, and political shifts in oversight. The shared transmission path runs from capital requirements and underwriting standards to bank loss-absorbing capacity, risk-taking, credit supply, and risk migration to non-banks, ultimately shaping systemic vulnerability, contagion, and procyclicality.\n\nSignals supporting this module:\n  • FSB: G20 Financial Regulatory Reforms Have Enhanced Securitisation Market Resilience\n  • Fed's top bank supervisor Michael Barr to step down as Vice Chair for Supervision\n  • Final Basel III standards enter into force in Switzerland on 1 January 2025\n  • Stricter capital and self-regulation rules for mortgage lending take effect in Switzerland\n", "Climate financial risk surveillance": "Climate financial risk surveillance\n\nReasoning:\nThe implications describe one subsystem in which climate physical and transition risks transmit to financial stability through asset repricing, collateral devaluation, insurance protection gaps, and insurer capital erosion. Implications one to three show authorities institutionalizing climate risk tools and macroprudential responses; implications four to nine show physical risks crystallizing through real estate, insurance, and reinsurance channels into bank and sovereign balance sheets.\n\nSignals supporting this module:\n  • BIS Innovation Hub sets out 2025–26 work programme: AI-enabled supervision and green finance\n  • FSB Work Programme for 2025\n  • FSB: Analytical Framework and Toolkit to Assess Climate-Related Vulnerabilities\n  • Confirmed: 2024 was the hottest year on record, says UN weather agency\n  • Munich Re: natural disasters caused USD 140 billion of insured losses in 2024 as Los Angeles wildfires start 2025\n", "Central bank balance sheet and reserve management": "Central bank balance sheet and reserve management\n\nReasoning:\nImplications 2, 3, and 4 describe a subsystem in which central bank balance sheet operations—foreign exchange intervention and mark-to-market valuation of reserves—directly determine distributable profits and capital, creating a fiscal-monetary linkage to government budgets. Implication 1 concerns forward guidance and interest rate predictability transmitted through bond markets, a different channel, and is therefore excluded.\n\nSignals supporting this module:\n  • SNB data portal: EUR/CHF monthly average of 0.9416 in January 2025\n  • SNB expects record annual profit of around CHF 80 billion for 2024, resumes distribution to Confederation and cantons\n", "Conflict induced displacement and infrastructure shock": "Conflict induced displacement and infrastructure shock\n\nReasoning:\nAll implications describe armed conflict in fragile states generating displacement, infrastructure destruction, and fiscal pressures that transmit to financial stability through strained public finances, sovereign borrowing needs, risk premiums, capital flight, and disrupted trade and payment channels. Active conflict, refugee returns, and reconstruction gaps form a single conflict-to-fiscal-instability subsystem.\n\nSignals supporting this module:\n  • 'Famine conditions are spreading' as Sudan's crisis worsens: Security Council\n  • Critical aid blocked in Gaza, as fuel shortages threaten lifesaving services\n  • More than 125,000 refugees return to Syria in desperate conditions\n", "Swiss Franc Safe Haven Channel": "Swiss Franc Safe Haven Channel\n\nReasoning:\nSafe-haven capital inflows drive structural Swiss franc appreciation, which constrains monetary policy, suppresses imported inflation, and raises real debt burdens. Simultaneously, export earnings concentrate in chemicals and pharmaceuticals, narrowing the trade base and linking the current account and exchange rate to sector-specific shocks. Together these channels transmit external disturbances to bank balance sheets, credit exposures, and asset prices.\n\nSignals supporting this module:\n  • Bank of Japan raises policy rate to 0.5%, the highest level since 2008\n  • SNB data portal: EUR/CHF monthly average of 0.9416 in January 2025\n  • Swiss consumer prices fell 0.1% in December 2024; average annual inflation of 1.1% in 2024\n  • Swiss foreign trade 2024: record exports driven almost entirely by chemicals and pharmaceuticals\n", "Geopolitical financial infrastructure risk": "Geopolitical financial infrastructure risk\n\nReasoning:\nBoth implications describe geopolitical interference with the infrastructure underpinning cross-border finance: one through exclusion from messaging systems and immobilization of reserves, the other through state-backed cyber attacks on financial and communications systems. Both erode confidence in infrastructure neutrality and availability, prompting Swiss banks to adjust correspondent banking, collateral, liquidity buffers, and operational resilience, transmitting to financial stability through access and confidence channels.\n\nSignals supporting this module:\n  • EU Council extends economic sanctions against Russia for six months, until 31 July 2025\n  • OFAC sanctions Chinese firm linked to Salt Typhoon telecom hacks and hacker involved in US Treasury breach\n", "Tokenised payment and settlement infrastructure": "Tokenised payment and settlement infrastructure\n\nReasoning:\nAll three implications describe the migration of payment and settlement activity onto tokenised digital rails. Implication 1 covers central bank-led tokenised infrastructure; implications 2 and 3 cover private stablecoins displacing CBDCs and intermediating reserve-currency demand. Together they show a shared transmission path: new settlement rails alter liquidity management, counterparty and redemption exposure, and cross-border financial transmission, while concentrating risk in a small set of private issuers.\n\nSignals supporting this module:\n  • BIS Innovation Hub sets out 2025–26 work programme: AI-enabled supervision and green finance\n  • US Executive Order 14178 'Strengthening American Leadership in Digital Financial Technology' prohibits a US CBDC\n", "Sticky Inflation and Monetary Policy": "Sticky Inflation and Monetary Policy\n\nReasoning:\nAll implications trace a single transmission path: persistent inflation from wages, trade disruptions, or fiscal risk constrains monetary policy, keeping rates higher for longer; this raises debt-servicing costs across sovereign, corporate, and household sectors, erodes bank asset quality, and depresses long-dated asset valuations, forming one financial-stability subsystem.\n\nSignals supporting this module:\n  • ECB January 2025 – Rate Cut -25bp, Deposit Rate 2.75%\n  • IMF WEO Update January 2025 – Global Growth 3.3%, US Upgraded, Trade Policy Risk\n  • ILO World Employment and Social Outlook: Trends 2025\n  • UK 30-year gilt yields rise to highest level since 1998 amid concerns over public finances\n", "Cross-border cyber incident reporting": "Cross-border cyber incident reporting\n\nReasoning:\nBoth implications describe one transmission path: standardized cyber and ICT incident data plus third-party contract information flowing across borders, enabling supervisors to map shared technology exposures, detect contagion through common providers, and coordinate responses to limit systemic disruption.\n\nSignals supporting this module:\n  • EU Digital Operational Resilience Act (DORA) applies from 17 January 2025\n  • FSB: Public Responses to Consultation on Format for Incident Reporting Exchange (FIRE)\n", "Financial sanctions compliance perimeter": "Financial sanctions compliance perimeter\n\nReasoning:\nAll implications describe the same structural subsystem: the expansion and enforcement of international economic sanctions. They share a transmission path to financial stability through higher compliance costs, counterparty risk, de-risking, reduced access to dollar clearing, trade finance, and insurance, and persistent segmentation of cross-border financial relations along geopolitical blocs.\n\nSignals supporting this module:\n  • OFAC sanctions Chinese firm linked to Salt Typhoon telecom hacks and hacker involved in US Treasury breach\n  • OFAC sanctions Gazprom Neft, Surgutneftegas and 183 vessels in sweeping action against Russia's oil sector\n  • EU Council extends economic sanctions against Russia for six months, until 31 July 2025\n", "Multilateral humanitarian access subsystem": "Multilateral humanitarian access subsystem\n\nReasoning:\nAll three implications describe components of the international humanitarian aid system—early-warning data, logistics and supply chains, and donor financing—whose disruption transmits to financial stability through delayed aid, deepening crises, cross-border spillovers, food and energy price volatility, fiscal pressure on donor governments, contingent liabilities, and risks to exposed logistics and insurance firms.\n\nSignals supporting this module:\n  • 'Famine conditions are spreading' as Sudan's crisis worsens: Security Council\n  • Critical aid blocked in Gaza, as fuel shortages threaten lifesaving services\n  • More than 125,000 refugees return to Syria in desperate conditions\n", "Fiscal consolidation and debt sustainability": "Fiscal consolidation and debt sustainability\n\nReasoning:\nAll three implications describe a single subsystem: fiscal consolidation under debt constraints. Implication 3 establishes the macro context of eroding fiscal headroom and rising sovereign borrowing costs; implications 1 and 2 detail the resulting consolidation measures—expenditure cuts, broader taxation, and pension withdrawal taxes—and their transmission through household disposable income, bank sovereign exposures, pension fund liquidity, and broader financial conditions.\n\nSignals supporting this module:\n  • Swiss Federal Council opens consultation on 'relief package 27' to stabilise federal finances\n  • UK 30-year gilt yields rise to highest level since 1998 amid concerns over public finances\n", "Equity Market Risk Compression": "Equity Market Risk Compression\n\nReasoning:\nThe implications jointly describe an equity market subsystem in which suppressed implied volatility and muted political sensitivity underprice tail risk, while concentration in a narrow set of technology equities and passive index mechanics amplify single-stock shocks into broad market moves. AI cost breakthroughs can trigger abrupt repricing of these concentrated positions. Stress transmits via leverage, margin calls, dealer gamma hedging, index-tracking forced selling, and collateral erosion into credit, funding, and banking sectors.\n\nSignals supporting this module:\n  • CBOE VIX volatility index: January 2025 monthly average of 16.76 (range 14.85–19.54)\n  • DeepSeek shock: Nvidia loses about USD 590 billion in market value in record one-day drop\n"};
+  const graphModuleColors = {"Monetary Policy Stance and Transmission": "#7b2cbf", "Swiss Franc Safe Haven Channel": "#7b2cbf", "Global Financial Spillover Channels": "#7b2cbf", "Sticky Inflation and Monetary Policy": "#7b2cbf", "Fiscal consolidation and debt sustainability": "#7b2cbf", "Central bank balance sheet and reserve management": "#7b2cbf", "Cross-border cyber incident reporting": "#7b2cbf", "Digital Finance Regulatory Perimeter": "#7b2cbf", "Tokenised payment and settlement infrastructure": "#7b2cbf", "Bank capital regulation framework": "#bd00ff", "Financial sanctions compliance perimeter": "#00d8ff", "Geopolitical financial infrastructure risk": "#7b2cbf", "Conflict induced displacement and infrastructure shock": "#00d8ff", "Multilateral humanitarian access subsystem": "#7b2cbf", "Central bank AI adoption for supervision": "#00d8ff", "Advanced AI diffusion beyond US leaders": "#00d8ff", "Equity Market Risk Compression": "#7b2cbf", "Emergency economic legislation for trade policy": "#00d8ff", "Climate financial risk surveillance": "#7b2cbf", "Divergent global oil demand forecasts": "#7b2cbf"};
+  const graphEdgeDetails = {"Monetary Policy Stance and Transmission__Swiss Franc Safe Haven Channel__0": "Monetary Policy Stance and Transmission ➡️ Swiss Franc Safe Haven Channel\nRelationship: drives safe-haven demand\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 8/10\nInstitutional relevance: 7/10", "Swiss Franc Safe Haven Channel__Monetary Policy Stance and Transmission__1": "Swiss Franc Safe Haven Channel ➡️ Monetary Policy Stance and Transmission\nRelationship: constrains monetary policy\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 7/10\nInstitutional relevance: 7/10", "Global Financial Spillover Channels__Swiss Franc Safe Haven Channel__2": "Global Financial Spillover Channels ➡️ Swiss Franc Safe Haven Channel\nRelationship: triggers safe-haven inflows\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 8/10\nInstitutional relevance: 6/10", "Monetary Policy Stance and Transmission__Global Financial Spillover Channels__3": "Monetary Policy Stance and Transmission ➡️ Global Financial Spillover Channels\nRelationship: drives carry trade unwind\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 8/10\nInstitutional relevance: 7/10", "Sticky Inflation and Monetary Policy__Global Financial Spillover Channels__4": "Sticky Inflation and Monetary Policy ➡️ Global Financial Spillover Channels\nRelationship: tightens financial conditions\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 7/10\nInstitutional relevance: 6/10", "Sticky Inflation and Monetary Policy__Monetary Policy Stance and Transmission__5": "Sticky Inflation and Monetary Policy ➡️ Monetary Policy Stance and Transmission\nRelationship: keeps rates restrictive\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 8/10\nNarrative salience: 8/10\nInstitutional relevance: 8/10", "Fiscal consolidation and debt sustainability__Sticky Inflation and Monetary Policy__6": "Fiscal consolidation and debt sustainability ➡️ Sticky Inflation and Monetary Policy\nRelationship: raises sovereign borrowing costs\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 7/10\nInstitutional relevance: 7/10", "Central bank balance sheet and reserve management__Swiss Franc Safe Haven Channel__7": "Central bank balance sheet and reserve management ➡️ Swiss Franc Safe Haven Channel\nRelationship: shapes CHF supply-demand\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 6/10\nInstitutional relevance: 7/10", "Central bank balance sheet and reserve management__Global Financial Spillover Channels__8": "Central bank balance sheet and reserve management ➡️ Global Financial Spillover Channels\nRelationship: transmits capital flows\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 5/10\nInstitutional relevance: 6/10", "Cross-border cyber incident reporting__Digital Finance Regulatory Perimeter__9": "Cross-border cyber incident reporting ➡️ Digital Finance Regulatory Perimeter\nRelationship: extends supervisory perimeter\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 6/10\nInstitutional relevance: 8/10", "Digital Finance Regulatory Perimeter__Tokenised payment and settlement infrastructure__10": "Digital Finance Regulatory Perimeter ➡️ Tokenised payment and settlement infrastructure\nRelationship: brings under supervision\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 7/10\nInstitutional relevance: 8/10", "Digital Finance Regulatory Perimeter__Bank capital regulation framework__11": "Digital Finance Regulatory Perimeter ➡️ Bank capital regulation framework\nRelationship: sets digital capital rules\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 5/10\nInstitutional relevance: 7/10", "Financial sanctions compliance perimeter__Geopolitical financial infrastructure risk__12": "Financial sanctions compliance perimeter ➡️ Geopolitical financial infrastructure risk\nRelationship: erodes infrastructure confidence\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 8/10\nInstitutional relevance: 8/10", "Geopolitical financial infrastructure risk__Cross-border cyber incident reporting__13": "Geopolitical financial infrastructure risk ➡️ Cross-border cyber incident reporting\nRelationship: drives reporting harmonization\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 7/10\nInstitutional relevance: 7/10", "Tokenised payment and settlement infrastructure__Geopolitical financial infrastructure risk__14": "Tokenised payment and settlement infrastructure ➡️ Geopolitical financial infrastructure risk\nRelationship: concentrates settlement risk\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 6/10\nInstitutional relevance: 6/10", "Conflict induced displacement and infrastructure shock__Multilateral humanitarian access subsystem__15": "Conflict induced displacement and infrastructure shock ➡️ Multilateral humanitarian access subsystem\nRelationship: disrupts aid delivery\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 7/10\nInstitutional relevance: 5/10", "Central bank AI adoption for supervision__Digital Finance Regulatory Perimeter__16": "Central bank AI adoption for supervision ➡️ Digital Finance Regulatory Perimeter\nRelationship: extends supervisory reach\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 4/10\nNarrative salience: 4/10\nInstitutional relevance: 5/10", "Central bank AI adoption for supervision__Tokenised payment and settlement infrastructure__17": "Central bank AI adoption for supervision ➡️ Tokenised payment and settlement infrastructure\nRelationship: monitors tokenised rails\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 4/10\nNarrative salience: 4/10\nInstitutional relevance: 5/10", "Advanced AI diffusion beyond US leaders__Equity Market Risk Compression__18": "Advanced AI diffusion beyond US leaders ➡️ Equity Market Risk Compression\nRelationship: triggers repricing shock\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 4/10\nNarrative salience: 6/10\nInstitutional relevance: 4/10", "Emergency economic legislation for trade policy__Sticky Inflation and Monetary Policy__19": "Emergency economic legislation for trade policy ➡️ Sticky Inflation and Monetary Policy\nRelationship: disrupts disinflation\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 4/10\nNarrative salience: 6/10\nInstitutional relevance: 5/10", "Climate financial risk surveillance__Fiscal consolidation and debt sustainability__20": "Climate financial risk surveillance ➡️ Fiscal consolidation and debt sustainability\nRelationship: increases fiscal pressure\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 6/10\nInstitutional relevance: 6/10", "Climate financial risk surveillance__Sticky Inflation and Monetary Policy__21": "Climate financial risk surveillance ➡️ Sticky Inflation and Monetary Policy\nRelationship: fuels inflationary pressure\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 6/10\nInstitutional relevance: 4/10", "Monetary Policy Stance and Transmission__Divergent global oil demand forecasts__22": "Monetary Policy Stance and Transmission ➡️ Divergent global oil demand forecasts\nRelationship: shapes oil demand outlooks\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 6/10\nInstitutional relevance: 7/10", "Divergent global oil demand forecasts__Climate financial risk surveillance__23": "Divergent global oil demand forecasts ➡️ Climate financial risk surveillance\nRelationship: complicates climate risk assessment\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 5/10\nInstitutional relevance: 6/10", "Equity Market Risk Compression__Global Financial Spillover Channels__24": "Equity Market Risk Compression ➡️ Global Financial Spillover Channels\nRelationship: transmits equity volatility spillovers\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 8/10\nInstitutional relevance: 6/10", "Equity Market Risk Compression__Central bank balance sheet and reserve management__25": "Equity Market Risk Compression ➡️ Central bank balance sheet and reserve management\nRelationship: reduces central bank distributable profits\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 7/10\nNarrative salience: 7/10\nInstitutional relevance: 8/10", "Conflict induced displacement and infrastructure shock__Fiscal consolidation and debt sustainability__26": "Conflict induced displacement and infrastructure shock ➡️ Fiscal consolidation and debt sustainability\nRelationship: increases sovereign borrowing needs\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 7/10\nInstitutional relevance: 7/10", "Multilateral humanitarian access subsystem__Sticky Inflation and Monetary Policy__27": "Multilateral humanitarian access subsystem ➡️ Sticky Inflation and Monetary Policy\nRelationship: amplifies food and energy prices\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 8/10\nInstitutional relevance: 7/10", "Central bank AI adoption for supervision__Climate financial risk surveillance__28": "Central bank AI adoption for supervision ➡️ Climate financial risk surveillance\nRelationship: AI-enabled climate surveillance\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 5/10\nNarrative salience: 7/10\nInstitutional relevance: 8/10", "Geopolitical financial infrastructure risk__Swiss Franc Safe Haven Channel__29": "Geopolitical financial infrastructure risk ➡️ Swiss Franc Safe Haven Channel\nRelationship: Safe-haven capital inflows\nDirection: Unidirectional Source->Target\nEmpirical trend strength: 6/10\nNarrative salience: 5/10\nInstitutional relevance: 6/10"};
+  const graphDetails = document.getElementById("graph-hover-details");
+  let detailsPinned = false;
+
+  function resizeDetailFrame() {
+    if (!window.frameElement) return;
+    requestAnimationFrame(function () {
+      const graphHeight = document.getElementById("mynetwork").getBoundingClientRect().height;
+      const detailHeight = graphDetails.getBoundingClientRect().height;
+      const legendSpacing = 16;
+      window.frameElement.style.height =
+        Math.ceil(graphHeight + detailHeight + legendSpacing) + "px";
+    });
+  }
+
+  const detailResizeObserver = new ResizeObserver(resizeDetailFrame);
+  detailResizeObserver.observe(graphDetails);
+
+  function clearGraphDetails() {
+    detailsPinned = false;
+    graphDetails.textContent = "No module or connection selected.";
+    graphDetails.style.border = "1px solid #d9e2ec";
+    graphDetails.style.borderTop = "0";
+    resizeDetailFrame();
+  }
+
+  function showModuleDetails(moduleName) {
+    graphDetails.textContent = graphModuleDetails[moduleName] || moduleName;
+    graphDetails.style.border = "2px solid " + (graphModuleColors[moduleName] || "#888888");
+    graphDetails.style.borderTop = "0";
+    resizeDetailFrame();
+  }
+
+  function showEdgeDetails(edgeId) {
+    graphDetails.textContent = graphEdgeDetails[edgeId] || "Connection details unavailable.";
+    graphDetails.style.border = "2px solid #6b7280";
+    graphDetails.style.borderTop = "0";
+    resizeDetailFrame();
+  }
+
+  if (typeof network !== "undefined") {
+    network.on("click", function (params) {
+      if (params.nodes && params.nodes.length) {
+        detailsPinned = true;
+        showModuleDetails(params.nodes[0]);
+      } else if (params.edges && params.edges.length) {
+        detailsPinned = true;
+        showEdgeDetails(params.edges[0]);
+      } else {
+        detailsPinned = false;
+        clearGraphDetails();
+      }
+    });
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+python-dotenv
+falkordb
+pyvis
+networkx
+streamlit
+sentence-transformers
+langchain-huggingface
+peft
+torchvision
+transformers

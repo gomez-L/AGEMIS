@@ -1,0 +1,1946 @@
+{
+  "processed_events": [
+    "SEC Approves Spot Crypto ETFs",
+    "FTX Exchange Insolvency Triggers Crypto Contagion",
+    "AI Datacenter Water Consumption Spikes 34%",
+    "Record Ocean Temperatures Disrupt Weather Patterns",
+    "Global IT Outage Cripples Banks and Hospitals",
+    "Stablecoin Tether Discloses $100B in US Treasury Backing",
+    "Sovereign Debt Volatility Spikes Amid Eurozone Refinancing Fears",
+    "Silicon Valley Bank Collapse Triggers Liquidity Crisis",
+    "US Bans Advanced AI Chip Exports to China",
+    "Extreme Weather Overloads Texas Power Grid from Datacenter Spike",
+    "Deepfake CFO Scam Steals $25M",
+    "Nvidia Becomes Most Valuable Global Company",
+    "Panama Canal Cuts Transits Due to Severe Drought",
+    "SEC Files Lawsuit Against Major Crypto Exchange Binance",
+    "Ransomware Attack Paralyzes Healthcare Payments",
+    "Japan Ends Era of Negative Interest Rates",
+    "Suez Canal Traffic Falls 66% as Red Sea Insecurity Persists",
+    "Massive Lithium Deposit Found in US Caldera",
+    "AI Supply Chain Attack Infiltrates Algorithmic Trading Systems",
+    "Fitch Downgrades US Sovereign Credit Rating",
+    "Social Media Fuels Rapid Bank Run",
+    "China Restricts Critical Mineral Exports",
+    "Global Police Takedown of Major Ransomware Gang",
+    "ASML Export Restrictions on Advanced Lithography Machines",
+    "US Consumer Price Index Rebounds Forcing Rate Increases",
+    "Red Sea Shipping Attacks Reroute Global Trade",
+    "Cybersecurity Deficiencies Exposed at Major Digital Ledger Bank",
+    "ECB Begins Rate Cuts but Flags Commercial Property Defaults",
+    "Regional Banks Plunge on CRE Debt Fears",
+    "Major Port Bridge Collapse Severs Auto Supply Chain",
+    "Moody's Cuts Credit Rating Outlook for Ten Regional Banks",
+    "Evergrande Liquidation Order Shocks Real Estate",
+    "EU AI Act Becomes Enforceable Law",
+    "US FTC Launches Joint Probe of Generative AI Monopoly Ties",
+    "Credit Suisse Rescued by UBS in Historic Merger",
+    "Severe Heatwave Across Asia Triggers Global Supply Disruptions",
+    "Basel III Endgame Capital Rules Finalized",
+    "CrowdStrike Glitch Halts London Stock Exchange Trading",
+    "China Retaliates with Graphite and Germanium Export Curbs",
+    "Ransomware Attack on ICBC Halts US Treasury Settlements",
+    "AI Discovers Novel Solid-State Battery Material",
+    "Deepfake Audio of Federal Reserve Chair Triggers Selloff"
+  ],
+  "modules": [
+    {
+      "name": "Monoculture Risk in Critical Digital Infrastructure",
+      "velocity": "Accelerating rapidly, as geopolitical hardware fractures are now compounded by systemic domestic regulatory friction targeting exclusive hyperscaler compute bottlenecks.",
+      "inertia": "Very High, as deep physical GPU bottlenecks and proprietary software ecosystems (e.g., CUDA) are structurally locked in by multi-billion-dollar cloud infrastructure and compute-access agreements.",
+      "steeps_intersections": [
+        "Technological: Cybersecurity Threats",
+        "Technological: Digital & Financial Technology",
+        "Economic: Financial Stability & Banking Sector",
+        "Security: Systemic & Operational Resilience"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Global IT Outage Cripples Banks and Hospitals",
+          "content": "A flawed update from a dominant cybersecurity firm crashed millions of devices globally. The event halted flights and disrupted digital banking liquidity, exposing the systemic fragility of heavily concentrated tech supply chains in the financial sector."
+        },
+        {
+          "title": "Ransomware Attack Paralyzes Healthcare Payments",
+          "content": "A massive ransomware attack on Change Healthcare halted billions in insurance payments. The ensuing liquidity crisis for healthcare providers demonstrated how cyber vulnerabilities in third-party tech vendors can cascade into direct economic shocks."
+        },
+        {
+          "title": "Nvidia Becomes Most Valuable Global Company",
+          "content": "Driven by insatiable demand for AI hardware, Nvidia's market cap surpassed $3 Trillion. This extreme market concentration linked global stock market stability almost entirely to the continued boom in AI semiconductor sales."
+        },
+        {
+          "title": "US Bans Advanced AI Chip Exports to China",
+          "content": "In a major geopolitical escalation, the US blocked the export of advanced AI semiconductors to China. The tech decoupling threatened global supply chains and forced massive investments into sovereign chip manufacturing."
+        },
+        {
+          "title": "US FTC Launches Joint Probe of Generative AI Monopoly Ties",
+          "content": "The Federal Trade Commission launched a sweeping investigation into the multi-billion dollar strategic investments made by tech giants into AI startups. Regulators warned of rising antitrust concentration and localized supply bottlenecks."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While software errors are a historical norm, the rapid synchronization of automatic updates across thousands of sovereign networks creates an unprecedented vulnerability. It shows that systemic failure can be triggered non-maliciously, bypassing traditional cyber-defenses and freezing global liquidity in minutes.",
+      "reasoning": "The global IT outage highlights a critical structural vulnerability: the hyper-concentration of underlying system-level software tools. By deploying identical security software across banking, healthcare, and transit networks, a single point of failure (SPOF) is created. This module tracks the systemic feedback loops between software monoculture, operational dependency, and sudden-stop liquidity risks in global markets.\nUpdate Reasoning: The Change Healthcare cyberattack confirms that monoculture risks extend beyond system-level operating system software to highly consolidated operational and transactional bottlenecks. This event increases our certainty that single points of failure (SPOFs) in third-party vendors will trigger cascading, cross-sector economic shocks.\nUpdate Reasoning: The massive scale of Nvidia's market dominance highlights that the digital infrastructure monoculture is not just a software-layer issue (like CrowdStrike or Change Healthcare) but is anchored in a highly concentrated hardware layer. A disruption in Nvidia's supply chain or product pipeline would immediately freeze global technological scaling.\nUpdate Reasoning: The US export ban acts as a critical catalyst. It forces China to actively break the Western hardware monoculture (Nvidia/CUDA) by heavily subsidizing domestic alternatives, while simultaneously intensifying the domestic monoculture risk within Western markets as they become more isolated and dependent on single-source supply lines.\nUpdate Reasoning: The FTC probe confirms that monoculture risks are not just geopolitical issues of sovereign chip supply, but are also deeply corporate and operational. The investigation targets the localized supply bottlenecks (primarily GPU access and cloud compute) that force startups into exclusive dependencies on a handful of tech giants, validating the systemic risk of infrastructure concentration.",
+      "created_at": "2026-06-10T23:22:42.519630+00:00",
+      "updated_at": "2026-06-10T23:31:13.643849+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 5,
+      "last_update_reason": "The FTC probe confirms that monoculture risks are not just geopolitical issues of sovereign chip supply, but are also deeply corporate and operational. The investigation targets the localized supply bottlenecks (primarily GPU access and cloud compute) that force startups into exclusive dependencies on a handful of tech giants, validating the systemic risk of infrastructure concentration."
+    },
+    {
+      "name": "Generative AI and Synthetic Media as a Systemic Financial Threat Vector",
+      "velocity": "Hyper-accelerating, as synthetic media threat vectors transition from corporate social engineering to direct spoofing of macroeconomic authorities and sovereign market-moving communications.",
+      "inertia": "Medium-to-High, anchored by the slow, manual nature of central bank and regulatory communication channels, which are structurally incapable of matching the viral speed of social media and automated trading algorithms.",
+      "steeps_intersections": [
+        "Technological: Cybersecurity Threats",
+        "Economic: Financial Stability & Banking Sector",
+        "Security: Systemic & Operational Resilience"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Deepfake CFO Scam Steals $25M",
+          "content": "A multinational firm in Hong Kong lost $25M after an employee was tricked by an AI deepfake video call mimicking the CFO. The event highlighted how rapid AI advancements are creating unprecedented fraud and operational risks for corporate finance."
+        },
+        {
+          "title": "Deepfake Audio of Federal Reserve Chair Triggers Selloff",
+          "content": "A sophisticated, highly realistic AI-generated deepfake audio recording of the Federal Reserve Chair claiming a major bank was insolvent leaked on social media. The incident triggered a short-lived panic run on regional bank shares."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "Historically, corporate social engineering relied on text-based phishing or basic voice spoofing. The ability to synthesize real-time, interactive multi-person video calls to bypass executive verification layers represents a paradigm shift in threat vector capabilities, rendering traditional human trust baselines obsolete.",
+      "reasoning": "This module synthesizes the emergence of real-time deepfake technology as a highly potent tool for corporate exploitation. By spoofing key decision-makers in interactive, high-stakes environments, threat actors can bypass traditional financial controls and standard operating procedures. As AI capabilities expand, the asymmetry between low-cost synthetic generation and high-cost detection mechanisms threatens the operational security of global corporate treasury and financial transaction systems.\nUpdate Reasoning: The deployment of a highly realistic Fed Chair deepfake demonstrates that generative AI threat vectors have scaled from micro-level corporate exploits to systemic macroeconomic market manipulation. Financial markets and automated sentiment-parsing algorithms react instantly to synthetic audio, vastly outpacing official correction timelines and elevating the systemic risk profile of this threat vector.",
+      "created_at": "2026-06-10T23:23:04.706477+00:00",
+      "updated_at": "2026-06-10T23:30:18.021103+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The deployment of a highly realistic Fed Chair deepfake demonstrates that generative AI threat vectors have scaled from micro-level corporate exploits to systemic macroeconomic market manipulation. Financial markets and automated sentiment-parsing algorithms react instantly to synthetic audio, vastly outpacing official correction timelines and elevating the systemic risk profile of this threat vector."
+    },
+    {
+      "name": "Systemic Liquidity Fragility in Consolidated Third-Party Clearinghouses",
+      "velocity": "Hyper-accelerating, as the instant evaporation of FTX liquidity creates a massive market deficit, forcing immediate consolidation of remaining flows into a narrow group of US-regulated custodians.",
+      "inertia": "Maximum, as the legal, regulatory, and counterparty risks highlighted by FTX's multi-billion dollar fraud make offshore or non-custodial operations an unacceptable compliance hazard for institutional capital.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Social",
+        "Security",
+        "Political"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Ransomware Attack Paralyzes Healthcare Payments",
+          "content": "A massive ransomware attack on Change Healthcare halted billions in insurance payments. The ensuing liquidity crisis for healthcare providers demonstrated how cyber vulnerabilities in third-party tech vendors can cascade into direct economic shocks."
+        },
+        {
+          "title": "SEC Approves Spot Crypto ETFs",
+          "content": "Following massive institutional pressure, the SEC approved spot Bitcoin ETFs, instantly deeply integrating highly volatile crypto assets into traditional Wall Street retirement funds and banking balance sheets."
+        },
+        {
+          "title": "SEC Files Lawsuit Against Major Crypto Exchange Binance",
+          "content": "The SEC sued Binance and its founder for operating an unregistered exchange, offering unregistered securities, and mismanaging customer assets. The high-profile regulatory crackdown severely restricted cryptocurrency market liquidity and institutional trust."
+        },
+        {
+          "title": "FTX Exchange Insolvency Triggers Crypto Contagion",
+          "content": "The sudden collapse of FTX, a dominant cryptocurrency exchange, revealed multi-billion dollar fraud and balance sheet holes. The crisis wiped out billions in retail assets, triggered direct traditional bank run contagion, and froze digital liquidity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While cyber threats are persistent, the weaponization of concentrated administrative clearinghouses to induce a multi-billion dollar systemic liquidity halt across a critical public sector represents a novel, structurally dangerous evolution in cyber-physical risks.",
+      "reasoning": "This module synthesizes the emergence of consolidated transactional back-ends as high-leverage bottlenecks. Cyber incidents at these centralized points bypass traditional localized defense-in-depth measures, instantly cutting off cash flows and transforming operational IT failures into macro-level solvency crises for thousands of downstream entities.\nUpdate Reasoning: The SEC's approval of Spot Crypto ETFs creates an immediate dependency on highly concentrated digital asset custodians. Any technical, cyber, or liquidity failure at these specialized clearing/custodial bottlenecks will instantly transmit shocks directly into traditional Wall Street clearing systems and systemic banks holding or clearing these ETFs.\nUpdate Reasoning: The SEC's lawsuit against Binance severely restricts global cryptocurrency liquidity and undermines trust in native exchanges. This accelerates the migration of institutional volumes to highly centralized, SEC-approved domestic custodians, significantly increasing the systemic risk of a clearinghouse or custodian failure transmitting directly into traditional financial markets.\nUpdate Reasoning: The collapse of a major offshore liquidity node like FTX overnight proves the systemic risk of decentralized/offshore custody. This accelerates the herd behavior of institutional capital consolidating into highly centralized, SEC-approved domestic clearinghouses, creating a dangerous single point of failure.",
+      "created_at": "2026-06-10T23:23:12.747736+00:00",
+      "updated_at": "2026-06-10T23:28:27.035706+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 4,
+      "last_update_reason": "The collapse of a major offshore liquidity node like FTX overnight proves the systemic risk of decentralized/offshore custody. This accelerates the herd behavior of institutional capital consolidating into highly centralized, SEC-approved domestic clearinghouses, creating a dangerous single point of failure."
+    },
+    {
+      "name": "Climate-Induced Degradation of Physical Trade Chokepoints",
+      "velocity": "Exponentially accelerating, as upstream manufacturing disruptions and sudden production restarts trigger erratic cargo volume spikes, compounding the stress on already backlogged maritime networks and climate-strained transit canals.",
+      "inertia": "High, anchored by the geographic rigidity of global shipping routes, the decades-long capital lifecycle of bulk carriers, and the inability of maritime infrastructure to absorb unpredictable shifts in supply cadence.",
+      "steeps_intersections": [
+        "Environmental",
+        "Economic",
+        "Security",
+        "Political"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Panama Canal Cuts Transits Due to Severe Drought",
+          "content": "Record-low water levels tied to extreme climate anomalies forced the Panama Canal to cut daily shipping transits by 40%. The resulting supply chain bottlenecks heavily disrupted global trade, reigniting fears of sticky inflation."
+        },
+        {
+          "title": "Red Sea Shipping Attacks Reroute Global Trade",
+          "content": "Continuous geopolitical conflict and drone attacks in the Red Sea forced major shipping companies to reroute around Africa. This compounded the Panama Canal delays, causing a massive spike in freight costs and global inflation."
+        },
+        {
+          "title": "Record Ocean Temperatures Disrupt Weather Patterns",
+          "content": "Global ocean heat hit unprecedented record highs, accelerating extreme weather events. The climate volatility directly worsened the Panama Canal drought and threatened global agricultural yields, fueling further inflation."
+        },
+        {
+          "title": "Major Port Bridge Collapse Severs Auto Supply Chain",
+          "content": "A cargo ship power failure led to the collapse of a critical bridge, entirely blocking a major US port. The infrastructure failure severely disrupted auto and coal supply chains, adding another vector to the global logistics crisis."
+        },
+        {
+          "title": "Severe Heatwave Across Asia Triggers Global Supply Disruptions",
+          "content": "Record-shattering temperatures forced industrial power rationing in critical manufacturing sectors across China and India. The resulting shutdowns locked up physical supply chains for electronics and raw materials, compounding global logistics delays."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 7,
+      "novelty_rationale": "Global trade infrastructure is structurally optimized for an era of ecological stability. The hydrological failure of primary physical chokepoints represents a paradigm shift where chronic climate volatility acts as a direct, non-diversifiable choke on global physical logistics and macroeconomic policy.",
+      "reasoning": "This module synthesizes the systemic risk of environmental volatility directly impacting physical trade infrastructure. The 40% capacity reduction in the Panama Canal is not a temporary logistical delay, but a structural degradation of global supply chain throughput. This physical bottleneck mirrors the systemic vulnerabilities identified in consolidated digital clearinghouses, demonstrating that physical single points of failure (SPOFs) are highly susceptible to non-traditional threats like climate anomalies, causing compounding inflation and supply-side shocks.\nUpdate Reasoning: The continuous Red Sea attacks forced shippers to reroute around Africa, compounding the pre-existing climate-driven restrictions at the Panama Canal. This demonstrates that environmental and geopolitical trade bottlenecks do not operate in isolation; rather, they intersect to create cascading capacity failures and structural inflationary shocks across the global economy.\nUpdate Reasoning: The Scientific American report provides empirical evidence that record-high ocean temperatures are actively driving the severe weather anomalies and regional droughts restricting transit at the Panama Canal. This confirms that environmental stressors are no longer distant risks but active, real-time accelerators of global trade chokepoint degradation.\nUpdate Reasoning: The disruption of a major US port bridge collapse acts as a severe force multiplier on climate-stressed shipping arteries like the Panama Canal. By knocking out a major domestic logistics node, the event demonstrates how non-climate physical failures drastically reduce the systemic buffer capacity required to absorb climate-induced transit restrictions.\nUpdate Reasoning: Upstream production halts in China and India caused by climate-induced power rationing introduce extreme volatility into maritime scheduling. Once power is restored, cargo surges hit physical chokepoints simultaneously, amplifying existing bottleneck effects.",
+      "created_at": "2026-06-10T23:23:28.606761+00:00",
+      "updated_at": "2026-06-10T23:31:44.261879+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 5,
+      "last_update_reason": "Upstream production halts in China and India caused by climate-induced power rationing introduce extreme volatility into maritime scheduling. Once power is restored, cargo surges hit physical chokepoints simultaneously, amplifying existing bottleneck effects."
+    },
+    {
+      "name": "Asymmetric Kinetic Threats to Global Maritime Shipping Arteries",
+      "velocity": "Explosive and structurally compounding, as the 66% collapse in weekly Suez Canal traffic transitions from an acute operational shock to a sustained, multi-month diversion of global container fleets.",
+      "inertia": "Very High, anchored by the long-term contractual and physical adjustments required to route global trade around the Cape of Good Hope, bypassing the Red Sea indefinitely.",
+      "steeps_intersections": [
+        "Political",
+        "Security",
+        "Technological",
+        "Economic"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Red Sea Shipping Attacks Reroute Global Trade",
+          "content": "Continuous geopolitical conflict and drone attacks in the Red Sea forced major shipping companies to reroute around Africa. This compounded the Panama Canal delays, causing a massive spike in freight costs and global inflation."
+        },
+        {
+          "title": "US Consumer Price Index Rebounds Forcing Rate Increases",
+          "content": "Rising logistics bottlenecks, Red Sea shipping reroutes, and solid demand drove US CPI inflation back up. The inflationary pressure forced central banks to maintain interest rates higher for longer, worsening commercial real estate refinancing friction."
+        },
+        {
+          "title": "Suez Canal Traffic Falls 66% as Red Sea Insecurity Persists",
+          "content": "Weekly shipping container transits through the Suez Canal dropped by 66% as maritime attacks forced standard shipping routes to circumnavigate Africa. The resulting delays severely constrained global industrial supply chain flow and spiked transport indices."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "The paradigm of global maritime security has shifted from state-level naval blockades to cheap, asymmetric, and democratized drone technologies used by non-state or regional actors to successfully hold major global trade lanes hostage.",
+      "reasoning": "This module synthesizes the emergence of low-cost kinetic disruption as a persistent threat to global commercial shipping. The Red Sea attacks demonstrate how non-state actors utilizing drone technology can bypass traditional maritime security frameworks, forcing global trade to reroute, driving up freight costs, and injecting structural inflation into the global macroeconomic environment.\nUpdate Reasoning: The new signal provides empirical proof of the transmission mechanism from kinetic maritime threats (Red Sea reroutes) directly to domestic US CPI inflation. This elevates the kinetic threats from a shipping-logistics issue to a macro-critical economic shock.\nUpdate Reasoning: The 66% drop in Suez transits reported by Lloyd's List provides definitive empirical evidence of the systemic shift in maritime traffic. This hard metric elevates the kinetic threat from a localized geopolitical risk to an entrenched macroeconomic disrupter, driving up global transport indices and introducing persistent supply-side inflationary pressures across G7 markets.",
+      "created_at": "2026-06-10T23:23:39.799074+00:00",
+      "updated_at": "2026-06-10T23:30:49.548450+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 3,
+      "last_update_reason": "The 66% drop in Suez transits reported by Lloyd's List provides definitive empirical evidence of the systemic shift in maritime traffic. This hard metric elevates the kinetic threat from a localized geopolitical risk to an entrenched macroeconomic disrupter, driving up global transport indices and introducing persistent supply-side inflationary pressures across G7 markets."
+    },
+    {
+      "name": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+      "velocity": "Parabolic, as rebounding inflation delays expected rate cuts, keeping benchmark yields elevated and compounding sovereign debt-servicing friction.",
+      "inertia": "Extreme, anchored by structural fiscal deficits and the global financial architecture's dependency on high-yielding US Treasury collateral.",
+      "steeps_intersections": [
+        "Economic",
+        "Political"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Japan Ends Era of Negative Interest Rates",
+          "content": "Driven by rising global inflation and supply chain shocks, the Bank of Japan raised rates for the first time in 17 years. The move threatened to reverse decades of cheap liquidity, sending shockwaves through global bond markets."
+        },
+        {
+          "title": "Regional Banks Plunge on CRE Debt Fears",
+          "content": "Fears of mass defaults in Commercial Real Estate (CRE), worsened by sustained high interest rates and inflation, caused regional bank stocks to plummet. This raised immediate concerns over financial stability and bank liquidity."
+        },
+        {
+          "title": "Fitch Downgrades US Sovereign Credit Rating",
+          "content": "Fitch downgraded the United States' long-term credit rating from AAA to AA+, citing rising government debt burden and political polarization surrounding fiscal negotiations. The downgrade shook global bond yields and sovereign asset trust."
+        },
+        {
+          "title": "US Consumer Price Index Rebounds Forcing Rate Increases",
+          "content": "Rising logistics bottlenecks, Red Sea shipping reroutes, and solid demand drove US CPI inflation back up. The inflationary pressure forced central banks to maintain interest rates higher for longer, worsening commercial real estate refinancing friction."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 7,
+      "novelty_rationale": "While interest rate hikes are a standard macroeconomic cyclical tool, the Bank of Japan abandoning negative interest rates after 17 years is a structural regime shift. The global financial system has grown fundamentally dependent on the Yen carry trade as a persistent source of cheap leverage, making its unwinding highly disruptive for modern quantitative trading and sovereign bond pricing.",
+      "reasoning": "The Bank of Japan's rate hike represents the removal of the world's last major anchor of negative-yield liquidity. This event marks a transition from structural capital-abundance to a higher cost-of-capital environment globally. The primary risk is the abrupt unwinding of Yen carry trades, which forces global institutional investors to liquidate foreign assets (specifically US and European sovereign debt) to cover domestic Japanese borrowing costs, creating systemic volatility in global capital markets.\nUpdate Reasoning: The plunge in regional bank stocks on CRE fears serves as direct empirical evidence that the global transition to a high-cost-of-capital environment is actively destabilizing leveraged, rate-sensitive financial sectors. This amplifies the systemic volatility originally triggered by the decompression of global liquidity anchors like the BoJ's negative-rate regime.\nUpdate Reasoning: The Fitch downgrade of the US sovereign credit rating from AAA to AA+ directly validates this module. It represents a structural decompression of the global economy's primary liquidity anchor. By citing rising debt burdens and political polarization, the downgrade forces a fundamental repricing of the 'risk-free' rate, permanently elevating sovereign debt volatility and raising capital costs across all interest-rate-sensitive portfolios globally.\nUpdate Reasoning: Sticky CPI inflation forces central banks to delay easing, locking in higher discount rates and sovereign yields, which structurally decompresses global liquidity anchors and heightens debt volatility.",
+      "created_at": "2026-06-10T23:23:56.749904+00:00",
+      "updated_at": "2026-06-10T23:29:19.635027+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 4,
+      "last_update_reason": "Sticky CPI inflation forces central banks to delay easing, locking in higher discount rates and sovereign yields, which structurally decompresses global liquidity anchors and heightens debt volatility."
+    },
+    {
+      "name": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+      "velocity": "Hyper-accelerating. The geographic scope of the CRE crisis has expanded to the Eurozone, where even a monetary policy pivot (the ECB's first rate cut in five years) is insufficient to offset lagging structural defaults.",
+      "inertia": "Maximum. The slow-moving nature of property debt roll-overs, combined with sticky defaults and rigid legacy valuations, creates an irreversible tailwind of credit deterioration that rate cuts cannot quickly resolve.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Regional Banks Plunge on CRE Debt Fears",
+          "content": "Fears of mass defaults in Commercial Real Estate (CRE), worsened by sustained high interest rates and inflation, caused regional bank stocks to plummet. This raised immediate concerns over financial stability and bank liquidity."
+        },
+        {
+          "title": "Social Media Fuels Rapid Bank Run",
+          "content": "Echoing the SVB collapse, rumors of CRE exposure spread virally on social media, triggering a rapid deposit flight from a mid-sized regional bank. The event exposed the dangerous intersection of digital banking speed and psychological contagion."
+        },
+        {
+          "title": "Basel III Endgame Capital Rules Finalized",
+          "content": "Regulators finalized strict new capital requirements for large banks to prevent SVB-style collapses. However, banks warned the rules would severely constrain lending liquidity just as commercial real estate needed refinancing."
+        },
+        {
+          "title": "Silicon Valley Bank Collapse Triggers Liquidity Crisis",
+          "content": "A classic bank run fueled by digital communications forced US regulators to shut down Silicon Valley Bank. High interest rates had severely depreciated SVB's treasury portfolio, triggering severe deposit flights and systemic risk concerns across mid-sized banks."
+        },
+        {
+          "title": "Evergrande Liquidation Order Shocks Real Estate",
+          "content": "A Hong Kong court ordered the liquidation of Chinese property giant Evergrande after failures to restructure massive debt. The default crippled domestic developer liquidity and sparked global worries about real estate spillovers and bank fragility."
+        },
+        {
+          "title": "US Consumer Price Index Rebounds Forcing Rate Increases",
+          "content": "Rising logistics bottlenecks, Red Sea shipping reroutes, and solid demand drove US CPI inflation back up. The inflationary pressure forced central banks to maintain interest rates higher for longer, worsening commercial real estate refinancing friction."
+        },
+        {
+          "title": "Moody's Cuts Credit Rating Outlook for Ten Regional Banks",
+          "content": "Moody's downgraded several US mid-sized lenders and placed larger banks on negative outlook, warning that high funding costs, CRE concentration, and tighter capital rules (Basel III) would pressure banking sector profitability and liquidity."
+        },
+        {
+          "title": "ECB Begins Rate Cuts but Flags Commercial Property Defaults",
+          "content": "The European Central Bank delivered its first interest rate cut in five years but warned that structural challenges in Eurozone commercial real estate defaults and shadow banking credit models remained high, keeping systemic banks vulnerable."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 6,
+      "novelty_rationale": "While real estate cycles and bank failures are historically common, the post-pandemic combination of permanent hybrid-work dynamics (structural vacancy) alongside the fastest global rate-hiking cycle in decades creates a highly unique, compressed crisis vector for regional banking systems.",
+      "reasoning": "This module synthesizes the immediate, localized fallout of sustained macroeconomic tightening. As inflation and high rates persist, the commercial real estate market faces systemic distress. Because regional and mid-sized banks hold a disproportionate share of CRE debt, their balance sheets are uniquely vulnerable to defaults, raising the specter of bank runs, liquidity lockups, and broader credit contraction.\nUpdate Reasoning: The CNBC event demonstrates that the CRE refinancing cliff is no longer just a slow-burning credit cycle issue. Viral social-media-driven panic acts as an immediate catalyst, weaponizing latent CRE exposure to trigger immediate, catastrophic deposit flight from regional banks.\nUpdate Reasoning: The finalization of Basel III Endgame rules acts as an immediate regulatory amplifier. By forcing large banks to hold higher capital buffers, it curtails their capacity to participate in syndicated loans, warehouse regional bank risks, or provide liquidity lines. This directly starves the CRE sector of refinancing options at the exact moment regional banks are experiencing capital flight, creating a compounding credit squeeze.\nUpdate Reasoning: The SVB failure triggers a systemic re-pricing of risk for all mid-sized and regional banks. As these entities lose deposits, they must preserve liquidity by shrinking their balance sheets, directly accelerating the CRE liquidity cliff as refinancing options for distressed borrowers disappear.\nUpdate Reasoning: The liquidation of Evergrande adds a global contagion vector. As international banks face write-downs from Chinese property exposure, global capital markets become highly risk-averse. This reduces the capacity of foreign and domestic institutions to refinance the looming US and European CRE liquidity cliff, thereby compounding regional banking fragilities.\nUpdate Reasoning: The WSJ CPI rebound signal confirms that supply-chain inflation (Red Sea reroutes) is feeding back into monetary policy, locking in higher interest rates. This blocks the expected rate-cut relief path for regional banks and CRE developers, accelerating the liquidity cliff.\nUpdate Reasoning: Moody's downgrades directly validate the systemic threat of CRE concentration and high funding costs. This rating action increases marginal funding costs, accelerating the regional bank liquidity cliff.\nUpdate Reasoning: The ECB's rate cut, accompanied by explicit warnings of CRE defaults, confirms that monetary policy easing is lagging behind the reality of structural real estate deterioration. This extends the liquidity cliff globally, signaling that contagion is no longer confined to US regional banks but actively threatens systemic Eurozone lenders.",
+      "created_at": "2026-06-10T23:24:07.458839+00:00",
+      "updated_at": "2026-06-10T23:30:57.960608+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 8,
+      "last_update_reason": "The ECB's rate cut, accompanied by explicit warnings of CRE defaults, confirms that monetary policy easing is lagging behind the reality of structural real estate deterioration. This extends the liquidity cliff globally, signaling that contagion is no longer confined to US regional banks but actively threatens systemic Eurozone lenders."
+    },
+    {
+      "name": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+      "velocity": "Instantaneous/Hyper-accelerating, as the SVB collapse establishes a new baseline where a $42 billion deposit run can execute within a single business day via mobile banking apps.",
+      "inertia": "Maximum, anchored by the psychological coordination of depositors on real-time digital networks and the complete lack of modern market-microstructure circuit breakers for deposit withdrawals.",
+      "steeps_intersections": [
+        "Social",
+        "Technological",
+        "Economic",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Social Media Fuels Rapid Bank Run",
+          "content": "Echoing the SVB collapse, rumors of CRE exposure spread virally on social media, triggering a rapid deposit flight from a mid-sized regional bank. The event exposed the dangerous intersection of digital banking speed and psychological contagion."
+        },
+        {
+          "title": "Silicon Valley Bank Collapse Triggers Liquidity Crisis",
+          "content": "A classic bank run fueled by digital communications forced US regulators to shut down Silicon Valley Bank. High interest rates had severely depreciated SVB's treasury portfolio, triggering severe deposit flights and systemic risk concerns across mid-sized banks."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While bank runs are historically common, the compression of deposit flight timeframes from days to hours due to mobile banking and algorithmic social media virality represents a structurally new threat vector that bypasses traditional regulatory and liquidity safeguards.",
+      "reasoning": "The integration of real-time communication networks with instant mobile banking has structurally altered the speed and severity of deposit flight. This module isolates the technological and psychological feedback loop that enables localized balance sheet rumors to metastasize into existential liquidity crises in real time.\nUpdate Reasoning: The SVB collapse is the definitive empirical validation of this module. It proves that real-time social panic combined with modern digital banking rails has eliminated the historical friction of bank runs, turning traditional liquidity models obsolete overnight.",
+      "created_at": "2026-06-10T23:24:19.154504+00:00",
+      "updated_at": "2026-06-10T23:27:12.891512+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The SVB collapse is the definitive empirical validation of this module. It proves that real-time social panic combined with modern digital banking rails has eliminated the historical friction of bank runs, turning traditional liquidity models obsolete overnight."
+    },
+    {
+      "name": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+      "velocity": "Accelerating violently. Restrictions on critical lithography equipment supply lines act as a physical ceiling on downstream foundry capacity, threatening the hyper-growth assumptions baked into mega-cap tech valuations.",
+      "inertia": "High. The concentration of passive index flows into tech hardware giants makes the broader equity market highly sensitive to structural supply-chain or capacity disruptions.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Nvidia Becomes Most Valuable Global Company",
+          "content": "Driven by insatiable demand for AI hardware, Nvidia's market cap surpassed $3 Trillion. This extreme market concentration linked global stock market stability almost entirely to the continued boom in AI semiconductor sales."
+        },
+        {
+          "title": "US Bans Advanced AI Chip Exports to China",
+          "content": "In a major geopolitical escalation, the US blocked the export of advanced AI semiconductors to China. The tech decoupling threatened global supply chains and forced massive investments into sovereign chip manufacturing."
+        },
+        {
+          "title": "EU AI Act Becomes Enforceable Law",
+          "content": "The EU implemented the world's first comprehensive AI Act, placing strict systemic risk regulations on foundational models. The heavy compliance burden forced tech giants to geofence their AI deployments, fracturing the global internet."
+        },
+        {
+          "title": "ASML Export Restrictions on Advanced Lithography Machines",
+          "content": "The Dutch government, under US diplomatic pressure, restricted ASML from exporting highly advanced deep ultraviolet lithography systems to China. The geopolitical fracture accelerated structural tech-decoupling and advanced semiconductor shortages."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Neutral",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "Unlike historical tech bubbles (e.g., the 2000 dot-com era) where speculation was distributed across hundreds of telecom and internet startups, the modern AI equity boom is concentrated in a singular, hardware-bottlenecked entity, coupling global financial index stability directly to semiconductor manufacturing yields and CAPEX cycles.",
+      "reasoning": "The rise of Nvidia to the world's most valuable company represents a structural shift in global equity markets. It transforms a technological hardware bottleneck into a systemic financial vulnerability. If AI infrastructure demand cools, or if geopolitical tensions (e.g., Taiwan/TSMC) disrupt GPU supply, the resulting valuation correction would trigger a systemic shock across global capital markets due to index concentration.\nUpdate Reasoning: An export ban on advanced AI chips to China directly impacts the addressable market size of the dominant AI hardware firms. Given the extreme concentration of global market caps in these few firms, geopolitical restriction acts as a direct financial stability threat, increasing tail risk for global equity indices.\nUpdate Reasoning: The geofencing of frontier AI models within the EU directly restricts the revenue growth models of the dominant US tech giants. Because modern equity index performance is unsustainably concentrated in these few firms, this sudden loss of European market access acts as a direct financial stability threat, accelerating the fragility of the overall equity market.\nUpdate Reasoning: ASML is the ultimate single-point-of-failure in the hardware supply chain. Restricting its DUV lithography systems to China directly constrains future global semiconductor fabrication capacity and shifts the revenue-generation pathways of key tech index drivers. This physical constraint increases the vulnerability of highly-concentrated equity indices that assume uninterrupted scaling.",
+      "created_at": "2026-06-10T23:24:36.399178+00:00",
+      "updated_at": "2026-06-10T23:28:59.278988+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 4,
+      "last_update_reason": "ASML is the ultimate single-point-of-failure in the hardware supply chain. Restricting its DUV lithography systems to China directly constrains future global semiconductor fabrication capacity and shifts the revenue-generation pathways of key tech index drivers. This physical constraint increases the vulnerability of highly-concentrated equity indices that assume uninterrupted scaling."
+    },
+    {
+      "name": "Sovereign Tech Mercantilism and Balkanization of the Advanced Compute Supply Chain",
+      "velocity": "Extremely High and Mutually Escalating. The shift from unilateral Western technology restrictions to bilateral material bans completes the retaliatory loop, accelerating the timeline for complete supply chain decoupling.",
+      "inertia": "Extremely High. Alternative supply chains for processing critical semiconductor inputs cannot be easily established, cementing long-term resource volatility and high manufacturing friction.",
+      "steeps_intersections": [
+        "Political",
+        "Economic",
+        "Technological",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "US Bans Advanced AI Chip Exports to China",
+          "content": "The US blocked advanced AI semiconductor exports to China, driving tech decoupling and forcing massive sovereign manufacturing investments."
+        },
+        {
+          "title": "China Restricts Critical Mineral Exports",
+          "content": "Retaliating against chip bans, China restricted the export of Gallium, Germanium, and rare earths. This resource mercantilism directly threatened Western AI hardware production and green energy transitions."
+        },
+        {
+          "title": "ASML Export Restrictions on Advanced Lithography Machines",
+          "content": "The Dutch government, under US diplomatic pressure, restricted ASML from exporting highly advanced deep ultraviolet lithography systems to China. The geopolitical fracture accelerated structural tech-decoupling and advanced semiconductor shortages."
+        },
+        {
+          "title": "China Retaliates with Graphite and Germanium Export Curbs",
+          "content": "Beijing introduced severe export licensing controls on crucial battery-grade Graphite and semiconductor Germanium. The trade retaliation directly targeted the Western AI hardware chip supply chain, driving high resource volatility."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Medium-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While tech competition is old, the outright bifurcation of the core hardware engine of the future global economy (AI compute) marks a novel structural shift from globalized efficiency to weaponized sovereign redundancy.",
+      "reasoning": "This module captures the structural transition of the AI compute stack from a globalized, highly integrated commercial supply chain into a weaponized instrument of statecraft. The US export ban formalizes a structural split where technology stack alignment is dictated by geopolitical allegiance rather than market forces, initiating a massive capital expenditure cycle in sovereign chip manufacturing.\nUpdate Reasoning: China's export restrictions on Gallium, Germanium, and rare earths are a direct retaliatory escalation. It proves that the balkanization of compute supply chains is not merely about downstream fab capacity, but is bottlenecked by upstream critical mineral inputs, raising structural friction to maximum levels.\nUpdate Reasoning: The restriction of ASML DUV lithography exports by the Dutch government, under US pressure, marks the transition to hard physical-machinery denial. This directly complements China's upstream critical mineral bans, proving that the tech cold war is being fought at the physical layers of the compute stack (both inputs and fabrication tools), locking in supply chain balkanization.\nUpdate Reasoning: The restriction of semiconductor-grade Germanium by Beijing acts as a direct retaliatory counterweight to Western physical equipment denials (like ASML lithography). This confirms that both ends of the advanced compute supply chain\u2014upstream minerals and downstream manufacturing tools\u2014are now fully weaponized, driving structural, permanent balkanization.",
+      "created_at": "2026-06-10T23:24:49.121535+00:00",
+      "updated_at": "2026-06-10T23:30:07.104110+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 4,
+      "last_update_reason": "The restriction of semiconductor-grade Germanium by Beijing acts as a direct retaliatory counterweight to Western physical equipment denials (like ASML lithography). This confirms that both ends of the advanced compute supply chain\u2014upstream minerals and downstream manufacturing tools\u2014are now fully weaponized, driving structural, permanent balkanization."
+    },
+    {
+      "name": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+      "velocity": "Accelerating, as the physical discovery of domestic super-deposits competes with and alters the development timelines of algorithmic mineral substitution.",
+      "inertia": "High, because although massive physical deposits are confirmed domestically, the time-to-market remains bound by traditional environmental litigation, permitting, and the absence of domestic refining infrastructure.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Environmental",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "China Restricts Critical Mineral Exports",
+          "content": "Retaliating against chip bans, China restricted the export of Gallium, Germanium, and rare earths. This resource mercantilism directly threatened Western AI hardware production and green energy transitions."
+        },
+        {
+          "title": "AI Discovers Novel Solid-State Battery Material",
+          "content": "An AI model, running on massive compute clusters, screened millions of compounds to discover a new battery material. While highly energy-intensive to compute, the discovery promised to reduce global reliance on contested lithium supplies."
+        },
+        {
+          "title": "Massive Lithium Deposit Found in US Caldera",
+          "content": "Geologists confirmed the McDermitt Caldera holds the world's largest lithium deposit. The discovery promised to reshape geopolitical energy supply chains and reduce Western dependency on restricted mineral exports."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "Historically, resource embargoes targeted fossil fuels (e.g., 1970s OPEC). Weaponizing the highly specialized, low-volume chemical precursors essential specifically for advanced semiconductors and green technologies represents a highly precise, modern form of structural economic warfare.",
+      "reasoning": "This module represents the intersection of the energy transition and the AI hardware race. It captures how control over the microscopic elements of the periodic table acts as an asymmetrical lever to freeze the macroeconomic ambitions of technologically superior nations.\nUpdate Reasoning: The MIT Tech Review event reveals a pivotal feedback loop: superior compute capacity is now being deployed to directly bypass geological monopolies (like lithium). This introduces a dynamic where technological dominance can erode physical mineral leverage over the long term, though physical scaling constraints still preserve near-term bottleneck risks.\nUpdate Reasoning: The discovery of the world's largest lithium deposit in the US McDermitt Caldera introduces a massive physical counterweight to existing adversary-controlled bottlenecks. It directly alters the long-term strategic timeline for Western mineral independence, shifting the focus from purely synthetic bypasses to accelerated domestic extraction and infrastructure building.",
+      "created_at": "2026-06-10T23:25:01.708773+00:00",
+      "updated_at": "2026-06-10T23:25:52.095622+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 3,
+      "last_update_reason": "The discovery of the world's largest lithium deposit in the US McDermitt Caldera introduces a massive physical counterweight to existing adversary-controlled bottlenecks. It directly alters the long-term strategic timeline for Western mineral independence, shifting the focus from purely synthetic bypasses to accelerated domestic extraction and infrastructure building."
+    },
+    {
+      "name": "Physical Resource-Scarcity Bottlenecks to Generative AI Scaling",
+      "velocity": "Accelerating violently, transitioning from mid-term projections to acute real-time operational failures as extreme weather events and computational demand spikes synchronize to threaten regional grid stability.",
+      "inertia": "Extremely High, locked in by the multidecadal engineering timelines required to expand power transmission lines, build new power generation facilities, and redesign cooling systems for high-density AI clusters.",
+      "steeps_intersections": [
+        "Technological",
+        "Environmental",
+        "Political",
+        "Economic"
+      ],
+      "evidence_signals": [
+        {
+          "title": "AI Datacenter Water Consumption Spikes 34%",
+          "content": "Reports revealed that generative AI model training caused a 34% surge in corporate water consumption. This environmental strain directly conflicted with regional droughts, prompting local governments to threaten datacenter shutdowns."
+        },
+        {
+          "title": "AI Discovers Novel Solid-State Battery Material",
+          "content": "An AI model, running on massive compute clusters, screened millions of compounds to discover a new battery material. While highly energy-intensive to compute, the discovery promised to reduce global reliance on contested lithium supplies."
+        },
+        {
+          "title": "Extreme Weather Overloads Texas Power Grid from Datacenter Spike",
+          "content": "A severe heatwave combined with extreme power consumption by generative AI data centers pushed the Texas electrical grid to near collapse. The incident forced operational capacity limits, showcasing how AI scaling directly strains physical infrastructure resilience."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While energy consumption of computation is a known variable, the rapid 34% acceleration of water consumption specifically for cooling generative AI training clusters introduces a novel and immediate ecological bottleneck. The prospect of local governments actively shutting down live compute clusters during droughts highlights a sharp transition from virtual scaling to hard physical resource limits.",
+      "reasoning": "Generative AI scaling requires massive compute density, generating intense heat loads that are most efficiently managed via water-evaporative cooling. This creates a localized, zero-sum conflict between technology infrastructure and municipal water security during periods of environmental stress. As climate volatility exacerbates droughts, local governments are stepping in as regulatory gatekeepers, turning physical resources like water into a direct structural constraint on digital expansion.\nUpdate Reasoning: The discovery of the solid-state material required highly energy-intensive computational runs. This highlights that AI's physical footprint is not restricted to generative consumer applications; the scientific and material revolution powered by AI will compound the aggregate energy draw, escalating conflicts over localized power grid capacities.\nUpdate Reasoning: The ERCOT grid incident in Texas provides concrete, empirical evidence that the intersection of extreme weather and generative AI energy demands is already threatening legacy power grids with systemic collapse. This transitions the bottleneck from a theoretical future limit to a present-day operational risk that will restrict raw compute capacity expansion.",
+      "created_at": "2026-06-10T23:25:11.240003+00:00",
+      "updated_at": "2026-06-10T23:29:12.275346+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 3,
+      "last_update_reason": "The ERCOT grid incident in Texas provides concrete, empirical evidence that the intersection of extreme weather and generative AI energy demands is already threatening legacy power grids with systemic collapse. This transitions the bottleneck from a theoretical future limit to a present-day operational risk that will restrict raw compute capacity expansion."
+    },
+    {
+      "name": "Macro-Critical Climateflation and Systemic Agricultural Yield Fragility",
+      "velocity": "Accelerating, as escalating ocean thermal energy drives non-linear weather extremes that disrupt regional growing seasons and compound global supply-side price pressures.",
+      "inertia": "High, due to the structural inelasticity of global food demand, deep-seated regional dependencies on specific crop cycles, and the limited efficacy of standard monetary tools against supply-driven, climate-induced inflation.",
+      "steeps_intersections": [
+        "Social",
+        "Economic",
+        "Environmental",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Record Ocean Temperatures Disrupt Weather Patterns",
+          "content": "Global ocean heat hit unprecedented record highs, accelerating extreme weather events. The climate volatility directly worsened the Panama Canal drought and threatened global agricultural yields, fueling further inflation."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 7,
+      "novelty_rationale": "While weather impacts on agriculture are historically common, the systematic coupling of marine heatwaves with persistent, supply-side global inflation (climateflation) represents a novel structural feedback loop that undermines conventional macroeconomic stabilization mechanisms.",
+      "reasoning": "This module synthesizes the direct transmission mechanism between rising global ocean temperatures, climate volatility, crop yield degradation, and macroeconomic inflation. As extreme weather events become more systemic and severe, they shift from isolated, temporary crop shocks to persistent, structural drivers of global inflation, complicating monetary policy and threatening food security on a geopolitical scale.",
+      "created_at": "2026-06-10T23:25:25.473064+00:00",
+      "updated_at": "2026-06-10T23:25:25.473064+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Algorithmic Resource Substitution: Compute Power as Geopolitical Mineral Insurance",
+      "velocity": "Accelerating, driven by the rapid scaling of deep learning models optimized for molecular design and material physics, compressing structural discovery timelines from decades to days.",
+      "inertia": "Medium, because while the digital design phase has zero inertia once compute is active, the physical manufacturing, validation, and commercial scale-up of novel materials remain bound by traditional capital expenditure delays.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Environmental",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "AI Discovers Novel Solid-State Battery Material",
+          "content": "MIT Tech Review reports an AI model screened millions of compounds to discover a solid-state battery material that could bypass contested lithium supplies, albeit at the cost of high compute energy consumption."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Positive",
+      "temporal_horizon": "Medium-term",
+      "novelty_score": 8,
+      "novelty_rationale": "Traditionally, geopolitical resource dependency was solved through military control, trade agreements, or slow physical exploration. Using massive, energy-intensive AI compute to systematically design around geological scarcity is a paradigm shift that turns computational capacity directly into physical resource resilience.",
+      "reasoning": "This module captures the synthesis of advanced compute and critical material resilience. It shows that nations possessing advanced sovereign compute clusters can strategically bypass physical resource embargoes or supply chains controlled by adversaries by algorithmically engineering alternative material chemistry.",
+      "created_at": "2026-06-10T23:25:35.574037+00:00",
+      "updated_at": "2026-06-10T23:25:35.574037+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Geological Re-Shoring: Domestic Mega-Deposits and the De-Risking of Clean-Tech Supply Chains",
+      "velocity": "Accelerating, driven by national security-driven capital allocation and legislative fast-tracking of domestic mining and refining projects.",
+      "inertia": "Extremely High, because environmental regulations, local community opposition, and downstream processing bottlenecks take years to resolve despite the geological discovery.",
+      "steeps_intersections": [
+        "Environmental",
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Massive Lithium Deposit Found in US Caldera",
+          "content": "Geologists confirmed the McDermitt Caldera holds the world's largest lithium deposit. The discovery promised to reshape geopolitical energy supply chains and reduce Western dependency on restricted mineral exports."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Positive",
+      "temporal_horizon": "Long-term",
+      "novelty_score": 8,
+      "novelty_rationale": "Finding a world-record mineral deposit on US soil at the exact peak of geopolitical supply-chain decoupling disrupts the established narrative of absolute Western mineral vulnerability. It shifts the strategic chessboard from scarcity mitigation to a race for rapid industrial execution.",
+      "reasoning": "This module represents the physical counterpart to algorithmic mineral substitution. While advanced nations deploy AI to bypass minerals, the discovery of massive local resources like the McDermitt Caldera creates a physical pathway to total supply-chain sovereignty, provided the West can overcome the execution challenges of processing and refining.",
+      "created_at": "2026-06-10T23:25:52.095622+00:00",
+      "updated_at": "2026-06-10T23:25:52.095622+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Sovereign Regulatory Divergence and the Balkanization of Global AI Software Deployment",
+      "velocity": "Accelerating rapidly, as regional legal frameworks force immediate geofencing, partitioning previously unified global software ecosystems into heavily regulated regional jurisdictions.",
+      "inertia": "High, anchored by the immense legal, operational, and network engineering costs required to build and maintain diverging, location-aware sovereign model architectures.",
+      "steeps_intersections": [
+        "Political",
+        "Technological",
+        "Economic",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "EU AI Act Becomes Enforceable Law",
+          "content": "The EU implemented the world's first comprehensive AI Act, placing strict systemic risk regulations on foundational models. The heavy compliance burden forced tech giants to geofence their AI deployments, fracturing the global internet."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While data localization (e.g., GDPR) previously threatened digital unity, the explicit geofencing and hard partitioning of raw cognitive/computational capabilities represents a novel epoch. AI is no longer a globally distributed utility, but a fragmented national or regional asset class.",
+      "reasoning": "The enforcement of the EU AI Act demonstrates that sovereign states are willing to trade digital connectivity for systemic risk mitigation. Tech giants opting to pull out of regions entirely rather than comply reveals that regulatory friction has crossed the threshold of economic viability. This splits the software layers of the internet into distinct regulatory jurisdictions, mirroring the physical balkanization of the hardware supply chain.",
+      "created_at": "2026-06-10T23:26:06.411074+00:00",
+      "updated_at": "2026-06-10T23:26:06.411074+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Regulatory-Driven Risk Migration to Shadow Credit and Non-Bank Financial Intermediaries (NBFIs)",
+      "velocity": "Rapidly accelerating, as rating agency pressure over Basel III compliance forcing banks to shrink assets triggers faster migration to shadow credit.",
+      "inertia": "High, driven by structural regulatory shifts and the massive capital pool in private credit ready to absorb bank retrenchment.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Basel III Endgame Capital Rules Finalized",
+          "content": "Federal Reserve finalizes strict capital requirements for large banks to prevent SVB-style collapses, triggering warnings of severely constrained lending liquidity."
+        },
+        {
+          "title": "Moody's Cuts Credit Rating Outlook for Ten Regional Banks",
+          "content": "Moody's downgraded several US mid-sized lenders and placed larger banks on negative outlook, warning that high funding costs, CRE concentration, and tighter capital rules (Basel III) would pressure banking sector profitability and liquidity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Medium-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While shadow banking is a known phenomenon, the finalization of Basel III Endgame represents a permanent structural migration of systemic credit risk into opaque private credit markets that entirely lack access to central bank backstops (discount windows) or formal deposit insurance.",
+      "reasoning": "This module captures the systemic consequence of regulatory tightening. By attempting to de-risk the formal banking sector from 'SVB-style' collapses, regulators are inadvertently pushing high-yield, riskier debt (such as CRE refinancing and leveraged corporate loans) into the shadow financial sector. This creates a highly concentrated, opaque ecosystem of private lenders (PE, private credit funds) that are highly sensitive to liquidity shocks but completely shielded from regulatory oversight and public bailouts.\nUpdate Reasoning: Moody's explicitly names tighter capital rules (Basel III) as a primary driver of the pressure on bank profitability and liquidity. This confirms the regulatory push factor that is driving risk assets out of the regulated sector and into NBFIs.",
+      "created_at": "2026-06-10T23:26:18.223958+00:00",
+      "updated_at": "2026-06-10T23:29:51.649344+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "Moody's explicitly names tighter capital rules (Basel III) as a primary driver of the pressure on bank profitability and liquidity. This confirms the regulatory push factor that is driving risk assets out of the regulated sector and into NBFIs."
+    },
+    {
+      "name": "Institutionalization of Decentralized Assets: Systemic Crypto-TradFi Contagion Vector",
+      "velocity": "Extreme, as the abrupt collapse of a major offshore exchange triggers immediate global regulatory crackdowns and rapidly accelerates the transition to institutional, compliance-first wrappers.",
+      "inertia": "High, anchored by the total loss of institutional trust in native unregulated infrastructure, leaving compliant TradFi wrappers as the only legally viable pathway for digital asset exposure.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "SEC Approves Spot Crypto ETFs",
+          "content": "Following massive institutional pressure, the SEC approved spot Bitcoin ETFs, instantly deeply integrating highly volatile crypto assets into traditional Wall Street retirement funds and banking balance sheets."
+        },
+        {
+          "title": "SEC Files Lawsuit Against Major Crypto Exchange Binance",
+          "content": "The SEC sued Binance and its founder for operating an unregistered exchange, offering unregistered securities, and mismanaging customer assets. The high-profile regulatory crackdown severely restricted cryptocurrency market liquidity and institutional trust."
+        },
+        {
+          "title": "FTX Exchange Insolvency Triggers Crypto Contagion",
+          "content": "The sudden collapse of FTX, a dominant cryptocurrency exchange, revealed multi-billion dollar fraud and balance sheet holes. The crisis wiped out billions in retail assets, triggered direct traditional bank run contagion, and froze digital liquidity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "For the first time in modern financial history, a highly volatile, algorithmic, and non-sovereign digital asset has been structurally integrated into the core retail retirement and bank balance sheet infrastructure of the world's largest economy.",
+      "reasoning": "The approval of spot crypto ETFs represents the dismantling of the regulatory firewall that previously insulated systemic financial institutions from cryptocurrency volatility. By allowing direct balance sheet exposure and retail retirement integration, any sharp drawdown or systemic liquidity event in the crypto markets will now directly impact consumer wealth, bank solvency, and traditional financial stability.\nUpdate Reasoning: By aggressively targeting Binance, regulators are bifurcating the digital asset space. This forces institutional investors to abandon decentralized or native market access points and rely solely on regulated TradFi products. This deeper systemic integration means that future liquidity shocks or drawdowns in the crypto space are now structurally bound to traditional retail and institutional balance sheets.\nUpdate Reasoning: The FTX collapse acts as the ultimate historical catalyst for this module. It justifies the regulatory panic that subsequently targets native infrastructure (like Binance) and mathematically drives the rapid capital shift toward regulated TradFi alternatives (like Spot ETFs) as institutions abandon direct decentralized exposure.",
+      "created_at": "2026-06-10T23:26:31.558548+00:00",
+      "updated_at": "2026-06-10T23:28:27.035706+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 3,
+      "last_update_reason": "The FTX collapse acts as the ultimate historical catalyst for this module. It justifies the regulatory panic that subsequently targets native infrastructure (like Binance) and mathematically drives the rapid capital shift toward regulated TradFi alternatives (like Spot ETFs) as institutions abandon direct decentralized exposure."
+    },
+    {
+      "name": "Fragility of Legacy Trade Infrastructure to Modern Vessel Scale",
+      "velocity": "Accelerating, as the rapid growth of merchant vessel sizes and cargo volumes increasingly outpaces the structural resilience and engineering limits of legacy harbor infrastructure.",
+      "inertia": "High, locked in by the multidecadal lifecycle of civil infrastructure and the massive capital expenditures required to redesign and retrofit deep-water ports and shipping channels.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Major Port Bridge Collapse Severs Auto Supply Chain",
+          "content": "A cargo ship power failure led to the collapse of a critical bridge, entirely blocking a major US port. The infrastructure failure severely disrupted auto and coal supply chains, adding another vector to the global logistics crisis."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 7,
+      "novelty_rationale": "The mismatch between modern mega-ships and aging legacy physical infrastructure introduces single-point-of-failure vulnerabilities where localized operational accidents instantly trigger global, systemic supply chain shocks.",
+      "reasoning": "This module represents the growing structural vulnerability of maritime logistics where legacy civil engineering (bridges, channels) cannot safely absorb the kinetic energy or operational failures of modern, massive cargo vessels. A localized power failure on a ship now has the leverage to shut down an entire regional gateway, instantly severing key industrial supply chains like autos and energy.",
+      "created_at": "2026-06-10T23:26:46.049111+00:00",
+      "updated_at": "2026-06-10T23:26:46.049111+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "State-Sponsored Cyber-Extortion and the Vulnerability of Systemic Financial Infrastructure",
+      "velocity": "Critical/Exponential, transitioning from theoretical threat vectors to active operational paralysis of core sovereign debt market settlements.",
+      "inertia": "High, anchored by the vast, legacy, and highly interconnected IT architectures of global systemically important banks (G-SIBs) which present continuous vulnerabilities.",
+      "steeps_intersections": [
+        "Technological: Cybersecurity Threats",
+        "Technological: Payment Systems & Financial Infrastructure",
+        "Political: Geopolitical Risks & Conflicts",
+        "Economic: Financial Stability & Banking Sector",
+        "Security: Systemic & Operational Resilience"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Global Police Takedown of Major Ransomware Gang",
+          "content": "An unprecedented international law enforcement operation dismantled the world's most prolific ransomware syndicate. The raid revealed deep ties between cyber-extortion rings and state-sponsored attacks on critical financial infrastructure."
+        },
+        {
+          "title": "Ransomware Attack on ICBC Halts US Treasury Settlements",
+          "content": "A ransomware attack on the Industrial and Commercial Bank of China (ICBC) disrupted the settlement of US Treasury trades. The incident exposed how local infrastructure failures at a major foreign bank can lock up critical market payment liquidity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While ransomware and state-sponsored hacking have historically run parallel, their absolute fusion into a single operational weapon\u2014where commercial cyber-extortion acts as a direct geostrategic proxy targeting systemic financial plumbing\u2014marks a highly disruptive evolution in asymmetric warfare.",
+      "reasoning": "This module synthesizes the structural convergence of commercial cybercrime and state-sponsored geopolitical aggression. The Europol takedown provides concrete evidence that prolific cyber-extortion syndicates do not operate in a vacuum; rather, they are integrated into state offensive apparatuses. This hybridization elevates ransomware from a corporate operational nuisance to a systemic threat capable of paralyzing core financial clearing, payment systems, and institutional trust.\nUpdate Reasoning: The ransomware attack on ICBC directly validates this module by demonstrating that cyber-extortion syndicates can successfully penetrate a G-SIB (and a major Chinese state-owned bank), causing immediate downstream settlement failures in the US Treasury market. This transitions the risk from a localized data breach to a systemic operational threat to global sovereign debt plumbing.",
+      "created_at": "2026-06-10T23:27:00.597180+00:00",
+      "updated_at": "2026-06-10T23:28:43.526036+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The ransomware attack on ICBC directly validates this module by demonstrating that cyber-extortion syndicates can successfully penetrate a G-SIB (and a major Chinese state-owned bank), causing immediate downstream settlement failures in the US Treasury market. This transitions the risk from a localized data breach to a systemic operational threat to global sovereign debt plumbing."
+    },
+    {
+      "name": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+      "velocity": "Super-critical and accelerating. The systemic risk vector has expanded from US dollar treasury repricing to include active Eurozone contagion, as sovereign yields spike across highly indebted European nations.",
+      "inertia": "Maximum. Strongly bound by trillions of dollars in legacy low-coupon assets globally and compounded by Eurozone refinancing requirements, where sovereign-bank doom-loops restrict central bank intervention options.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Silicon Valley Bank Collapse Triggers Liquidity Crisis",
+          "content": "A classic bank run fueled by digital communications forced US regulators to shut down Silicon Valley Bank. High interest rates had severely depreciated SVB's treasury portfolio, triggering severe deposit flights and systemic risk concerns across mid-sized banks."
+        },
+        {
+          "title": "Credit Suisse Rescued by UBS in Historic Merger",
+          "content": "Following severe bank run panic and decades of operational issues, Swiss authorities brokered a forced acquisition of Credit Suisse by UBS. The merger prevented a potential European banking systemic collapse, but heavily consolidated systemic risk."
+        },
+        {
+          "title": "Fitch Downgrades US Sovereign Credit Rating",
+          "content": "Fitch downgraded the United States' long-term credit rating from AAA to AA+, citing rising government debt burden and political polarization surrounding fiscal negotiations. The downgrade shook global bond yields and sovereign asset trust."
+        },
+        {
+          "title": "Sovereign Debt Volatility Spikes Amid Eurozone Refinancing Fears",
+          "content": "Renewed inflationary supply-chain bottlenecks and persistent high interest rates caused a sudden spike in sovereign bond yields across highly indebted European nations. The widening spreads injected fresh liquidity pressures into regional banking balance sheets, prompting fears of credit contraction and localized financial sector instability."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While interest rate risk is a classic banking issue, the rapid speed of modern monetary tightening has turned traditionally 'risk-free' sovereign assets into systemic liquidity anchors, exposing a major vulnerability in post-QE financial architecture.",
+      "reasoning": "The rapid transition from ultra-low rates to aggressive tightening has exposed a massive vulnerability: banks loaded up on low-yielding long-term Treasuries and MBS during the pandemic. When rates rose, these assets lost market value. When forced to liquidate to meet sudden deposit flights, these unrealized losses crystallize, threatening insolvency across mid-sized banks.\nUpdate Reasoning: The Credit Suisse collapse proves that the global liquidity tightening regime has escalated contagion beyond regional US banks to G-SIBs. The speed of the deposit run was amplified by the post-SVB panic, forcing immediate state-brokered intervention. This demonstrates that unrecognized losses and systemic liquidity constraints are actively destabilizing the highest tiers of the global financial architecture.\nUpdate Reasoning: The sovereign credit downgrade of the US causes a repricing of global bond yields, which directly lowers the price of legacy low-yield bonds held on bank balance sheets. This deepens the systemic duration mismatch problem, converting macro sovereign risk into micro banking sector fragility as the unrealized loss gap expands for both regional banks and G-SIBs.\nUpdate Reasoning: The Eurozone refinancing panic acts as an immediate force multiplier for the existing duration mismatch crisis. When supply-chain driven inflationary pressures force sovereign yields to spike, the resulting wider spreads hit regional bank balance sheets directly, converting localized fiscal stress into systemic credit contraction risks.",
+      "created_at": "2026-06-10T23:27:12.891512+00:00",
+      "updated_at": "2026-06-10T23:32:16.035982+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 4,
+      "last_update_reason": "The Eurozone refinancing panic acts as an immediate force multiplier for the existing duration mismatch crisis. When supply-chain driven inflationary pressures force sovereign yields to spike, the resulting wider spreads hit regional bank balance sheets directly, converting localized fiscal stress into systemic credit contraction risks."
+    },
+    {
+      "name": "State-Engineered G-SIB Mergers and Systemic Risk Concentration",
+      "velocity": "Accelerating rapidly as central banks and sovereigns bypass standard bankruptcy and shareholder voting protocols to execute emergency weekend consolidations of failing systemically important banks.",
+      "inertia": "Extremely high, structurally anchored by sovereign balance-sheet backstops, government-guaranteed liquidity lines, and the legal/financial precedent of altering debt-holder hierarchies (e.g., AT1 write-downs).",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Credit Suisse Rescued by UBS in Historic Merger",
+          "content": "Following severe bank run panic and decades of operational issues, Swiss authorities brokered a forced acquisition of Credit Suisse by UBS. The merger prevented a potential European banking systemic collapse, but heavily consolidated systemic risk."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "The forced merger of G-SIBs, combined with the administrative write-down of $17 billion in AT1 bonds ahead of equity holders, completely upends traditional capital structure rules and creates a super-major bank whose balance sheet is over double Swiss GDP, centralizing systemic risk to an unprecedented degree.",
+      "reasoning": "This module tracks the transition from market-driven banking resolutions to forced, state-orchestrated G-SIB mergers. To prevent contagion, regulators are choosing to concentrate risk in even larger entities, amplifying the 'Too-Big-To-Fail' dilemma and directly binding sovereign fiscal stability to the solvency of hyper-concentrated megabanks.",
+      "created_at": "2026-06-10T23:27:28.984211+00:00",
+      "updated_at": "2026-06-10T23:27:28.984211+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Sovereign-Scale Real Estate Insolvency and Global Debt Restructuring Shocks",
+      "velocity": "Accelerating as the court-ordered liquidation of Evergrande forces a chaotic unraveling of offshore developer debt and dry-up of domestic property sector liquidity.",
+      "inertia": "High, locked in by the vast scale of China's property-related debt (nearly 30% of GDP historically) and the complex legal/jurisdictional clashes between Western offshore creditors and Mainland Chinese courts.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Evergrande Liquidation Order Shocks Real Estate",
+          "content": "A Hong Kong court ordered the liquidation of Chinese property giant Evergrande after failures to restructure massive debt. The default crippled domestic developer liquidity and sparked global worries about real estate spillovers and bank fragility."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While property defaults are historically common, the forced liquidation of a $300B+ systemic developer by an offshore Hong Kong court, clashing with mainland Chinese jurisdiction and threatening total wipeout of global bondholders, represents an unprecedented test of global capital structures and cross-border insolvency frameworks.",
+      "reasoning": "The Evergrande liquidation marks the transition from controlled restructuring to active, chaotic dismantling. It shifts the narrative from localized property downturns to systemic sovereign-scale credit events, raising risk premiums globally, disrupting capital flows, and testing the limits of cross-border financial legal frameworks.",
+      "created_at": "2026-06-10T23:27:58.554343+00:00",
+      "updated_at": "2026-06-10T23:27:58.554343+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Cross-Contagion Corridor: Crypto-Asset Liability Transmission to Traditional Banking",
+      "velocity": "Accelerating rapidly, driven by compounding technological and operational vulnerabilities that trigger immediate trust degradation and potential capital flight.",
+      "inertia": "High, structurally sustained by the close technological and operational links between fiat on-ramps and digital asset exchanges, complicated by vulnerable API integration layers.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "FTX Exchange Insolvency Triggers Crypto Contagion",
+          "content": "The sudden collapse of FTX, a dominant cryptocurrency exchange, revealed multi-billion dollar fraud and balance sheet holes. The crisis wiped out billions in retail assets, triggered direct traditional bank run contagion, and froze digital liquidity."
+        },
+        {
+          "title": "Cybersecurity Deficiencies Exposed at Major Digital Ledger Bank",
+          "content": "A central digital asset custodian bank disclosed a severe API authorization vulnerability that briefly exposed deposit logs. While no funds were lost, the exposure sparked severe trust degradation regarding digital infrastructure integrity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 9,
+      "novelty_rationale": "Direct transmission of systemic risk from unregulated, decentralized asset ecosystems back into sovereign-regulated commercial banking networks (via concentrated deposit runs) represents an unprecedented vector of financial instability.",
+      "reasoning": "The collapse of FTX reveals that the boundary between crypto-native platforms and the traditional banking system is highly porous. Financial institutions serving as key fiat gateways or holding concentrated deposits from crypto entities face immediate, high-velocity bank runs when those entities collapse, demonstrating a direct contagion loop from decentralized asset failures to traditional financial stability.\nUpdate Reasoning: The API authorization vulnerability at a major digital asset custodian bank demonstrates that transmission channels are not limited to balance-sheet exposure; technical and operational failures at systemic digital-fiat gateways introduce a distinct contagion vector through immediate trust degradation.",
+      "created_at": "2026-06-10T23:28:27.035706+00:00",
+      "updated_at": "2026-06-10T23:31:25.447305+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The API authorization vulnerability at a major digital asset custodian bank demonstrates that transmission channels are not limited to balance-sheet exposure; technical and operational failures at systemic digital-fiat gateways introduce a distinct contagion vector through immediate trust degradation."
+    },
+    {
+      "name": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+      "velocity": "Exponentially compounding, as non-malicious IT monoculture failures intersect with targeted cyber-threats to multiply the frequency of operational freezes across critical financial market infrastructures.",
+      "inertia": "Maximum, reinforced by the structural inability of legacy clearinghouse networks and primary dealer systems to rapidly failover to non-Windows or isolated operating systems during a global IT infrastructure collapse.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Ransomware Attack on ICBC Halts US Treasury Settlements",
+          "content": "A ransomware attack on the Industrial and Commercial Bank of China (ICBC) disrupted the settlement of US Treasury trades. The incident exposed how local infrastructure failures at a major foreign bank can lock up critical market payment liquidity."
+        },
+        {
+          "title": "CrowdStrike Glitch Halts London Stock Exchange Trading",
+          "content": "A faulty automatic security update from CrowdStrike corrupted millions of Windows instances globally. The resulting blue-screen failures halted the London Stock Exchange, cancelled thousands of flights, and highlighted the extreme concentration risk in IT."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While cyber threats are persistent, a direct operational disruption of US Treasury settlements\u2014the foundational collateral of the global financial system\u2014by a ransomware attack on a foreign-owned bank is a highly novel and destabilizing vector. It exposes a structural vulnerability where global monetary liquidity is hostage to the localized cybersecurity posture of individual clearing members.",
+      "reasoning": "The ICBC ransomware event reveals a critical structural vulnerability: the plumbing of the global financial system is highly consolidated and relies on a few key nodes for clearing and settlement. When one node (even a foreign state-owned bank) experiences a cyber-driven operational failure, it creates an immediate 'liquidity lock' in the sovereign debt market, proving that operational risk is a direct driver of systemic liquidity risk.\nUpdate Reasoning: The CrowdStrike outage at the London Stock Exchange (LSE) demonstrates that systemic liquidity freezes do not require a hostile nation-state or ransomware actor (as in the ICBC event). Instead, the deep integration of automatic, kernel-level software updates within global trading and settlement infrastructures represents a systemic vulnerability. When trading venues freeze, the valuation and movement of collateral (including sovereign debt) are instantly impaired, compounding settlement risks across the entire global plumbing.",
+      "created_at": "2026-06-10T23:28:43.526036+00:00",
+      "updated_at": "2026-06-10T23:29:37.211915+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The CrowdStrike outage at the London Stock Exchange (LSE) demonstrates that systemic liquidity freezes do not require a hostile nation-state or ransomware actor (as in the ICBC event). Instead, the deep integration of automatic, kernel-level software updates within global trading and settlement infrastructures represents a systemic vulnerability. When trading venues freeze, the valuation and movement of collateral (including sovereign debt) are instantly impaired, compounding settlement risks across the entire global plumbing."
+    },
+    {
+      "name": "Systemic Vulnerability of Global Infrastructure Monocultures",
+      "velocity": "Instantaneous and propagating, expanding from proprietary enterprise SaaS to foundational open-source code registries and machine learning hubs.",
+      "inertia": "High, sustained by the standardized reliance of both tech firms and quantitative asset managers on centralized open-source pipelines that lack distributed validation.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Security",
+        "Social"
+      ],
+      "evidence_signals": [
+        {
+          "title": "CrowdStrike Glitch Halts London Stock Exchange Trading",
+          "content": "A faulty automatic security update from CrowdStrike corrupted millions of Windows instances globally. The resulting blue-screen failures halted the London Stock Exchange, cancelled thousands of flights, and highlighted the extreme concentration risk in IT."
+        },
+        {
+          "title": "AI Supply Chain Attack Infiltrates Algorithmic Trading Systems",
+          "content": "A sophisticated supply chain attack targeting widely used open-source machine learning registries compromised quantitative trading model pipelines. Several quantitative funds experienced brief flash crashes and automated trading halts, exposing the high operational risk of embedding unvetted open-source AI tools directly into systemic financial decision pipelines."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "While software bugs are historically common, the structural integration of automated, continuous cloud-to-kernel update loops in security software creates an entirely new class of synchronized global failure vectors. This bypasses traditional enterprise change-management and testing pipelines, creating a risk profile distinct from standard cyber threats.",
+      "reasoning": "This module captures the systemic threat of technical monocultures. In attempting to defend against cybersecurity threats, modern institutions have centralized their defenses into a handful of endpoint protection platforms. The CrowdStrike event reveals that this centralization introduces a fragile single point of failure. Because these systems operate with kernel-level privileges and update automatically, a single corrupt file instantly replicates failure across aviation, healthcare, logistics, and global financial exchanges simultaneously.\nUpdate Reasoning: The attack highlights that systemic software monocultures are not restricted to commercial endpoint protection platforms like CrowdStrike. The industry-wide reliance on standard open-source ML registries creates a shared vulnerability surface where a single compromised pipeline can trigger correlated failures (flash crashes) across independent financial institutions simultaneously.",
+      "created_at": "2026-06-10T23:29:37.211915+00:00",
+      "updated_at": "2026-06-10T23:31:55.969895+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 2,
+      "last_update_reason": "The attack highlights that systemic software monocultures are not restricted to commercial endpoint protection platforms like CrowdStrike. The industry-wide reliance on standard open-source ML registries creates a shared vulnerability surface where a single compromised pipeline can trigger correlated failures (flash crashes) across independent financial institutions simultaneously."
+    },
+    {
+      "name": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+      "velocity": "Accelerating rapidly as resource nationalism becomes the primary retaliatory instrument against Western technology containment strategies.",
+      "inertia": "High. The West's heavy reliance on China's midstream processing monopoly for critical minerals (refining over 60% of key materials) represents a vulnerability that takes up to a decade of capital expenditure and regulatory approvals to resolve.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Environmental",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "China Retaliates with Graphite and Germanium Export Curbs",
+          "content": "Beijing introduced severe export licensing controls on crucial battery-grade Graphite and semiconductor Germanium. The trade retaliation directly targeted the Western AI hardware chip supply chain, driving high resource volatility."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While mineral embargoes are historically common, the surgical targeting of highly purified, specialized mineral isotopes (like battery-grade graphite and semiconductor-grade germanium) to intentionally choke specific high-tech and green-transition industries marks a new, highly sophisticated era of physical supply chain warfare.",
+      "reasoning": "China\u2019s dominant position in the processing and refining of critical raw materials has transitioned from an economic advantage to an active geopolitical lever. By restricting battery-grade Graphite and semiconductor Germanium, Beijing is directly choking the dual pillars of the Western future economy: the AI hardware boom and the green energy transition.",
+      "created_at": "2026-06-10T23:30:07.104110+00:00",
+      "updated_at": "2026-06-10T23:30:07.104110+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+      "velocity": "Hyper-accelerating, driven by the frictionless transmission of viral synthetic media across social platforms and the immediate execution capabilities of mobile banking systems.",
+      "inertia": "High, sustained by the fragile sentiment surrounding regional banking institutions, fractional-reserve mechanics, and the psychological dominance of 'first-mover advantage' in modern deposit runs.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Deepfake Audio of Federal Reserve Chair Triggers Selloff",
+          "content": "A highly realistic AI-generated deepfake audio recording of the Federal Reserve Chair claiming a major bank was insolvent leaked on social media, triggering a short-lived panic run on regional bank shares."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "Historically, bank runs required physical lines or sustained coordinated digital messaging. The use of a deepfaked macroeconomic authority (the Fed Chair) to simulate an official solvency warning represents a novel, weaponized fusion of AI audio synthesis with game-theoretic depositor panic, creating a dynamic where the threat of insolvency becomes self-fulfilling in minutes.",
+      "reasoning": "This module represents the intersection of generative AI capabilities with structural banking vulnerabilities. When automated algorithms and retail investors ingest highly realistic, synthetic pronouncements of bank insolvency, the immediate capital flight occurs faster than regulatory or institutional communication can correct the record. This creates a systemic vulnerability where the illusion of insolvency quickly translates into actual, hard liquidity runs.",
+      "created_at": "2026-06-10T23:30:18.021103+00:00",
+      "updated_at": "2026-06-10T23:30:18.021103+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Sovereign Debt and Decentralized Finance Convergence: Stablecoins as Systemic Treasury Buyers",
+      "velocity": "Rapid, with stablecoin treasury holdings scaling to rival major sovereign nations, integrating decentralized liquidity with traditional short-term funding markets.",
+      "inertia": "Medium-High, driven by the persistent high interest rate environment yield opportunities and the structural reliance of the crypto ecosystem on dollar-pegged stablecoins.",
+      "steeps_intersections": [
+        "Technological: Digital & Financial Technology, Payment Systems & Financial Infrastructure",
+        "Economic: Macroeconomic Conditions, Monetary Policy & Interest Rates, Financial Stability & Banking Sector, Capital Markets & Investor Sentiment",
+        "Political: Fiscal Policy & Sovereign Debt, Regulatory & Legal Environment",
+        "Security: Systemic & Operational Resilience"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Stablecoin Tether Discloses $100B in US Treasury Backing",
+          "content": "Tether reported its fiat-peg assets grew to over $100B, largely comprised of short-term US Treasury Bills. The report highlighted how stablecoins have integrated traditional sovereign debt with decentralized crypto assets, creating systemic circular risk."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "A non-bank, offshore, decentralized finance actor becoming a top-20 global holder of US sovereign debt bypasses traditional primary dealer channels and creates an unprecedented circular vulnerability: a run on crypto could instantly trigger a liquidity crisis in traditional US short-term funding markets.",
+      "reasoning": "Tether's disclosure of $100B in US Treasury backing serves as concrete proof that decentralized finance is no longer an isolated ecosystem but a major systemic pillar of traditional sovereign debt markets. This creates a two-way financial contagion vector: systemic risks in the crypto market can instantly spill over into the US Treasury bill market through forced liquidations, while shifts in US monetary policy directly dictate the yield and viability of stablecoin business models. This structural dependency represents a new, unhedged systemic risk in global capital markets.",
+      "created_at": "2026-06-10T23:30:36.949844+00:00",
+      "updated_at": "2026-06-10T23:30:36.949844+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+      "velocity": "Accelerating. Private credit and non-bank credit models are facing severe stress as underlying commercial real estate valuations adjust, directly threatening their traditional bank counterparties.",
+      "inertia": "High. The systemic opacity of shadow banking institutions prevents regulators from easily assessing or mitigating counterparty risks, ensuring structural vulnerabilities persist.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "ECB Begins Rate Cuts but Flags Commercial Property Defaults",
+          "content": "The European Central Bank delivered its first interest rate cut in five years but warned that structural challenges in Eurozone commercial real estate defaults and shadow banking credit models remained high, keeping systemic banks vulnerable."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "Medium-High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Medium-term",
+      "novelty_score": 8,
+      "novelty_rationale": "The post-2008 regulatory environment pushed high-risk real estate lending out of regulated banks and into unregulated shadow banking/private credit markets. This event marks a critical recognition by a major central bank that these non-bank credit models are structurally vulnerable, creating an opaque feedback loop back to systemic banks.",
+      "reasoning": "While traditional banks are heavily regulated, the non-bank financial sector (shadow banking) has absorbed a massive volume of commercial real estate risk. The ECB's explicit warning linking CRE defaults to shadow banking credit models exposes a hidden vector of systemic contagion that traditional monetary tools (like rate cuts) cannot easily target.",
+      "created_at": "2026-06-10T23:30:57.960608+00:00",
+      "updated_at": "2026-06-10T23:30:57.960608+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Antitrust Counter-Pressures on Hyperscaler-AI Alliance Networks",
+      "velocity": "Highly Dynamic, as global regulators (FTC, EU, CMA) pivot from retrospective antitrust actions to preemptive interventions against non-traditional joint ventures.",
+      "inertia": "Medium-High, supported by the massive capital pools of tech giants who use infrastructure (cloud computing credits) rather than cash to secure dominant stakes in frontier tech.",
+      "steeps_intersections": [
+        "Technological: Digital & Financial Technology",
+        "Economic: Capital Markets & Investor Sentiment",
+        "Political: Regulatory & Legal Environment"
+      ],
+      "evidence_signals": [
+        {
+          "title": "US FTC Launches Joint Probe of Generative AI Monopoly Ties",
+          "content": "The Federal Trade Commission launched a sweeping investigation into the multi-billion dollar strategic investments made by tech giants into AI startups. Regulators warned of rising antitrust concentration and localized supply bottlenecks."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "Traditional antitrust frameworks are built around market share and acquisitions. This shift represents a highly novel regulatory response to 'compute-for-equity' deals\u2014where hyperscalers leverage their control over rare physical infrastructure (GPUs and data centers) to establish soft monopolies over foundational software models without triggering standard merger filing thresholds.",
+      "reasoning": "The FTC's joint probe marks the emergence of a structural friction point between sovereign regulators and the hyperscaler cartels. By investigating the multi-billion dollar strategic partnerships (such as those between Microsoft/OpenAI and Amazon/Anthropic), regulators are attempting to block a new form of vertical integration where physical cloud infrastructure monopolies dictate the survival of software-layer AI startups.",
+      "created_at": "2026-06-10T23:31:13.643849+00:00",
+      "updated_at": "2026-06-10T23:31:13.643849+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "API-Level Intermediary Fragility in Digital Custody Infrastructure",
+      "velocity": "Accelerating, as institutions prioritize rapid programmatic connectivity over thorough security vetting of API-based transaction and ledger endpoints.",
+      "inertia": "High, locked in by the market-driven necessity for real-time settlements and the widespread adoption of open-banking API protocols across legacy and crypto-native institutions.",
+      "steeps_intersections": [
+        "Technological: Digital & Financial Technology, Payment Systems & Financial Infrastructure, Cybersecurity Threats",
+        "Economic: Financial Stability & Banking Sector, Capital Markets & Investor Sentiment",
+        "Security: Systemic & Operational Resilience"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Cybersecurity Deficiencies Exposed at Major Digital Ledger Bank",
+          "content": "A central digital asset custodian bank disclosed a severe API authorization vulnerability that briefly exposed deposit logs. While no funds were lost, the exposure sparked severe trust degradation regarding digital infrastructure integrity."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "Medium-to-High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 7,
+      "novelty_rationale": "While cyber risks are persistent, the systemic reliance on API integrations as the sole access point to digital ledger custody introduces a highly concentrated operational vulnerability where simple authorization flaws can cripple institutional trust.",
+      "reasoning": "This new module tracks the systemic threat posed by API-level vulnerabilities within institutional digital asset custody and open banking systems. As shown by the KrebsOnSecurity report, API flaws that expose ledger metadata or deposit logs can trigger immediate trust degradation, illustrating that the digital custody 'plumbing' itself is a central point of failure.",
+      "created_at": "2026-06-10T23:31:25.447305+00:00",
+      "updated_at": "2026-06-10T23:31:25.447305+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Climate-Driven Grid Fragility and Upstream Industrial Supply Cascades",
+      "velocity": "Accelerating, as escalating baseload temperatures systematically outpace the cooling and power delivery capabilities of emerging market energy grids.",
+      "inertia": "High, locked in by the heavy reliance on thermal power plants in manufacturing hubs, legacy grid infrastructure, and the massive capital and time requirements needed to decarbonize and stabilize industrial power grids.",
+      "steeps_intersections": [
+        "Environmental",
+        "Economic",
+        "Technological",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Severe Heatwave Across Asia Triggers Global Supply Disruptions",
+          "content": "Record-shattering temperatures forced industrial power rationing in critical manufacturing sectors across China and India. The resulting shutdowns locked up physical supply chains for electronics and raw materials, compounding global logistics delays."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 8,
+      "novelty_rationale": "While localized weather anomalies are historic, the systemic pattern of continent-wide extreme heat concurrently forcing national-level power rationing across both of the world's primary industrial engines (China and India) exposes a novel vulnerability in modern, hyper-optimized electronic and material supply chains.",
+      "reasoning": "This module represents the vulnerability of global upstream supply chains to regional environmental capacity limits. Extreme heat directly triggers power grid failures or forced rationing, freezing production in high-value sectors (like electronics and raw materials). This creates a bullwhip effect that travels down global logistics pathways, compounding downstream chokepoint delays.",
+      "created_at": "2026-06-10T23:31:44.261879+00:00",
+      "updated_at": "2026-06-10T23:31:44.261879+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Cognitive Supply Chain Vulnerabilities in Algorithmic Decision Engines",
+      "velocity": "Accelerating, driven by the competitive race among quantitative funds to deploy open-source machine learning models and automated pipelines ahead of comprehensive security audits.",
+      "inertia": "High, locked in by the extreme computational and financial costs of training proprietary models from scratch, forcing reliance on public model registries.",
+      "steeps_intersections": [
+        "Technological",
+        "Economic",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "AI Supply Chain Attack Infiltrates Algorithmic Trading Systems",
+          "content": "A sophisticated supply chain attack targeting widely used open-source machine learning registries compromised quantitative trading model pipelines. Several quantitative funds experienced brief flash crashes and automated trading halts, exposing the high operational risk of embedding unvetted open-source AI tools directly into systemic financial decision pipelines."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "Medium-to-High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Immediate",
+      "novelty_score": 8,
+      "novelty_rationale": "This represents a major shift from traditional supply chain attacks that target infrastructure control or data exfiltration. Instead, it introduces a 'cognitive supply chain' attack vector, where compromised model weights or pipeline dependencies corrupt automated financial decision-making, leading to direct market manipulation and micro-structural failures without triggering standard network security flags.",
+      "reasoning": "Integrating poisoned open-source AI models into live trading pipelines bypasses standard software-level security because the underlying execution code is syntactically correct, but the model's logic is fundamentally compromised. When deployed at scale by quantitative funds, these poisoned pipelines create systemic tail risk, manifesting as sudden automated trading halts and flash crashes across highly integrated financial networks.",
+      "created_at": "2026-06-10T23:31:55.969895+00:00",
+      "updated_at": "2026-06-10T23:31:55.969895+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    },
+    {
+      "name": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+      "velocity": "Accelerating. Recurrent supply-chain bottlenecks are actively preventing inflation from normalizing, cementing the 'higher-for-longer' interest rate paradigm.",
+      "inertia": "High. Anchored by structural deglobalization, localized labor constraints, and geopolitical fragmentation that make supply-chain realignments slow and capital-intensive.",
+      "steeps_intersections": [
+        "Economic",
+        "Political",
+        "Security"
+      ],
+      "evidence_signals": [
+        {
+          "title": "Sovereign Debt Volatility Spikes Amid Eurozone Refinancing Fears",
+          "content": "Renewed inflationary supply-chain bottlenecks and persistent high interest rates caused a sudden spike in sovereign bond yields across highly indebted European nations, prompting fears of regional bank instability."
+        }
+      ],
+      "impact_potential": "High",
+      "certainty_level": "High",
+      "sentiment": "Negative",
+      "temporal_horizon": "Short-term",
+      "novelty_score": 7,
+      "novelty_rationale": "While inflation and supply issues are historically cyclical, the persistent convergence of structural deglobalization, geopolitical trade-route disruptions, and high sovereign debt represents a departure from the post-2008 low-rate, highly globalized paradigm.",
+      "reasoning": "This module captures the macroeconomic root cause of the current financial volatility. Supply-chain disruptions are no longer transitory shocks but structural fixtures of a fragmenting global economy, preventing central banks from lowering rates despite mounting sovereign debt and banking sector instability.",
+      "created_at": "2026-06-10T23:32:16.035982+00:00",
+      "updated_at": "2026-06-10T23:32:16.035982+00:00",
+      "schema_version": "phase_a_module_v2",
+      "source_event_count": 1
+    }
+  ],
+  "horizon_map": {
+    "knowledge_graph_edges": [
+      {
+        "source_module": "Institutionalization of Decentralized Assets: Systemic Crypto-TradFi Contagion Vector",
+        "target_module": "Systemic Liquidity Fragility in Consolidated Third-Party Clearinghouses",
+        "interaction_type": "Transmits financial contagion and liquidity runs",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 9,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762529+00:00"
+      },
+      {
+        "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "interaction_type": "Crystallizes latent balance-sheet vulnerabilities",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762587+00:00"
+      },
+      {
+        "source_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+        "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "interaction_type": "Amplifies asset devaluation and duration mismatches",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 7,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762595+00:00"
+      },
+      {
+        "source_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+        "target_module": "Sovereign Tech Mercantilism and Balkanization of the Advanced Compute Supply Chain",
+        "interaction_type": "Triggers retaliatory supply chain balkanization",
+        "causal_directionality": "Bidirectional feedback loop",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762603+00:00"
+      },
+      {
+        "source_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+        "target_module": "Monoculture Risk in Critical Digital Infrastructure",
+        "interaction_type": "Locks in hardware-level technological dependency",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 9,
+        "institutional_relevance": 7,
+        "normalized_at": "2026-06-10T23:33:18.762608+00:00"
+      },
+      {
+        "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "target_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+        "interaction_type": "Translates broad resource nationalism into surgical trade embargoes",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762614+00:00"
+      },
+      {
+        "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "target_module": "Geological Re-Shoring: Domestic Mega-Deposits and the De-Risking of Clean-Tech Supply Chains",
+        "interaction_type": "Catalyzes sovereign exploration and domestic extraction mandates",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 8,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762619+00:00"
+      },
+      {
+        "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "target_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+        "interaction_type": "Escalates systemic risk premiums in capital markets",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 8,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762625+00:00"
+      },
+      {
+        "source_module": "Monoculture Risk in Critical Digital Infrastructure",
+        "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+        "interaction_type": "Amplifies single-point-of-failure exposure",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 9,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762630+00:00"
+      },
+      {
+        "source_module": "Generative AI and Synthetic Media as a Systemic Financial Threat Vector",
+        "target_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+        "interaction_type": "Weaponizes synthetic audio/video to induce game-theoretic panic",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762636+00:00"
+      },
+      {
+        "source_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+        "target_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+        "interaction_type": "Accelerates viral coordination of depositors",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 9,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762641+00:00"
+      },
+      {
+        "source_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+        "target_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "interaction_type": "Triggers immediate realization of latent real estate debt losses",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 9,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762647+00:00"
+      },
+      {
+        "source_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "interaction_type": "Embeds structural supply-side inflation",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 7,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762655+00:00"
+      },
+      {
+        "source_module": "Asymmetric Kinetic Threats to Global Maritime Shipping Arteries",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "interaction_type": "Injects persistent transportation-driven pricing pressure",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762661+00:00"
+      },
+      {
+        "source_module": "Climate-Driven Grid Fragility and Upstream Industrial Supply Cascades",
+        "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "interaction_type": "Creates volatile bullwhip effects at physical transit corridors",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 7,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762667+00:00"
+      },
+      {
+        "source_module": "Macro-Critical Climateflation and Systemic Agricultural Yield Fragility",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "interaction_type": "Provides persistent upward bias to core inflation metrics",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 7,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762673+00:00"
+      },
+      {
+        "source_module": "Algorithmic Resource Substitution: Compute Power as Geopolitical Mineral Insurance",
+        "target_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "interaction_type": "Bypasses geological export dependencies through molecular engineering",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 6,
+        "institutional_relevance": 7,
+        "normalized_at": "2026-06-10T23:33:18.762678+00:00"
+      },
+      {
+        "source_module": "Physical Resource-Scarcity Bottlenecks to Generative AI Scaling",
+        "target_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+        "interaction_type": "Imposes hard physical limits on equity valuation expectations",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 7,
+        "institutional_relevance": 6,
+        "normalized_at": "2026-06-10T23:33:18.762684+00:00"
+      },
+      {
+        "source_module": "Sovereign Regulatory Divergence and the Balkanization of Global AI Software Deployment",
+        "target_module": "Antitrust Counter-Pressures on Hyperscaler-AI Alliance Networks",
+        "interaction_type": "Intensifies scrutiny of anti-competitive vertical integration",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 7,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762690+00:00"
+      },
+      {
+        "source_module": "Regulatory-Driven Risk Migration to Shadow Credit and Non-Bank Financial Intermediaries (NBFIs)",
+        "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+        "interaction_type": "Conceals systemic leverage within private markets",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762697+00:00"
+      },
+      {
+        "source_module": "State-Sponsored Cyber-Extortion and the Vulnerability of Systemic Financial Infrastructure",
+        "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+        "interaction_type": "Halts systemic transactional settlement",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 9,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762703+00:00"
+      },
+      {
+        "source_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "target_module": "State-Engineered G-SIB Mergers and Systemic Risk Concentration",
+        "interaction_type": "Triggers administrative consolidations and moral hazard concentration",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 9,
+        "narrative_salience": 9,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762709+00:00"
+      },
+      {
+        "source_module": "Sovereign-Scale Real Estate Insolvency and Global Debt Restructuring Shocks",
+        "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+        "interaction_type": "Transmits real estate defaults to private credit networks",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 8,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762716+00:00"
+      },
+      {
+        "source_module": "Cross-Contagion Corridor: Crypto-Asset Liability Transmission to Traditional Banking",
+        "target_module": "API-Level Intermediary Fragility in Digital Custody Infrastructure",
+        "interaction_type": "Exposes critical authorization and operational vulnerabilities",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 7,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762722+00:00"
+      },
+      {
+        "source_module": "Cognitive Supply Chain Vulnerabilities in Algorithmic Decision Engines",
+        "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+        "interaction_type": "Injects corrupt logic into standardized software pathways",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 6,
+        "institutional_relevance": 8,
+        "normalized_at": "2026-06-10T23:33:18.762728+00:00"
+      },
+      {
+        "source_module": "Sovereign Debt and Decentralized Finance Convergence: Stablecoins as Systemic Treasury Buyers",
+        "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+        "interaction_type": "Threatens flash liquidation of short-term collateral",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 8,
+        "narrative_salience": 8,
+        "institutional_relevance": 9,
+        "normalized_at": "2026-06-10T23:33:18.762736+00:00"
+      },
+      {
+        "source_module": "Fragility of Legacy Trade Infrastructure to Modern Vessel Scale",
+        "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "interaction_type": "Compounds physical throughput constraints at major shipping channels",
+        "causal_directionality": "Unidirectional Source->Target",
+        "empirical_trend_strength": 7,
+        "narrative_salience": 8,
+        "institutional_relevance": 7,
+        "normalized_at": "2026-06-10T23:33:18.762742+00:00"
+      }
+    ],
+    "inflexion_weak_signals": [
+      "Algorithmic material design engines bypass physical critical mineral cartels, pivoting mineral dependencies from geology to raw compute power.",
+      "Non-bank offshore stablecoin issuers acquire sovereign debt at a volume rivaling top-20 sovereign states, creating an unmonitored circular liquidity loop between DeFi and traditional short-term funding markets.",
+      "Cognitive supply chain injection attacks targeting open-source AI pipelines, silently corrupting quant fund models to trigger synchronized financial flash crashes."
+    ],
+    "perturbation_sensitivities": [
+      "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+      "Systemic Vulnerability of Global Infrastructure Monocultures",
+      "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+      "API-Level Intermediary Fragility in Digital Custody Infrastructure"
+    ],
+    "central_vulnerability": "The core unstable configuration consists of a dual-axis structural fragility: first, the hyper-consolidation of physical and digital infrastructure\u2014where a tiny handful of hardware providers, digital custodians, and centralized IT monocultures create highly leveraged single points of failure; and second, the integration of high-velocity, low-friction digital rails that bypass traditional latency buffers, turning localized operational failures or synthetic panics into instantaneous, systemic liquidity runs across both sovereign debt and banking ecosystems.",
+    "edge_mutation_log": [
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Institutionalization of Decentralized Assets: Systemic Crypto-TradFi Contagion Vector",
+        "target_module": "Systemic Liquidity Fragility in Consolidated Third-Party Clearinghouses",
+        "previous": null,
+        "updated": {
+          "source_module": "Institutionalization of Decentralized Assets: Systemic Crypto-TradFi Contagion Vector",
+          "target_module": "Systemic Liquidity Fragility in Consolidated Third-Party Clearinghouses",
+          "interaction_type": "Transmits financial contagion and liquidity runs",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 9,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762529+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "previous": null,
+        "updated": {
+          "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+          "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+          "interaction_type": "Crystallizes latent balance-sheet vulnerabilities",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762587+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+        "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "previous": null,
+        "updated": {
+          "source_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+          "target_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+          "interaction_type": "Amplifies asset devaluation and duration mismatches",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 7,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762595+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+        "target_module": "Sovereign Tech Mercantilism and Balkanization of the Advanced Compute Supply Chain",
+        "previous": null,
+        "updated": {
+          "source_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+          "target_module": "Sovereign Tech Mercantilism and Balkanization of the Advanced Compute Supply Chain",
+          "interaction_type": "Triggers retaliatory supply chain balkanization",
+          "causal_directionality": "Bidirectional feedback loop",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762603+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+        "target_module": "Monoculture Risk in Critical Digital Infrastructure",
+        "previous": null,
+        "updated": {
+          "source_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+          "target_module": "Monoculture Risk in Critical Digital Infrastructure",
+          "interaction_type": "Locks in hardware-level technological dependency",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 9,
+          "institutional_relevance": 7,
+          "normalized_at": "2026-06-10T23:33:18.762608+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "target_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+        "previous": null,
+        "updated": {
+          "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+          "target_module": "Asymmetric Weaponization of Critical Mineral Chokepoints",
+          "interaction_type": "Translates broad resource nationalism into surgical trade embargoes",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762614+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "target_module": "Geological Re-Shoring: Domestic Mega-Deposits and the De-Risking of Clean-Tech Supply Chains",
+        "previous": null,
+        "updated": {
+          "source_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+          "target_module": "Geological Re-Shoring: Domestic Mega-Deposits and the De-Risking of Clean-Tech Supply Chains",
+          "interaction_type": "Catalyzes sovereign exploration and domestic extraction mandates",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 8,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762619+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "target_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+        "previous": null,
+        "updated": {
+          "source_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+          "target_module": "Decompression of Global Liquidity Anchors and Sovereign Debt Volatility",
+          "interaction_type": "Escalates systemic risk premiums in capital markets",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 8,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762625+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Monoculture Risk in Critical Digital Infrastructure",
+        "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+        "previous": null,
+        "updated": {
+          "source_module": "Monoculture Risk in Critical Digital Infrastructure",
+          "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+          "interaction_type": "Amplifies single-point-of-failure exposure",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 9,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762630+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Generative AI and Synthetic Media as a Systemic Financial Threat Vector",
+        "target_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+        "previous": null,
+        "updated": {
+          "source_module": "Generative AI and Synthetic Media as a Systemic Financial Threat Vector",
+          "target_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+          "interaction_type": "Weaponizes synthetic audio/video to induce game-theoretic panic",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762636+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+        "target_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+        "previous": null,
+        "updated": {
+          "source_module": "Synthetic Solvency Crises: Weaponized AI Disinformation as a Catalyst for Banking Panic",
+          "target_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+          "interaction_type": "Accelerates viral coordination of depositors",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 9,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762641+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+        "target_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+        "previous": null,
+        "updated": {
+          "source_module": "Social Media-Enabled Digital Liquidity Cascades (Viral Deposit Flight)",
+          "target_module": "Commercial Real Estate (CRE) Liquidity Cliff and Regional Banking Contagion",
+          "interaction_type": "Triggers immediate realization of latent real estate debt losses",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 9,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762647+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "previous": null,
+        "updated": {
+          "source_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+          "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+          "interaction_type": "Embeds structural supply-side inflation",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 7,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762655+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Asymmetric Kinetic Threats to Global Maritime Shipping Arteries",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "previous": null,
+        "updated": {
+          "source_module": "Asymmetric Kinetic Threats to Global Maritime Shipping Arteries",
+          "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+          "interaction_type": "Injects persistent transportation-driven pricing pressure",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762661+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Climate-Driven Grid Fragility and Upstream Industrial Supply Cascades",
+        "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "previous": null,
+        "updated": {
+          "source_module": "Climate-Driven Grid Fragility and Upstream Industrial Supply Cascades",
+          "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+          "interaction_type": "Creates volatile bullwhip effects at physical transit corridors",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 7,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762667+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Macro-Critical Climateflation and Systemic Agricultural Yield Fragility",
+        "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+        "previous": null,
+        "updated": {
+          "source_module": "Macro-Critical Climateflation and Systemic Agricultural Yield Fragility",
+          "target_module": "Supply-Chain Induced Stagflation and Interest Rate Persistence",
+          "interaction_type": "Provides persistent upward bias to core inflation metrics",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 7,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762673+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Algorithmic Resource Substitution: Compute Power as Geopolitical Mineral Insurance",
+        "target_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+        "previous": null,
+        "updated": {
+          "source_module": "Algorithmic Resource Substitution: Compute Power as Geopolitical Mineral Insurance",
+          "target_module": "Weaponized Resource Mercantilism and the Critical Mineral Bottleneck",
+          "interaction_type": "Bypasses geological export dependencies through molecular engineering",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 6,
+          "institutional_relevance": 7,
+          "normalized_at": "2026-06-10T23:33:18.762678+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Physical Resource-Scarcity Bottlenecks to Generative AI Scaling",
+        "target_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+        "previous": null,
+        "updated": {
+          "source_module": "Physical Resource-Scarcity Bottlenecks to Generative AI Scaling",
+          "target_module": "Macro-Financial Concentration in the AI Compute Stack and Equity Market Fragility",
+          "interaction_type": "Imposes hard physical limits on equity valuation expectations",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 7,
+          "institutional_relevance": 6,
+          "normalized_at": "2026-06-10T23:33:18.762684+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Sovereign Regulatory Divergence and the Balkanization of Global AI Software Deployment",
+        "target_module": "Antitrust Counter-Pressures on Hyperscaler-AI Alliance Networks",
+        "previous": null,
+        "updated": {
+          "source_module": "Sovereign Regulatory Divergence and the Balkanization of Global AI Software Deployment",
+          "target_module": "Antitrust Counter-Pressures on Hyperscaler-AI Alliance Networks",
+          "interaction_type": "Intensifies scrutiny of anti-competitive vertical integration",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 7,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762690+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Regulatory-Driven Risk Migration to Shadow Credit and Non-Bank Financial Intermediaries (NBFIs)",
+        "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+        "previous": null,
+        "updated": {
+          "source_module": "Regulatory-Driven Risk Migration to Shadow Credit and Non-Bank Financial Intermediaries (NBFIs)",
+          "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+          "interaction_type": "Conceals systemic leverage within private markets",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762697+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "State-Sponsored Cyber-Extortion and the Vulnerability of Systemic Financial Infrastructure",
+        "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+        "previous": null,
+        "updated": {
+          "source_module": "State-Sponsored Cyber-Extortion and the Vulnerability of Systemic Financial Infrastructure",
+          "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+          "interaction_type": "Halts systemic transactional settlement",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 9,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762703+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+        "target_module": "State-Engineered G-SIB Mergers and Systemic Risk Concentration",
+        "previous": null,
+        "updated": {
+          "source_module": "Sovereign Debt Duration Mismatches and Unrealized Banking Sector Losses",
+          "target_module": "State-Engineered G-SIB Mergers and Systemic Risk Concentration",
+          "interaction_type": "Triggers administrative consolidations and moral hazard concentration",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 9,
+          "narrative_salience": 9,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762709+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Sovereign-Scale Real Estate Insolvency and Global Debt Restructuring Shocks",
+        "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+        "previous": null,
+        "updated": {
+          "source_module": "Sovereign-Scale Real Estate Insolvency and Global Debt Restructuring Shocks",
+          "target_module": "Opaque Shadow Banking Credit Vulnerabilities and Systemic Interconnectedness",
+          "interaction_type": "Transmits real estate defaults to private credit networks",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 8,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762716+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Cross-Contagion Corridor: Crypto-Asset Liability Transmission to Traditional Banking",
+        "target_module": "API-Level Intermediary Fragility in Digital Custody Infrastructure",
+        "previous": null,
+        "updated": {
+          "source_module": "Cross-Contagion Corridor: Crypto-Asset Liability Transmission to Traditional Banking",
+          "target_module": "API-Level Intermediary Fragility in Digital Custody Infrastructure",
+          "interaction_type": "Exposes critical authorization and operational vulnerabilities",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 7,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762722+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Cognitive Supply Chain Vulnerabilities in Algorithmic Decision Engines",
+        "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+        "previous": null,
+        "updated": {
+          "source_module": "Cognitive Supply Chain Vulnerabilities in Algorithmic Decision Engines",
+          "target_module": "Systemic Vulnerability of Global Infrastructure Monocultures",
+          "interaction_type": "Injects corrupt logic into standardized software pathways",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 6,
+          "institutional_relevance": 8,
+          "normalized_at": "2026-06-10T23:33:18.762728+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Sovereign Debt and Decentralized Finance Convergence: Stablecoins as Systemic Treasury Buyers",
+        "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+        "previous": null,
+        "updated": {
+          "source_module": "Sovereign Debt and Decentralized Finance Convergence: Stablecoins as Systemic Treasury Buyers",
+          "target_module": "Operational Liquidity Chokepoints in Sovereign Debt Settlement Systems",
+          "interaction_type": "Threatens flash liquidation of short-term collateral",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 8,
+          "narrative_salience": 8,
+          "institutional_relevance": 9,
+          "normalized_at": "2026-06-10T23:33:18.762736+00:00"
+        }
+      },
+      {
+        "changed_at": "2026-06-10T23:33:18.762749+00:00",
+        "source_module": "Fragility of Legacy Trade Infrastructure to Modern Vessel Scale",
+        "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+        "previous": null,
+        "updated": {
+          "source_module": "Fragility of Legacy Trade Infrastructure to Modern Vessel Scale",
+          "target_module": "Climate-Induced Degradation of Physical Trade Chokepoints",
+          "interaction_type": "Compounds physical throughput constraints at major shipping channels",
+          "causal_directionality": "Unidirectional Source->Target",
+          "empirical_trend_strength": 7,
+          "narrative_salience": 8,
+          "institutional_relevance": 7,
+          "normalized_at": "2026-06-10T23:33:18.762742+00:00"
+        }
+      }
+    ],
+    "name_resolution_log": [],
+    "phase_b_config": {
+      "semantic_neighbor_threshold": 0.35,
+      "candidate_edge_threshold": 0.4,
+      "max_semantic_neighbors": 3,
+      "max_candidate_edges": 15,
+      "fuzzy_name_cutoff": 0.75
+    }
+  }
+}

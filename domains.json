@@ -1,0 +1,33 @@
+{
+  "Social": [
+    "Public Health & Pandemic Risk",
+    "Demographic & Migration Trends"
+  ],
+  "Technological": [
+    "Digital & Financial Technology",
+    "Payment Systems & Financial Infrastructure",
+    "Cybersecurity Threats"
+  ],
+  "Economic": [
+    "Macroeconomic Conditions",
+    "Monetary Policy & Interest Rates",
+    "Exchange Rate Dynamics",
+    "Financial Stability & Banking Sector",
+    "Capital Markets & Investor Sentiment",
+    "Real Estate & Housing Markets",
+    "Supply Chain & Trade Flows"
+  ],
+  "Environmental": [
+    "Climate & Environmental Risks",
+    "Energy & Commodity Markets"
+  ],
+  "Political": [
+    "Geopolitical Risks & Conflicts",
+    "Fiscal Policy & Sovereign Debt",
+    "Regulatory & Legal Environment"
+  ],
+  "Security": [
+    "Systemic & Operational Resilience",
+    "Sanctions & Financial Integrity"
+  ]
+}

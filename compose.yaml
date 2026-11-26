@@ -1,0 +1,65 @@
+x-app: &app
+  image: agemis-app:local
+  build:
+    context: .
+  environment:
+    BASE_URL: ${BASE_URL:-http://host.docker.internal:11434/v1}
+    API_KEY: ${API_KEY:-not-needed-local}
+    MODEL_NAME: ${MODEL_NAME:-gemma-4}
+    FALKORDB_HOST: falkordb
+    FALKORDB_PORT: 6379
+    FALKORDB_PASSWORD: ${FALKORDB_PASSWORD:-agemis}
+  volumes:
+    - .:/app
+    - huggingface_cache:/root/.cache/huggingface
+  extra_hosts:
+    - host.docker.internal:host-gateway
+  depends_on:
+    falkordb:
+      condition: service_healthy
+  restart: unless-stopped
+
+services:
+  falkordb:
+    image: falkordb/falkordb:latest
+    environment:
+      REDIS_ARGS: --appendonly yes --appendfsync everysec --requirepass ${FALKORDB_PASSWORD:-agemis}
+    ports:
+      - "${FALKORDB_PORT:-6379}:6379"
+      - "${FALKORDB_BROWSER_PORT:-3000}:3000"
+    volumes:
+      - falkordb_data:/var/lib/falkordb/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "${FALKORDB_PASSWORD:-agemis}", "--no-auth-warning", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 10s
+    restart: unless-stopped
+
+  phase-b-ui:
+    <<: *app
+    command:
+      - streamlit
+      - run
+      - phase_ui.py
+      - --server.address=0.0.0.0
+      - --server.port=8501
+    ports:
+      - "${PHASE_B_PORT:-8501}:8501"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8501/_stcore/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
+      start_period: 20s
+
+  pipeline:
+    <<: *app
+    profiles: ["tools"]
+    entrypoint: ["python", "main.py"]
+    restart: "no"
+
+volumes:
+  falkordb_data:
+  huggingface_cache:

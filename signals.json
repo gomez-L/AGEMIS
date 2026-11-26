@@ -1,0 +1,338 @@
+[
+  {
+    "domain": "economic",
+    "source_entity": "FINMA / Federal Department of Finance",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-01T00:00:00Z",
+    "title": "Final Basel III standards enter into force in Switzerland on 1 January 2025",
+    "content": "On 1 January 2025 the final Basel III standards entered into force in Switzerland through the revised Capital Adequacy Ordinance (CAO) of the Federal Council and five new FINMA ordinances, which replace several FINMA circulars. The reform makes capital requirements more risk-sensitive: higher-risk business areas must be backed by more capital and lower-risk areas by less; the scope for internal models is restricted to achieve a transparent and internationally comparable calculation of capital, and requirements for credit risk, market risk and operational risk are revised. The Federal Council had confirmed in June 2024 that Switzerland would keep the 1 January 2025 start date despite delays in the implementation of the standards in the United States, the EU and the United Kingdom. The first reporting date under the new rules is 31 March 2025. The national implementation began before the takeover of Credit Suisse by UBS in March 2023 and is separate from the ongoing too-big-to-fail review."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "FINMA",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-01T00:00:00Z",
+    "title": "Stricter capital and self-regulation rules for mortgage lending take effect in Switzerland",
+    "content": "Together with the final Basel III standards, new rules for mortgage financing took effect in Switzerland on 1 January 2025. FINMA recognises the adjusted self-regulation of the Swiss Bankers Association on mortgage lending as a binding minimum standard; the guidelines revise minimum requirements for own funds and amortisation as well as qualitative requirements. In line with Basel III, risk weights are now differentiated by loan-to-value ratio for both owner-occupied and investment properties, and the risk weights for higher loan-to-value investment ('buy-to-let') properties are significantly higher than before. FINMA has repeatedly described the risks of overheating in the Swiss residential real estate market as high and pays close attention to institutions heavily exposed to investment properties; it announced that it will monitor the application of the new minimum standards and take measures at individual institutions where needed. Falling mortgage rates after the SNB's rate cuts in 2024 are supporting demand for residential property."
+  },
+  {
+    "domain": "security",
+    "source_entity": "Financial Stability Board (FSB)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-03T16:07:41Z",
+    "title": "FSB: Public Responses to Consultation on Format for Incident Reporting Exchange (FIRE)",
+    "content": "On 3 January 2025, the FSB published public consultation responses to the Format for Incident Reporting Exchange (FIRE) Consultation Report (Oct 2024). FIRE proposes a standardised format for reporting operational incidents, including cyber incidents, to financial authorities. The goal is to promote convergence and communication among financial supervisors and regulated firms, facilitating efficient incident response and recovery. Nine industry bodies submitted responses, including Bank Policy Institute, Deutsche B\u00f6rse Group, Global Financial Markets Association, Institute of International Finance, and Global Legal Entity Identifier Foundation. Policy area: Cyber Resilience / Information Exchange."
+  },
+  {
+    "domain": "political",
+    "source_entity": "UN News \u2013 All Topics",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-06T12:00:00Z",
+    "title": "'Famine conditions are spreading' as Sudan's crisis worsens: Security Council",
+    "content": "Briefing the UN Security Council on 6 January 2025, OCHA's Edem Wosornu said that 'famine conditions are now present in five areas' of Sudan \u2013 the Zamzam, Al Salam and Abu Shouk camps for internally displaced people in North Darfur and the western Nuba Mountains. The latest analysis of the Integrated Food Security Phase Classification (IPC) Famine Review Committee projects that famine will spread to five additional areas in North Darfur, including Um Kadadah and El Fasher, by May 2025, with 17 further areas at risk. After more than 20 months of war, over 11.5 million people are internally displaced and 3.2 million have fled to neighbouring countries; more than 24.6 million people, over half the population, face high levels of acute food insecurity. FAO Deputy Director-General Beth Bechdol warned that 'the stability of many nations in the region' is at risk. Sudan's government, which suspended its participation in the IPC system in December, contested the findings. The 2025 humanitarian response plan for Sudan requires USD 4.2 billion."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Federal Reserve Board \u2013 Press Releases",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-06T16:00:00Z",
+    "title": "Fed's top bank supervisor Michael Barr to step down as Vice Chair for Supervision",
+    "content": "The Federal Reserve Board announced on 6 January 2025 that Michael S. Barr will step down as Vice Chair for Supervision effective 28 February 2025, or earlier if a successor is confirmed, while remaining a member of the Board of Governors, with a term running to January 2032. Barr, in office since July 2022, said that 'the risk of a dispute over the position could be a distraction from our mission'. He oversaw the review that attributed the 2023 failure of Silicon Valley Bank partly to weakened supervision, and proposed higher capital requirements for banks with more than USD 100 billion in assets under the US implementation of Basel III. His departure leaves the post open for the incoming administration, which favours bank deregulation; the Board does not intend to take up major rulemakings until a successor is confirmed, raising doubts about the future of the capital proposal. FDIC Chairman Martin Gruenberg also announced his departure for 19 January."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "BFS \u2013 Consumer Price Index",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-07T07:30:00Z",
+    "title": "Swiss consumer prices fell 0.1% in December 2024; average annual inflation of 1.1% in 2024",
+    "content": "The Swiss Federal Statistical Office (FSO) reported on 7 January 2025 that the national consumer price index fell by 0.1% in December 2024 compared with the previous month, to 106.9 points (December 2020 = 100). Inflation was +0.6% compared with December 2023, after +0.7% in November. The decline in December was due to lower prices for package holidays abroad, medicines and various vegetables, while prices for hotel and supplementary accommodation rose. Food and non-alcoholic beverages were 0.9% cheaper and transport 1.9% cheaper than a year earlier. Average annual inflation reached +1.1% in 2024, after 2.1% in 2023 and 2.8% in 2022, with a high of 1.4% (April, May) and a low of 0.6% (October, December), well within the Swiss National Bank's definition of price stability (0\u20132%). Household electricity tariffs were cut by around 10% on average at the start of 2025, and the SNB's conditional forecast of December 2024 expects inflation of 0.3% for 2025."
+  },
+  {
+    "domain": "social",
+    "source_entity": "WHO Disease Outbreak News",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-08T11:56:44Z",
+    "title": "WHO prequalifies diagnostic test to support safer administration of P. vivax malaria treatments",
+    "content": "On 18 December 2024, the World Health Organization (WHO) prequalified the first diagnostic test for glucose-6-phosphate dehydrogenase (G6PD) deficiency which can help to safely deliver WHO-recommended treatments to prevent relapse of Plasmodium vivax ( P. vivax ) infection. The prequalification of this G6PD diagnostic test marks a significant milestone in facilitating safe and effective P. vivax malaria treatment, reaffirming WHO\u2019s dedication to ensuring equitable access to life-saving health solutions globally. Some 500 000 people die each year from malaria, most of them children. The prequalification of this test immediately followed the prequalification, in early December, of two new tafenoquine products for anti-relapse treatment of P. vivax malaria, and these therapeutics were recommended in updated WHO malaria guidelines released a few days earlier, in late November. This package of actions by WHO reflects the organization\u2019s recent adoption of synchronized and parallel processes for two key functions: developing recommendations for essential health products and overseeing their prequalification. While these processes remain entirely independent, their alignment aims to significantly reduce the time required to bring vital health products to low- and lower-middle-income countries. This streamlined approach underscores WHO\u2019s commitment to improving global health equity by expediting access to life-saving products. P."
+  },
+  {
+    "domain": "political",
+    "source_entity": "UK Debt Management Office / gilt market data",
+    "source_trust_level": "medium",
+    "timestamp": "2025-01-08T16:00:00Z",
+    "title": "UK 30-year gilt yields rise to highest level since 1998 amid concerns over public finances",
+    "content": "UK long-term borrowing costs rose to their highest level in more than a quarter of a century in early January 2025. On 7 January the Debt Management Office auctioned GBP 2.25 billion of 30-year gilts at a yield of 5.198%, and the 30-year yield climbed to 5.37% on 8 January, the highest since 1998 and above the levels of the 2022 'mini-budget' crisis; the 10-year yield rose to around 4.8\u20134.9%, the highest since 2008. Sterling fell to about USD 1.22, its lowest since November 2023. The sell-off was part of a global rise in long-dated government bond yields led by US Treasuries, but was amplified by near-record UK debt issuance of about GBP 297 billion in the 2024\u201325 fiscal year, persistent inflation and economic stagnation. Analysts warned that higher interest costs could erase the GBP 9.9 billion of fiscal headroom left by the October budget, forcing Chancellor Rachel Reeves to cut spending or raise taxes again; the Treasury said the fiscal rules are 'non-negotiable'."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "SNB \u2013 Press Releases",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-09T07:00:00Z",
+    "title": "SNB expects record annual profit of around CHF 80 billion for 2024, resumes distribution to Confederation and cantons",
+    "content": "According to provisional calculations published on 9 January 2025, the Swiss National Bank will report a profit of around CHF 80 billion for 2024, after a loss of CHF 3.2 billion in 2023 and well above the previous record of CHF 54.4 billion in 2017. The result consists of a profit of around CHF 67 billion on foreign currency positions, a valuation gain of CHF 21.2 billion on gold holdings and a loss of CHF 7.4 billion on Swiss franc positions; the foreign currency result benefited from rising equity markets, a stronger US dollar and a higher gold price. After an allocation of CHF 11.6 billion to the provisions for currency reserves and taking into account the negative distribution reserve of CHF 53.2 billion, the net profit amounts to about CHF 16 billion. This allows the legal maximum dividend of CHF 15 per share and a distribution of CHF 3 billion to the Confederation (one third) and the cantons (two thirds), after two years without a distribution. The SNB's result depends heavily on exchange rates and financial market developments and is therefore very volatile."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Munich Re \u2013 NatCat Report",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-09T09:00:00Z",
+    "title": "Munich Re: natural disasters caused USD 140 billion of insured losses in 2024 as Los Angeles wildfires start 2025",
+    "content": "According to the reinsurer Munich Re's annual natural catastrophe report of 9 January 2025, natural disasters caused overall losses of USD 320 billion in 2024 (2023: USD 268 billion), of which USD 140 billion were insured \u2013 the third-highest insured total since 1980, the highest since 2017 and almost 50% above the ten-year average. Weather-related events accounted for 93% of overall and 97% of insured losses; hurricanes Helene and Milton in the United States were the costliest events, and 'non-peak' perils such as floods, wildfires and severe thunderstorms caused USD 136 billion of losses, about USD 67 billion of them insured. About 11,000 people died in natural disasters. 'Climate change is showing its claws', Munich Re said. The report was published as wildfires were destroying large parts of Los Angeles, threatening to become the costliest wildfire on record; California prohibited insurers from cancelling or not renewing home policies in the affected areas. With mounting claims, the cost of reinsurance is rising."
+  },
+  {
+    "domain": "social",
+    "source_entity": "UN News \u2013 All Topics",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-09T12:00:00Z",
+    "title": "More than 125,000 refugees return to Syria in desperate conditions",
+    "content": "One month after the fall of the Assad government on 8 December 2024, UNHCR estimates that more than 125,000 Syrian refugees have returned to the country, mainly from T\u00fcrkiye, Jordan and Lebanon, with Aleppo, Ar-Raqqa and Dar'a as the primary areas of return. Returnees arrive 'full of hope after years of exile', UN humanitarians said, but find destroyed housing, damaged infrastructure, a lack of basic services and a deteriorating economy, while winter conditions increase needs. Hundreds of thousands of people have also been newly displaced inside Syria since early December, primarily in Idleb and Aleppo governorates. UNHCR anticipates up to one million refugee returns between January and June 2025, alongside large numbers of internally displaced people going home, and stresses that sustainable return requires early recovery, reconstruction support and adequate funding of the humanitarian response."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "UN News \u2013 All Topics",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-10T12:00:00Z",
+    "title": "Confirmed: 2024 was the hottest year on record, says UN weather agency",
+    "content": "The World Meteorological Organization (WMO) confirmed on 10 January 2025 that 2024 was the warmest year on record, based on six international datasets. The global average surface temperature was 1.55 \u00b0C (\u00b10.13 \u00b0C) above the 1850\u20131900 average, which means the world has likely experienced the first calendar year more than 1.5 \u00b0C above pre-industrial levels. The past ten years, 2015\u20132024, are the ten warmest on record, and ocean heat content reached a new record. 'Climate history is playing out before our eyes', said WMO Secretary-General Celeste Saulo, citing devastating extreme weather, rising sea levels and melting ice. WMO stressed that a single year above 1.5 \u00b0C does not mean that the long-term Paris Agreement goal, measured over decades, has been missed, but that every fraction of a degree of warming increases impacts on lives, economies and the planet. UN Secretary-General Ant\u00f3nio Guterres called on governments to deliver new national climate action plans in 2025."
+  },
+  {
+    "domain": "political",
+    "source_entity": "UN News \u2013 All Topics",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-10T12:00:00Z",
+    "title": "Critical aid blocked in Gaza, as fuel shortages threaten lifesaving services",
+    "content": "Israeli authorities continue to deny UN-led efforts to reach North Gaza with lifesaving aid, including the most recent attempt on 10 January 2025, the UN Office for the Coordination of Humanitarian Affairs (OCHA) reported. Across the Gaza Strip, only 10 of 21 UN-planned humanitarian movements on the previous day were facilitated; seven were denied outright, three were impeded and one was cancelled for security and logistical reasons. OCHA is deeply concerned about dwindling fuel supplies: Palestinian telecommunication providers warned that their services may start to shut down because they lack fuel for generators, and the lack of fuel is crippling the health system and bakeries. Humanitarian partners in central Gaza have exhausted their warehouse stocks, while about 120,000 metric tonnes of food aid \u2013 enough for full rations for the whole population for more than three months \u2013 remain stuck outside the Strip. The hunger crisis continues to worsen amid supply shortages, access restrictions and violent armed looting."
+  },
+  {
+    "domain": "security",
+    "source_entity": "US OFAC \u2013 Specially Designated Nationals List (SDN)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-10T15:00:00Z",
+    "title": "OFAC sanctions Gazprom Neft, Surgutneftegas and 183 vessels in sweeping action against Russia's oil sector",
+    "content": "On 10 January 2025 the US Treasury's Office of Foreign Assets Control (OFAC), in coordination with the US State Department and the UK, announced one of the largest sanctions actions against Russia's energy sector since 2022. OFAC designated the vertically integrated oil producers Gazprom Neft and Surgutneftegas together with more than two dozen of their subsidiaries, identified 183 oil-carrying vessels \u2013 many of them part of the 'shadow fleet' \u2013 as blocked property, and sanctioned oil traders, oilfield service providers, energy officials and the insurers Ingosstrakh and Alfastrakhovanie. A new determination under Executive Order 14024 authorises sanctions against any person operating in the energy sector of the Russian economy, and US persons will be prohibited from providing petroleum services to Russia from 27 February 2025. Treasury said the measures fulfil the G7 commitment to reduce Russian energy revenues and 'substantially increase the sanctions risks associated with the Russian oil trade', including shipping and financial facilitation. General licences allow the wind-down of transactions until 27 February 2025. The UK designated Gazprom Neft and Surgutneftegas on the same day."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "BIS Innovation Hub",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-14T09:00:00Z",
+    "title": "BIS Innovation Hub sets out 2025\u201326 work programme: AI-enabled supervision and green finance",
+    "content": "On 14 January 2025 the Bank for International Settlements published the 2025\u201326 work programme of its Innovation Hub. At the start of 2025 the Hub's portfolio comprised 26 active projects, with 31 projects completed since its establishment in 2019 and 16 new projects started in 2024. The first two new projects of 2025 will develop AI-enabled tools, one to support financial regulation and supervision (suptech) and one for green finance. The Hub's ongoing work on tokenisation and next-generation financial market infrastructure includes the Project Agor\u00e1 initiative with seven central banks and more than 40 private financial firms exploring tokenised correspondent banking for cross-border payments, and aims to exploit synergies across the existing project portfolio. The Hub serves as a focal point for a network of central bank innovation experts; its Swiss Centre is hosted in Zurich in cooperation with the Swiss National Bank."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "OPEC \u2013 Monthly Oil Market Report (MOMR)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-15T12:00:00Z",
+    "title": "OPEC MOMR January 2025: oil demand growth of 1.45 mb/d in 2025, first forecast of 1.43 mb/d for 2026",
+    "content": "In its Monthly Oil Market Report of 15 January 2025, OPEC kept its forecast for global oil demand growth in 2025 unchanged at 1.45 million barrels per day (mb/d), driven mainly by non-OECD countries such as India and China. In its first assessment for 2026, OPEC expects demand to grow by a similar 1.43 mb/d, with transportation fuels and continued expansion of air travel as the main drivers. The estimate of 2024 demand growth was reduced for the sixth time, to 1.5 mb/d, reflecting economic weakness in China; in July 2024 OPEC had still expected 2.25 mb/d. Supply growth from countries outside the OPEC+ Declaration of Cooperation is expected to be led by the United States, Brazil and Canada in both years. OPEC's demand view remains at the upper end of industry forecasts: on the same day the IEA projected 2025 demand growth of only 1.05 mb/d, implying a more comfortable supply balance."
+  },
+  {
+    "domain": "political",
+    "source_entity": "UN Secretary-General \u2013 Statements",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-15T20:00:00Z",
+    "title": "UN Secretary-General welcomes Gaza ceasefire and hostage release deal",
+    "content": "On 15 January 2025 UN Secretary-General Ant\u00f3nio Guterres welcomed the announcement of a deal to secure a ceasefire and hostage release in Gaza after 15 months of war, and commended the mediators Egypt, Qatar and the United States. The agreement, announced in Doha by Qatar's Prime Minister, took effect on 19 January with a first phase of about six weeks, during which hostages held by Hamas and Palestinian prisoners held by Israel are exchanged and negotiations on a permanent ceasefire are to begin. Guterres said the priority must be to ease the tremendous suffering caused by the conflict, called for rapid, unhindered humanitarian access, and stressed that advancing a two-state solution remains an urgent priority. On the first day of the ceasefire more than 630 aid trucks entered Gaza, at least 300 of them to the north; the World Food Programme aims at 150 trucks per day. Israel's Prime Minister stated on 18 January that the ceasefire is temporary and that Israel reserves the right to resume military operations."
+  },
+  {
+    "domain": "social",
+    "source_entity": "International Labour Organization (ILO)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-16T00:00:00Z",
+    "title": "ILO World Employment and Social Outlook: Trends 2025",
+    "content": "The ILO World Employment and Social Outlook (WESO) Trends 2025 report was published on January 16, 2025. Key findings: (1) Global unemployment rate held steady at 5.0% in 2024, with employment growth in line with labour force growth. However, youth unemployment remained high at 12.6%, with little improvement. (2) Global jobs gap reached 402 million in 2024: 186 million unemployed, 137 million temporarily unavailable to work, 79 million discouraged workers. (3) NEET rates (Not in Education, Employment or Training): 85.8 million young men (13.1%) and 173.3 million young women (28.2%) were NEET globally in 2024, up by 1 million and 1.8 million respectively from 2023. In low-income countries: young men 15.8 million (20.4%), young women 28.2 million (37.0%). (4) Informal work and working poverty returned to pre-pandemic levels; real wages only increased in some advanced economies. (5) Economic growth: 3.2% in 2024, down from 3.3% in 2023 and 3.6% in 2022. Similar growth expected in 2025, with gradual deceleration over medium term. (6) Labour force participation declined in low-income countries, increased in high-income nations (mainly older workers and women). Gender gaps remain wide. (7) Opportunities: Renewable energy jobs grew to 16.2 million worldwide (solar and hydrogen investment-driven); nearly half based in East Asia. Headline quote (ILO Director-General Gilbert F. Houngbo): 'Decent work and productive employment are essential for achieving social justice and the Sustainable Development Goals. To avoid exacerbating already strained social cohesion, escalating climate impacts, and surging debt, we must act now to tackle labour market challenges and create a fairer, more sustainable future.' Key pressures: geopolitical tensions, rising costs of climate change, unresolved sovereign debt issues, persistent inflation eroding real wages."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "Financial Stability Board (FSB)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-16T11:00:05Z",
+    "title": "FSB: Analytical Framework and Toolkit to Assess Climate-Related Vulnerabilities",
+    "content": "The FSB published on 16 January 2025 a new analytical framework and toolkit to assess climate-related vulnerabilities in the global financial system. Key elements: (1) Framework traces how physical and transition climate risks transmit and amplify within the global financial system, building on the FSB Financial Stability Surveillance Framework. (2) Three categories of forward-looking toolkit metrics: proxies (early signals on drivers of transition/physical risks); exposure metrics (direct and indirect exposures in real economy and financial system); risk metrics (quantify impacts for financial institutions). (3) Case study: crystallisation of physical climate risks via real estate markets and changes in insurance coverage. Quotes: 'The framework provides a forward-looking approach to capture the unique aspects of climate risks while staying rooted in traditional financial stability analysis' (Sarah Breeden, Bank of England Deputy Governor). Policy area: Climate-related Risks. Ref: 2/2025. Part of FSB Roadmap to Address Climate-related Financial Risks (G20 mandate, July 2021)."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "EUR-Lex \u2013 Official Journal of the EU",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-17T00:00:00Z",
+    "title": "EU Digital Operational Resilience Act (DORA) applies from 17 January 2025",
+    "content": "From 17 January 2025, Regulation (EU) 2022/2554 on digital operational resilience for the financial sector (DORA) and its technical standards apply across the EU, without a transitional period. DORA covers a wide range of financial entities, from credit and payment institutions to insurers, fund managers and crypto-asset service providers, and rests on five pillars: ICT risk management, classification and reporting of major ICT-related incidents, digital operational resilience testing including threat-led penetration testing, management of ICT third-party risk, and information sharing. Financial entities must be able to report major ICT incidents from day one and must submit registers of information on their contractual arrangements with ICT third-party providers, which competent authorities forward to the European Supervisory Authorities by 30 April 2025. On this basis the ESAs will designate critical ICT third-party providers, such as large cloud service providers, for direct EU oversight; the first designations are expected in the second half of 2025. In December 2024 the ESAs had urged entities to close remaining gaps, as several standards were finalised only late."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "IMF World Economic Outlook Update",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-17T00:00:00Z",
+    "title": "IMF WEO Update January 2025 \u2013 Global Growth 3.3%, US Upgraded, Trade Policy Risk",
+    "content": "IMF World Economic Outlook Update, January 2025: 'Global Growth: Divergent and Uncertain'. Published January 17, 2025. Global growth is projected at 3.3 percent both in 2025 and 2026, below the historical (2000\u201319) average of 3.7 percent. The forecast is broadly unchanged from the October 2024 WEO, primarily on account of an upward revision in the United States offsetting downward revisions in other major economies. Global headline inflation is expected to decline to 4.2 percent in 2025 and 3.5 percent in 2026, converging back to target earlier in advanced economies than in emerging market and developing economies. Medium-term risks to the baseline are tilted to the downside, while the near-term outlook is characterized by divergent risks. Upside risks could lift already-robust growth in the United States in the short run, whereas risks in other countries are on the downside amid elevated policy uncertainty. Policy-generated disruptions to the ongoing disinflation process could interrupt the pivot to easing monetary policy, with implications for fiscal sustainability and financial stability. Key risks: renewed inflationary pressures, trade policy uncertainty (US tariff proposals), geopolitical disruptions, abrupt shift in market sentiment. Country highlights: US growth revised up to 2.7% for 2025; euro area revised down to 1.0%; China growth 4.5%."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "National Bureau of Statistics of China",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-17T02:00:00Z",
+    "title": "China meets 5% growth target for 2024, but property investment falls 10.6%, the steepest decline on record",
+    "content": "China's National Bureau of Statistics reported on 17 January 2025 that GDP grew by 5.0% in 2024 to RMB 134.9 trillion, meeting the government's target of 'around 5%'. Growth accelerated to 5.4% year on year in the fourth quarter (third quarter: 4.6%) as stimulus measures announced since September took effect, and December exports surged as firms front-loaded shipments ahead of possible higher US tariffs. The property sector remained the main drag: real estate development investment fell by 10.6% in 2024, the largest annual decline on record, while new and existing home prices fell by 5.8% and 8.1% respectively. Fixed asset investment grew by only 3.2%, or 7.2% excluding real estate. China's population declined again, by 1.39 million to 1.408 billion. The statistics bureau cautioned that external headwinds persist and the foundation of the recovery is not yet solid."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "US OFAC \u2013 Specially Designated Nationals List (SDN)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-17T16:00:00Z",
+    "title": "OFAC sanctions Chinese firm linked to Salt Typhoon telecom hacks and hacker involved in US Treasury breach",
+    "content": "On 17 January 2025 the US Treasury's Office of Foreign Assets Control sanctioned Yin Kecheng, a Shanghai-based cyber actor affiliated with China's Ministry of State Security, for his involvement in the recent compromise of the Treasury Department's Departmental Offices network, which Treasury had detected on 8 December 2024. OFAC also designated Sichuan Juxinhe Network Technology, a cybersecurity company with direct involvement in the Salt Typhoon group, which recently compromised the network infrastructure of multiple major US telecommunication and internet service providers, including AT&T and Verizon, to access private communications. Treasury described the intrusions as an example of an increasing number of PRC state-backed cyber activities that require costly remediation; the action follows the designation of Integrity Technology Group on 3 January for its role in the Flax Typhoon intrusions. All property of the designated persons in the United States is blocked."
+  },
+  {
+    "domain": "political",
+    "source_entity": "US Department of the Treasury",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-17T22:00:00Z",
+    "title": "US Treasury to use extraordinary measures from 21 January 2025 as the debt limit is reached",
+    "content": "In a letter of 17 January 2025 to congressional leaders, US Treasury Secretary Janet Yellen notified Congress that Treasury will begin using extraordinary measures on 21 January 2025 to avoid breaching the statutory debt limit. The Fiscal Responsibility Act of 2023 had suspended the limit until 1 January 2025 and set a new limit, of roughly USD 36 trillion, effective 2 January. Treasury declared a 'debt issuance suspension period' from 21 January to 14 March 2025, during which it will suspend new investments of the Civil Service Retirement and Disability Fund and the Postal Service Retiree Health Benefits Fund; both funds will be made whole once the limit is raised or suspended. Yellen stressed that the period such measures may last is 'subject to considerable uncertainty' and urged Congress to 'act promptly to protect the full faith and credit of the United States'. The issue falls to the incoming administration, which takes office on 20 January; Republican lawmakers are divided on how to address the limit."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Federal Register (US Presidential Documents)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-20T20:00:00Z",
+    "title": "'America First Trade Policy': US President orders sweeping trade review and announces possible tariffs on Canada, Mexico and China",
+    "content": "On 20 January 2025, hours after his inauguration, the US President signed the memorandum 'America First Trade Policy', which orders federal agencies to conduct a comprehensive review of US trade policy, with most reports due by 1 April 2025. Agencies are to investigate the 'large and persistent annual trade deficit in goods' and recommend measures such as a global supplemental tariff; review unfair foreign trade practices and possible remedies, including Section 301 actions, safeguards and a national economic emergency under IEEPA; prepare the review of the US\u2013Mexico\u2013Canada Agreement; check China's compliance with the 2020 Phase One trade deal; assess the Section 232 tariffs on steel and aluminium; and study an 'External Revenue Service' to collect tariffs. The memorandum itself imposes no tariffs, but the President said 25% tariffs on imports from Canada and Mexico could take effect as early as 1 February and, on 21 January, signalled an additional 10% tariff on China. Addressing the World Economic Forum on 23 January, he said that companies not producing in America 'will have to pay a tariff'."
+  },
+  {
+    "domain": "environmental",
+    "source_entity": "IEA \u2013 Gas Market Report",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-21T09:00:00Z",
+    "title": "IEA: global gas balance to remain fragile in 2025 after halt of Russian gas transit via Ukraine",
+    "content": "The International Energy Agency's quarterly Gas Market Report, published on 21 January 2025, expects global natural gas markets to remain tight in 2025 as demand keeps rising while supply grows more slowly than before the pandemic and the energy crisis. Global gas demand rose by 2.8% (115 bcm) in 2024 to a new all-time high, well above the 2010\u20132020 average, driven mainly by Asia, while weak LNG supply growth and extreme weather added to market strains. Russian gas transit via Ukraine stopped on 1 January 2025; the IEA does not assume a restart, which reduces Russian pipeline supplies to the EU by about 13 bcm (15 bcm to Europe) compared with 2024. This does not pose an imminent supply security risk for the EU, but together with high storage withdrawals it raises Europe's LNG import needs and tightens the global balance. Moldova is far more vulnerable than the EU. Demand growth is forecast to slow to below 2% in 2025, with Asia accounting for more than half of the increase; a wave of new LNG export capacity led by the United States and Qatar will arrive mainly in the second half of the decade."
+  },
+  {
+    "domain": "social",
+    "source_entity": "WHO \u2013 Newsroom Statements",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-21T10:00:00Z",
+    "title": "WHO comments on United States' announcement of intent to withdraw from the Organization",
+    "content": "On 21 January 2025 the World Health Organization stated that it regrets the announcement that the United States intends to withdraw from the Organization. The announcement followed an executive order signed by the new US President on 20 January 2025, his first day in office, which also announced the US exit from the Paris climate agreement. WHO recalled that the United States was a founding member in 1948 and has shaped WHO's governance alongside the other Member States, including through the World Health Assembly and the Executive Board. Over seven decades, joint work contributed to milestones such as the eradication of smallpox and the near-eradication of polio. WHO highlighted reforms of accountability, cost-effectiveness and country impact implemented over the past seven years with US participation, and said it hopes the United States will reconsider and engage in constructive dialogue to maintain the partnership. A withdrawal takes effect one year after formal notification; the United States is WHO's largest single financial contributor, with about 18% of the 2022\u20132023 budget."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Financial Stability Board (FSB)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-22T10:53:00Z",
+    "title": "FSB: G20 Financial Regulatory Reforms Have Enhanced Securitisation Market Resilience",
+    "content": "The FSB published on 22 January 2025 the final evaluation of G20 securitisation reforms. Key findings: (1) IOSCO risk retention rules and Basel Committee prudential requirements have contributed to securitisation market resilience without material negative side-effects on financing to the economy. (2) Complex GFC-era structures (subprime securitisations, CDOs, re-securitisations) have declined significantly; market is more transparent. (3) Warning: The post-GFC securitisation market has not yet been tested through a full credit cycle \u2013 particularly relevant for CLOs, which have grown significantly. (4) Risk redistribution: Reforms contributed to shift of risk from banks to NBFI sector; banks moving toward higher-rated tranches. (5) Issues for consideration: monitoring risks from synthetic risk transfers and private credit; effectiveness of risk retention for CLOs; implementation differences across FSB jurisdictions. Quote from Benjamin Weigert (Deutsche Bundesbank): 'The evaluation highlights the importance of the G20 reforms in enhancing securitisation market resilience. Nonetheless, recent market developments reinforce the need for authorities to monitor risks.' Ref: 3/2025."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "CISA Cybersecurity Advisories",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-22T12:00:00Z",
+    "title": "CISA/FBI advisory AA25-022A: threat actors chained vulnerabilities in Ivanti Cloud Service Appliances",
+    "content": "The US Cybersecurity and Infrastructure Security Agency (CISA) and the FBI released joint Cybersecurity Advisory AA25-022A in response to the exploitation, in September 2024, of four vulnerabilities in Ivanti Cloud Service Appliances (CSA): CVE-2024-8963 (administrative bypass), CVE-2024-9379 (SQL injection) and CVE-2024-8190 and CVE-2024-9380 (remote code execution). According to CISA and trusted third-party incident response data, threat actors chained these vulnerabilities in two exploit paths to gain initial access, execute code remotely, obtain credentials and implant webshells on victim networks; in one confirmed compromise the actors moved laterally to two servers. All four vulnerabilities affect CSA version 4.6 before patch 519, which is end-of-life and no longer receives patches. CISA and the FBI urge administrators to upgrade to the latest supported version, hunt for malicious activity using the published detection methods and indicators of compromise, and treat credentials and sensitive data stored on affected appliances as compromised. The CVEs are unrelated to the separately disclosed Ivanti Connect Secure vulnerabilities of January 2025."
+  },
+  {
+    "domain": "political",
+    "source_entity": "Financial Stability Board (FSB)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-23T11:05:27Z",
+    "title": "FSB Work Programme for 2025",
+    "content": "The FSB published its Work Programme for 2025 on 23 January 2025, outlining key regulatory and financial stability priorities for the year. Priority areas: (1) Supporting global cooperation on financial stability; (2) Enhancing resilience of non-bank financial intermediation (NBFI) while preserving its benefits \u2013 major G20 deliverable; (3) Harnessing benefits of digital innovation (crypto-assets, AI in finance, cross-border payments) while containing risks \u2013 major G20 deliverable; (4) Implementing the systemically important financial institution (SIFI) framework; (5) Addressing financial risks from climate change \u2013 climate roadmap progress; (6) Enhancing cross-border payments; (7) Completing resolution reforms. Key G20 deliverables planned: NBFI leverage policy recommendations (Jul 2025); Vulnerabilities from AI in finance (Oct 2025); Thematic peer review on crypto-assets (Oct 2025); FSB Annual Report (Dec 2025). Context: FSB is chaired by Klaas Knot (DNB). Secretariat in Basel, hosted by BIS."
+  },
+  {
+    "domain": "technological",
+    "source_entity": "Federal Register (US Presidential Documents)",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-23T12:00:00Z",
+    "title": "US Executive Order 14178 'Strengthening American Leadership in Digital Financial Technology' prohibits a US CBDC",
+    "content": "On 23 January 2025 the US President signed Executive Order 14178, setting the policy of the new administration to 'support the responsible growth and use of digital assets, blockchain technology, and related technologies across all sectors of the economy'. The order prohibits agencies from establishing, issuing, circulating or promoting a central bank digital currency (CBDC) within the United States and halts ongoing CBDC initiatives. It promotes the development of lawful and legitimate dollar-backed stablecoins worldwide to protect the sovereignty of the US dollar, calls for regulatory clarity based on well-defined jurisdictional boundaries, and protects access to banking services for digital-asset firms. A President's Working Group on Digital Asset Markets is established to propose a federal regulatory framework for digital assets, including stablecoins, and to evaluate a possible national digital asset stockpile. The order revokes Executive Order 14067 of 2022 and the Treasury's 'Framework for International Engagement on Digital Assets'. On the same day the SEC rescinded its Staff Accounting Bulletin 121 on crypto-asset custody."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Bank of Japan \u2013 Monetary Policy Decisions",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-24T03:30:00Z",
+    "title": "Bank of Japan raises policy rate to 0.5%, the highest level since 2008",
+    "content": "At its Monetary Policy Meeting of 23\u201324 January 2025 the Bank of Japan decided, by an 8\u20131 majority vote, to raise its guideline for the uncollateralised overnight call rate from around 0.25% to around 0.5%, effective 27 January 2025; board member Toyoaki Nakamura dissented. It is the first hike since July 2024 and takes the policy rate to its highest level since 2008. In its quarterly Outlook Report the Board raised the median forecast for core CPI (all items less fresh food) to 2.7% for fiscal 2024, 2.4% for fiscal 2025 (from 1.9%) and 2.0% for fiscal 2026, citing higher import prices due to the weak yen and rising rice prices, while keeping real GDP growth forecasts at 1.1% and 1.0%. The Bank expects wages and prices to keep rising in a 'virtuous cycle', noted that global financial markets have been broadly stable, and stated that it will continue to raise the policy rate if the outlook is realised. Japan's December CPI, released the same day, rose 3.6% year on year. The yen strengthened by about 0.5% to around 155 per US dollar after the decision; higher Japanese rates are watched as a risk to yen-funded carry trades and as a factor for safe-haven flows into the Swiss franc."
+  },
+  {
+    "domain": "political",
+    "source_entity": "UN Press \u2013 Security Council Meetings Coverage",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-26T15:00:00Z",
+    "title": "Security Council holds emergency meeting as M23 advances on Goma, DR Congo",
+    "content": "On 26 January 2025 the UN Security Council held an emergency meeting after the M23 armed group advanced on Goma, the largest city in eastern Democratic Republic of the Congo and a humanitarian hub of about two million people. M23 had fired on positions of the UN stabilization mission MONUSCO on 23\u201324 January; within 48 hours two South African and one Uruguayan peacekeeper were killed. The DRC broke off diplomatic relations with Rwanda, and its foreign minister told the Council that Rwanda was committing 'a frontal aggression, a declaration of war'. The United States, France and the United Kingdom condemned Rwanda's backing of M23, which Kigali denies. In a press statement, Council members condemned the offensive, demanded that M23 stop its advance and reverse its territorial expansion, and called for the withdrawal of 'external forces'. As M23 entered Goma, the Council met again on 28 January, where a senior UN official urged de-escalation to avert a 'third Congo war'. The UN allocated USD 17 million from its emergency response fund."
+  },
+  {
+    "domain": "security",
+    "source_entity": "Council of the EU \u2013 Press",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-27T12:45:00Z",
+    "title": "EU Council extends economic sanctions against Russia for six months, until 31 July 2025",
+    "content": "On 27 January 2025 the Council of the European Union renewed its economic restrictive measures against Russia for a further six months, until 31 July 2025. The sanctions, first introduced in 2014 and significantly expanded since February 2022, cover trade, finance, energy, technology, dual-use goods, industry, transport and luxury goods, including the ban on imports of seaborne crude oil and certain petroleum products, the exclusion of Russian banks from SWIFT and the immobilisation of Russian central bank assets of around EUR 210 billion. Renewal requires unanimity: Hungary had threatened for weeks to block the extension and lifted its objection after receiving a declaration on its energy security following the end of gas transit through Ukraine. Since February 2022 the EU has adopted 15 sanctions packages; a 16th package is being prepared for the third anniversary of the invasion on 24 February 2025. Switzerland, which aligns with EU sanctions, had added 54 individuals and 30 entities to its Russia list on 23 December 2024."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Market data (LSEG / Bloomberg, via Reuters)",
+    "source_trust_level": "medium",
+    "timestamp": "2025-01-27T21:00:00Z",
+    "title": "DeepSeek shock: Nvidia loses about USD 590 billion in market value in record one-day drop",
+    "content": "On 27 January 2025 global technology stocks sold off after the Chinese start-up DeepSeek showed that its AI models can match leading US models at a fraction of the cost. Nvidia shares fell almost 17%, erasing about USD 589 billion of market capitalisation, the largest one-day loss of market value for any company in US stock market history and more than double Nvidia's previous record from September 2024. Broadcom fell 17%, TSMC 13%, and the Nasdaq Composite lost 3.1% while the S&P 500 fell 1.5%. DeepSeek-V3, launched on 10 January, was reportedly trained on Nvidia's lower-capability H800 chips for less than USD 6 million, and DeepSeek-R1, released the previous week, is reportedly 20 to 50 times cheaper to use than OpenAI's comparable model. Before the sell-off Nvidia traded at nearly 60 times earnings, compared with 22 for the S&P 500; the sell-off raised questions about the valuations and the very large AI investment plans of US technology firms."
+  },
+  {
+    "domain": "political",
+    "source_entity": "EFV \u2013 Swiss Federal Finance Administration",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-29T12:00:00Z",
+    "title": "Swiss Federal Council opens consultation on 'relief package 27' to stabilise federal finances",
+    "content": "At its meeting on 29 January 2025 the Swiss Federal Council adopted the consultation draft of relief package 27 (RP27) and opened the consultation, which runs until 5 May 2025. The package of 59 measures is intended to reduce the federal budget by about CHF 2.7 billion in 2027 and CHF 3.6 billion in 2028, so that the debt brake can be respected despite rising expenditure for the armed forces and the old-age pension system (including the 13th AHV pension). More than half of the measures require amendments to federal law. The proposals include cuts of more than CHF 460 million per year in education, research and innovation, as well as higher taxation of capital withdrawals from the second and third pillars. Even with the package, federal expenditure is expected to grow by more than 2% per year in the medium term. Several parties and the cantons had already criticised the proposals in autumn 2024, so the package is expected to be politically contested."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "Federal Reserve FOMC",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-29T19:00:00Z",
+    "title": "Fed FOMC January 2025 \u2013 Rates Held at 4.25-4.50% (Hawkish Hold)",
+    "content": "The Federal Reserve held the federal funds rate steady at 4.25-4.50% at the January 28-29, 2025 FOMC meeting. This marks a pause in the rate-cutting cycle after 100 basis points of cuts in 2024 (Sep, Nov, Dec). Chair Powell stated the Fed is 'not in a hurry' to adjust policy. Solid labor market, inflation remains 'somewhat elevated'. Decision: unanimous 12-0."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "BAZG \u2013 Swiss Foreign Trade Statistics",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-30T08:00:00Z",
+    "title": "Swiss foreign trade 2024: record exports driven almost entirely by chemicals and pharmaceuticals",
+    "content": "The Federal Office for Customs and Border Security (FOCBS/BAZG) reported on 30 January 2025 that Swiss exports rose by 3.2% (real: +2.5%) to a record CHF 282.9 billion in 2024, after declines in both directions of trade in 2023. The record was achieved almost exclusively by the chemical-pharmaceutical sector, whose exports grew by 10.0% (medicines +7.7%) and which accounts for more than half of total exports; exports of chemical-pharmaceutical raw and basic materials doubled within a year. Most other product groups recorded falling foreign sales: watch exports declined by 2.8% and jewellery by 4.5% after record years. Imports fell by 1.6% to CHF 222.3 billion, with imports from Asia at their lowest level since 2020. The opposing trends resulted in a record trade surplus of CHF 60.6 billion. The concentration on a single sector makes Swiss exports sensitive to sector-specific trade policy measures such as tariffs on pharmaceuticals."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "KOF Swiss Economic Institute \u2013 Economic Barometer",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-30T08:00:00Z",
+    "title": "KOF Economic Barometer rebounds to 101.5 in January 2025, above its long-term average",
+    "content": "The KOF Economic Barometer of ETH Zurich, a leading indicator of the Swiss business cycle, rose to 101.5 points in January 2025 from 99.6 in December, above the consensus of 100.2 and back above its long-term average of 100. According to KOF, the majority of production-side indicator bundles developed positively, while demand-side indicators remained under pressure. In December the barometer had fallen by 3.4 points to below its long-term average, driven by declines in manufacturing, other services and hospitality and by weaker foreign and consumer demand; manufacturers in chemicals and pharmaceuticals, textiles, automotive and machinery reported pessimistic expectations. Since early 2024 the indicator has fluctuated around its long-term average without signs of a sustained recovery, consistent with moderate Swiss growth of around 1.3% expected for 2025."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "ECB Monetary Policy Decision",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-30T13:45:00Z",
+    "title": "ECB January 2025 \u2013 Rate Cut -25bp, Deposit Rate 2.75%",
+    "content": "On 30 January 2025, the ECB Governing Council decided to lower the three key ECB interest rates by 25 basis points. The deposit facility rate was reduced to 2.75%, the main refinancing operations rate to 2.90%, and the marginal lending facility rate to 3.15%, with effect from 5 February 2025. Rationale: The disinflation process is well on track. Inflation has continued to develop broadly in line with the December 2024 Eurosystem staff macroeconomic projections for the euro area and is set to return to the Governing Council's 2% medium-term target in the course of 2025. Most measures of underlying inflation suggest that inflation will settle at around the target on a sustained basis. Domestic inflation remains high, mostly because wages and prices in certain sectors are still adjusting to the past inflation surge with a substantial delay. But wage growth is moderating as expected, and profits are partially buffering the impact on inflation. Annual inflation increased to 2.4% in December 2024, up from 2.2% in November; services inflation edged up to 4.0%. The Governing Council is determined to ensure that inflation stabilises sustainably at its 2% medium-term target. It will follow a data-dependent and meeting-by-meeting approach to determining the appropriate monetary policy stance and is not pre-committing to a particular rate path."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "SNB Data Portal \u2013 EUR/CHF + USD/CHF Exchange Rates",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-31T16:00:00Z",
+    "title": "SNB data portal: EUR/CHF monthly average of 0.9416 in January 2025",
+    "content": "According to the Swiss National Bank's data portal (cube 'devkum', monthly averages of foreign exchange rates, 11:00 fixing), the euro traded at an average of 0.94162 Swiss francs in January 2025. The franc thus remained close to its strongest levels against the euro, after the SNB had cut its policy rate by 50 basis points to 0.5% in December 2024 and stated that it remains willing to intervene in the foreign exchange market as necessary. The EUR/CHF rate is a key transmission channel for imported inflation in Switzerland and a central reference variable for the SNB's monetary policy."
+  },
+  {
+    "domain": "economic",
+    "source_entity": "CBOE \u2013 VIX Volatility Index Daily History",
+    "source_trust_level": "high",
+    "timestamp": "2025-01-31T16:00:00Z",
+    "title": "CBOE VIX volatility index: January 2025 monthly average of 16.76 (range 14.85\u201319.54)",
+    "content": "According to the CBOE VIX daily history, the CBOE Volatility Index (VIX), which measures expected 30-day volatility of the S&P 500, closed at an average of 16.76 in January 2025, within a range of 14.85 to 19.54 over 22 trading days. Implied equity volatility thus stayed close to its long-term median despite the change of US administration and announcements on tariffs; readings above 30 are usually associated with market stress."
+  }
+]
