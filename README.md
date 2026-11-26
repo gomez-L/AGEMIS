@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">AGEMIS</h1>
-<p align="center"><br>Agentic generation and evaluation of modular integrated scenarios for financial stability</p>
+<p align="center"><br>Agentic generation and evaluation of modular integrated scenarios</p>
 
 This AGEMIS platform was developed during a two-semester research project within the **AFE programme**
 (Applied Research and Development, or Scientific Assignment Group Project) at the Bern University of Applied Sciences.
