@@ -6,7 +6,7 @@
 <p align="center"><br>Agentic generation and evaluation of modular integrated scenarios</p>
 
 This AGEMIS platform was developed during a two-semester research project within the **AFE programme**
-(Applied Research and Development, or Scientific Assignment Group Project) at the Bern University of Applied Sciences.
+(Applied Research and Development) at the Bern University of Applied Sciences.
 
 **Project supervision:** Prof. Dr. Lucia Gomez Teijeiro
 
@@ -22,7 +22,7 @@ The students contributed in equal proportion across the project, with responsibi
 
 ---
 
-## What is AGEMIS?
+## What is AGEMIS? Which specific use case is this platform built for?
 
 Central banks and financial supervisors have to make decisions under constant uncertainty: geopolitical
 tensions, technological shifts, climate change and market shocks interact in ways that standard stress
