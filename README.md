@@ -11,7 +11,7 @@ This AGEMIS platform was developed during a two-semester research project within
 **Project supervision:** Prof. Dr. Lucia Gomez Teijeiro
 
 **Student contributors:** Lina Sophie Schwonnek, Kay Jana Sheppard, Mathias Daniel Barmet, and David Seppi. 
-The students contributed in equal proportion across the project, with responsibilities distributed.
+The students contributed equally to the project, with responsibilities shared across research, implementation, and evaluation.
 
 > [!NOTE]
 > **Published in the *Journal of Digital Banking*.** The design-thinking exercise behind this platform is described in:
