@@ -6,6 +6,18 @@
 <p align="center"><b>Agentic Horizon Scanning and Scenario Generation</b><br>
 Agentic generation and evaluation of modular integrated scenarios for financial stability</p>
 
+## Project context
+
+AGEMIS was developed during a two-semester research project within the **AFE programme**
+(Applied Research and Development, or Scientific Assignment Group Project) at the
+Bern University of Applied Sciences.
+
+**Project supervision:** Prof. Dr. Lucia Gomez Teijeiro
+
+**Student contributors:** Lina Sophie Schwonnek, Kay Jana Sheppard, Mathias Daniel Barmet,
+and David Seppi. The students contributed in equal proportion across the project, with
+responsibilities distributed across different parts of the platform.
+
 > [!NOTE]
 > **Published in the *Journal of Digital Banking*.** The design-thinking exercise behind this platform is described in:
 >
@@ -130,5 +142,9 @@ If you use AGEMIS or build on its design, please cite the paper:
 AGEMIS was developed at the Institute of Applied Data Science and Finance, Bern University of Applied
 Sciences, with the Geneva School of Economics and Management, University of Geneva. The ideas behind it were
 shaped by the roundtable "Horizon Scanning: Which Future to Prepare For?" at the BIS Innovation Summit 2025.
+The platform originated in the two-semester AFE programme (Applied Research and Development, or Scientific
+Assignment Group Project) and was supervised by Prof. Dr. Lucia Gomez Teijeiro. Lina Sophie Schwonnek,
+Kay Jana Sheppard, Mathias Daniel Barmet and David Seppi contributed equally to the research project,
+with responsibilities across different parts of the platform.
 The research was partially supported by the Marie Skłodowska-Curie Actions under the European Union's Horizon
 Europe programme (Industrial Doctoral Network on Digital Finance, DIGITAL; Project No. 101119635).
